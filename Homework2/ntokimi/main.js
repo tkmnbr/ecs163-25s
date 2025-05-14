@@ -89,14 +89,105 @@ function drawMap(data, geo) {
 }
 
 
-
-
-
-
 // sankey (focus)
-function drawSankey(data) {
-  // TODO: sankey diagram
+function buildSankeyData(data) {
+  // rollup each data
+  const counts = d3.rollups(
+    data,
+    v => v.length,
+    d => d.employment_type,
+    d => d.experience_level,
+    d => d.company_size
+  );
+
+  const links = [];
+  const nodesSet = new Set();
+  counts.forEach(([empType, levelArr]) => {
+    levelArr.forEach(([expLevel, sizeArr]) => {
+      // employment_type → experience_level
+      nodesSet.add(empType);
+      nodesSet.add(expLevel);
+      const valEL = d3.sum(sizeArr, d => d[1]);
+      links.push({ source: empType, target: expLevel, value: valEL });
+      // experience_level → company_size
+      sizeArr.forEach(([compSize, cnt]) => {
+        nodesSet.add(compSize);
+        links.push({ source: expLevel, target: compSize, value: cnt });
+      });
+    });
+  });
+  // create nodes array
+  const nodes = Array.from(nodesSet).map(id => ({ id }));
+  return { nodes, links };
 }
+
+function drawSankey(data) {
+  const svg = d3.select("#sankey");
+  const W   = svg.node().clientWidth;
+  const H   = svg.node().clientHeight;
+
+  const margin = { top: 25, right: 10, bottom: 20, left: 10 };
+  const width  = W - margin.left - margin.right;
+  const height = H - margin.top - margin.bottom;
+
+  const g = svg.append("g")
+    .attr("transform", `translate(${margin.left},${margin.top})`);
+
+  const sankeyData = buildSankeyData(data);
+
+  const { nodes, links } = d3.sankey()
+    .nodeId(d => d.id)
+    .nodeWidth(15)    
+    .nodePadding(10)    
+    .extent([[0, 0], [width, height]])
+    ({
+      nodes: sankeyData.nodes.map(d => ({ ...d })),
+      links: sankeyData.links.map(d => ({ ...d }))
+    });
+
+  const color = d3.scaleOrdinal(d3.schemeTableau10)
+    .domain(nodes.map(d => d.id));
+
+  g.append("g")
+    .selectAll("path")
+    .data(links)
+    .join("path")
+      .attr("d", d3.sankeyLinkHorizontal())
+      .attr("stroke-width", d => Math.max(1, d.width))
+      .attr("stroke", d => color(d.source.id))
+      .attr("fill", "none")
+      .attr("opacity", 0.5);
+
+  const nodeG = g.append("g")
+    .selectAll("g")
+    .data(nodes)
+    .join("g")
+      .attr("transform", d => `translate(${d.x0},${d.y0})`);
+
+  nodeG.append("rect")
+    .attr("height", d => d.y1 - d.y0)
+    .attr("width", d => d.x1 - d.x0)
+    .attr("fill", d => color(d.id))
+    .attr("stroke", "#333");
+
+  nodeG.append("text")
+    .attr("x", d => d.x0 < width / 2 ? (d.x1 - d.x0) + 4 : -4)
+    .attr("y", d => (d.y1 - d.y0) / 2)
+    .attr("dy", "0.35em")
+    .attr("text-anchor", d => d.x0 < width / 2 ? "start" : "end")
+    .style("font-size", "10px")
+    .text(d => d.id);
+
+  svg.append("text")
+    .attr("x", W / 2)
+    .attr("y", margin.top / 2)
+    .attr("text-anchor", "middle")
+    .style("font-size", "14px")
+    .style("font-weight", "bold")
+    .text("Flow: Employment → Experience → Company Size");
+}
+
+
 
 // histgram (context)
 function drawHistogram(data) {
