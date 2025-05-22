@@ -1,0 +1,46 @@
+<!doctype html>
+<html lang="en" style="width:100%;height:100%;">
+<head>
+	<meta charset="utf-8">
+	<meta name="description" content="">
+	<title>Data Science Salary Dashboard</title>
+
+	<style>
+		body { margin: 0; font-family: sans-serif; }
+		.grid-container {
+		display: grid;
+		grid-template:
+			"header header" auto
+			"overview focus" 1fr
+			"context context" 300px
+			/ 1fr 2fr;
+		height: 100vh;
+		}
+		header { grid-area: header; background: #eee; text-align: center; }
+		.overview { grid-area: overview; padding: 0.5rem; padding-bottom: 2.0rem; }
+		.focus    { grid-area: focus;    padding: 1.0rem;}
+		.context  { grid-area: context;  padding: 0.5rem; padding-top: 3.0rem;}
+		svg { width: 100%; height: 100%; }
+	</style>
+</head>
+
+<body style="width:100%;height:100%;margin: 0;">
+	<div class="grid-container">
+		<header><h1>Data Science Salary Dashboard</h1></header>
+		<div class="overview">
+			<h4 class="chart-title">Average Salary by Country (USD)</h4>
+			<svg id="map"></svg>
+		</div>
+		<div class="focus"   ><svg id="sankey"></svg></div>
+		<div class="context" ><svg id="histogram"></svg></div>
+  	</div>
+
+	<!-- D3.js -->
+	<script src="https://d3js.org/d3.v7.min.js"></script>
+	<script src="https://cdn.jsdelivr.net/npm/d3-sankey@0.12.3/dist/d3-sankey.min.js"></script>
+	<!-- TopoJSON for world map -->
+	<script src="https://unpkg.com/topojson-client@3"></script>
+
+  	<script src="main.js"></script>
+</body>
+</html>

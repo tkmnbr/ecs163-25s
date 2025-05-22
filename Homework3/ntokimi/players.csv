@@ -1,0 +1,1487 @@
+nameFirst,nameLast,nameGiven,playerID,yearID,stint,teamID,lgID,G,AB,R,H,2B,3B,HR,RBI,SB,CS,BB,SO,IBB,HBP,SH,SF,GIDP,salary
+Nick,Ahmed,Nicholas Mark,ahmedni01,2015,1,ARI,NL,134,421,49,95,17,6,9,34,4,5,29,81,1,1,5,3,4,508500
+Chase,Anderson,Robert Chase,anderch01,2015,1,ARI,NL,28,48,0,5,0,0,0,3,0,0,1,23,0,0,8,0,2,512500
+Andrew,Chafin,Andrew Gregory,chafian01,2015,1,ARI,NL,66,3,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,507500
+Josh,Collmenter,Joshua Michael,collmjo01,2015,1,ARI,NL,44,27,2,5,0,0,0,1,0,0,3,9,0,0,2,0,1,1400000
+Patrick,Corbin,Patrick Alan,corbipa01,2015,1,ARI,NL,16,25,1,3,0,0,0,3,0,0,3,11,0,0,1,0,1,524000
+Rubby,De La Rosa,Rubby Carlos,delarru01,2015,1,ARI,NL,32,64,3,6,0,0,0,2,0,0,0,25,0,0,4,0,0,516000
+Randall,Delgado,Randall Enrique,delgara01,2015,1,ARI,NL,64,1,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,526000
+Paul,Goldschmidt,Paul Edward,goldspa01,2015,1,ARI,NL,159,567,103,182,38,2,33,110,21,5,118,151,29,2,0,7,16,3100000
+Tuffy,Gosewisch,James Benjamin,gosewtu01,2015,1,ARI,NL,38,128,9,27,6,0,1,13,2,1,8,23,0,1,0,1,2,514500
+Luis,Avilan,Luis Armando,avilalu01,2015,1,ATL,NL,50,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,530000
+Christian,Bethancourt,Christian Gabriel,bethach01,2015,1,ATL,NL,48,155,16,31,8,0,2,12,1,1,5,33,1,0,0,0,7,507500
+Trevor,Cahill,Trevor John,cahiltr01,2015,1,ATL,NL,15,5,0,1,0,0,0,0,0,0,0,2,0,0,0,0,0,12000000
+Alberto,Callaspo,Alberto Jose,callaal01,2015,1,ATL,NL,37,107,12,22,2,0,1,8,0,0,14,10,1,0,0,2,4,3000000
+Todd,Cunningham,Thomas David,cunnito01,2015,1,ATL,NL,39,86,13,19,4,0,0,4,2,1,5,17,1,2,0,0,1,507500
+Mike,Foltynewicz,Michael Gary,foltymi01,2015,1,ATL,NL,18,28,0,2,1,0,0,3,0,0,0,19,0,0,1,1,1,508750
+Freddie,Freeman,Frederick Charles,freemfr01,2015,1,ATL,NL,118,416,62,115,27,0,18,66,3,1,56,98,4,7,0,2,6,8500000
+Jonny,Gomes,Jonathan Johnson,gomesjo01,2015,1,ATL,NL,83,195,27,43,7,0,7,22,1,1,28,67,1,3,0,2,5,4000000
+Philip,Gosselin,Philip David,gosseph01,2015,1,ATL,NL,20,40,2,13,4,0,0,2,2,0,2,5,0,0,0,0,0,507500
+Jason,Grilli,Jason Michael,grillja01,2015,1,ATL,NL,36,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4250000
+Brad,Brach,Brad,brachbr01,2015,1,BAL,AL,62,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,523000
+Zach,Britton,Zachary Grant,brittza01,2015,1,BAL,AL,64,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3200000
+Everth,Cabrera,Everth,cabreev01,2015,1,BAL,AL,29,96,7,20,2,0,0,4,2,0,5,22,0,1,1,2,4,2400000
+Wei-Yin,Chen,Wei-Yin,chenwe02,2015,1,BAL,AL,31,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4750000
+Steve,Clevenger,Steven Scott,clevest01,2015,1,BAL,AL,30,101,11,29,4,2,2,15,0,0,4,13,1,0,0,0,3,514000
+Chris,Davis,Christopher Lyn,davisch02,2015,1,BAL,AL,160,573,100,150,31,0,47,117,2,3,84,208,6,8,0,5,6,12000000
+Alejandro,De Aza,Alejandro Alberto,deazaal01,2015,1,BAL,AL,30,103,16,22,4,1,3,7,2,2,7,34,2,2,0,0,1,5000000
+Ryan,Flaherty,Ryan Edward,flahery01,2015,1,BAL,AL,91,267,34,54,8,3,9,31,0,0,26,81,2,4,2,2,8,1075000
+Kevin,Gausman,Kevin John,gausmke01,2015,1,BAL,AL,25,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,522000
+Miguel,Gonzalez,Miguel Angel,gonzami03,2015,1,BAL,AL,26,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3275000
+J. J.,Hardy,James Jerry,hardyjj01,2015,1,BAL,AL,114,411,45,90,14,0,8,37,0,0,20,88,0,0,2,4,11,11500000
+Matt,Barnes,Matthew D.,barnema01,2015,1,BOS,AL,32,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,508500
+Mookie,Betts,Markus Lynn,bettsmo01,2015,1,BOS,AL,145,597,92,174,42,8,18,77,21,6,46,82,1,2,3,6,2,514500
+Xander,Bogaerts,Xander Jan,bogaexa01,2015,1,BOS,AL,156,613,84,196,35,3,7,81,10,2,32,101,1,3,3,3,16,543000
+Jackie,Bradley,Jackie,bradlja02,2015,1,BOS,AL,74,221,43,55,17,4,10,43,3,0,27,69,0,3,1,3,5,528000
+Craig,Breslow,Craig Andrew,breslcr01,2015,1,BOS,AL,45,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2000000
+Clay,Buchholz,Clay Daniel,buchhcl01,2015,1,BOS,AL,18,6,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,12000000
+Garin,Cecchini,Garin,cecchga01,2015,1,BOS,AL,2,4,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,508500
+Allen,Craig,Allen Thomas,craigal01,2015,1,BOS,AL,36,79,6,12,1,0,1,3,0,0,7,26,0,2,0,0,2,5500000
+Ryan,Hanigan,Ryan Michael,hanigry01,2015,1,BOS,AL,54,174,28,43,8,0,2,16,0,0,20,39,0,4,1,1,6,3500000
+Jose,Abreu,Jose Dariel,abreujo02,2015,1,CHA,AL,154,613,88,178,34,3,30,101,0,0,39,140,11,15,0,1,16,8666000
+Matt,Albers,Matthew James,alberma01,2015,1,CHA,AL,30,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1500000
+Gordon,Beckham,James Gordon,beckhgo01,2015,1,CHA,AL,100,211,24,44,8,0,6,20,0,1,19,43,1,2,1,4,6,2000000
+Emilio,Bonifacio,Emilio Jose,bonifem01,2015,1,CHA,AL,47,78,5,13,2,0,0,4,1,4,2,27,0,1,1,0,1,3000000
+Melky,Cabrera,Melky,cabreme01,2015,1,CHA,AL,158,629,70,172,36,2,12,77,3,0,40,88,2,2,2,10,18,13000000
+John,Danks,John William,danksjo01,2015,1,CHA,AL,30,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,15750000
+Kyle,Drabek,Kyle Jordan,drabeky01,2015,1,CHA,AL,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,518200
+Zach,Duke,Zachary Thomas,dukeza01,2015,1,CHA,AL,71,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4500000
+Adam,Eaton,Adam Cory,eatonad02,2015,1,CHA,AL,153,610,98,175,28,9,14,56,18,8,58,131,2,14,5,2,5,850000
+Tyler,Flowers,Cole Tyler,flowety01,2015,1,CHA,AL,112,331,21,79,12,0,9,39,0,1,21,104,0,6,2,1,8,2675000
+Avisail,Garcia,Avisail Antonio,garciav01,2015,1,CHA,AL,148,553,66,142,17,2,13,59,7,7,36,141,3,8,0,4,13,523000
+Conor,Gillaspie,Conor Michael,gillaco01,2015,1,CHA,AL,58,173,10,41,11,1,3,15,0,1,9,34,1,1,0,2,2,550000
+Javy,Guerra,Luis Javier,guerrja01,2015,1,CHA,AL,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,937500
+Arismendy,Alcantara,Arismendy,alcanar01,2015,1,CHN,NL,11,26,5,2,0,0,0,1,1,0,5,11,0,0,1,0,0,510000
+Jake,Arrieta,Jacob Joseph,arrieja01,2015,1,CHN,NL,33,79,5,12,1,1,2,2,0,0,1,45,0,0,3,0,1,3630000
+Dallas,Beeler,Dallas James,beeleda01,2015,1,CHN,NL,3,3,0,1,1,0,0,0,0,0,0,1,0,0,0,0,0,508000
+Welington,Castillo,Welington Andres,castiwe01,2015,1,CHN,NL,24,43,5,7,2,0,2,5,0,0,3,12,1,1,0,0,0,2100000
+Starlin,Castro,Starlin DeJesus,castrst01,2015,1,CHN,NL,151,547,52,145,23,2,11,69,5,5,21,91,6,5,1,4,18,6857143
+Chris,Coghlan,Christopher B.,coghlch01,2015,1,CHN,NL,148,440,64,110,25,6,16,41,11,2,58,94,6,3,1,1,8,2505000
+Phil,Coke,Phillip Douglas,cokeph01,2015,1,CHN,NL,16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2250000
+Chris,Denorfia,Christopher Anthony,denorch01,2015,1,CHN,NL,103,212,18,57,11,1,3,18,0,1,15,56,1,1,2,1,7,2600000
+Dexter,Fowler,William Dexter,fowlede01,2015,1,CHN,NL,156,596,102,149,29,8,17,46,20,7,84,154,1,5,2,3,4,9500000
+Justin,Grimm,Justin Scott,grimmju01,2015,1,CHN,NL,62,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,531500
+Jason,Hammel,Jason Aaron,hammeja01,2015,1,CHN,NL,32,65,6,11,1,0,0,4,0,0,1,18,0,0,3,1,1,9000000
+Burke,Badenhop,Burke Heinrich,badenbu01,2015,1,CIN,NL,68,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1000000
+Homer,Bailey,David Dewitt,baileho02,2015,1,CIN,NL,2,4,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,10000000
+Brennan,Boesch,Brennan Philip,boescbr01,2015,1,CIN,NL,51,89,4,13,2,0,1,5,1,0,4,30,0,1,0,0,0,1250000
+Jason,Bourgeois,Jason Jerrod,bourgja01,2015,1,CIN,NL,68,196,28,47,5,2,3,14,3,1,14,33,0,1,1,0,2,522500
+Jay,Bruce,Jay Allen,bruceja01,2015,1,CIN,NL,157,580,72,131,35,4,26,87,9,5,58,145,8,2,0,9,10,12000000
+Marlon,Byrd,Marlon Jerrard,byrdma01,2015,1,CIN,NL,96,359,46,85,13,3,19,42,2,1,23,101,1,3,0,3,6,8000000
+Aroldis,Chapman,Albertin Aroldis,chapmar01,2015,1,CIN,NL,65,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8050000
+Tony,Cingrani,Anthony Michael,cingrto01,2015,1,CIN,NL,35,2,1,0,0,0,0,1,0,0,0,1,0,0,0,0,0,525500
+Zack,Cozart,Zachary Warren,cozarza01,2015,1,CIN,NL,53,194,28,50,10,1,9,28,3,3,14,29,1,2,1,3,4,2350000
+Johnny,Cueto,Johnny,cuetojo01,2015,1,CIN,NL,19,37,1,6,0,0,0,0,0,0,1,10,0,0,5,0,0,10000000
+Anthony,DeSclafani,Anthony James,desclan01,2015,1,CIN,NL,31,58,1,9,1,0,0,3,0,0,3,33,0,0,2,1,0,507500
+Jumbo,Diaz,Jose Rafael,diazju03,2015,1,CIN,NL,61,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,510000
+Todd,Frazier,Todd B.,frazito01,2015,1,CIN,NL,157,619,82,158,43,1,35,89,13,8,44,137,3,7,1,7,19,4500000
+Kevin,Gregg,Kevin Marschall,greggke01,2015,1,CIN,NL,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1500000
+Billy,Hamilton,Billy R.,hamilbi02,2015,1,CIN,NL,114,412,56,93,8,3,4,28,57,8,28,75,0,1,9,4,5,545000
+Austin,Adams,Austin David,adamsau01,2015,1,CLE,AL,28,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,507700
+Cody,Allen,Cody Edward,allenco01,2015,1,CLE,AL,70,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,547100
+Scott,Atchison,Scott Barham,atchisc01,2015,1,CLE,AL,23,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,900000
+Mike,Aviles,Michael Anthony,avilemi01,2015,1,CLE,AL,98,290,37,67,10,0,5,17,3,1,20,38,0,1,5,1,18,3500000
+Trevor,Bauer,Trevor Andrew,bauertr01,2015,1,CLE,AL,31,6,0,1,0,0,0,0,0,0,1,1,0,0,0,0,0,1940000
+Michael,Bourn,Michael Ray,bournmi01,2015,1,CLE,AL,95,289,29,71,12,1,0,19,13,5,29,76,0,0,7,1,2,13500000
+Michael,Brantley,Michael Charles,brantmi02,2015,1,CLE,AL,137,529,68,164,45,0,15,84,15,1,60,51,8,2,0,5,14,5875000
+Carlos,Carrasco,Carlos Luis,carraca01,2015,1,CLE,AL,30,1,0,1,0,0,0,0,0,0,0,0,0,0,2,0,0,2337500
+Lonnie,Chisenhall,Lonnie David,chiselo01,2015,1,CLE,AL,106,333,38,82,19,1,7,44,4,1,23,69,3,1,2,3,0,2250000
+Kyle,Crockett,Kyle Richard,crockky01,2015,1,CLE,AL,31,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,510900
+Gavin,Floyd,Gavin Christopher,floydga01,2015,1,CLE,AL,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4000000
+Yan,Gomes,Yan,gomesya01,2015,1,CLE,AL,95,363,38,84,22,0,12,45,0,0,13,104,1,7,0,6,11,1000000
+Nick,Hagadone,Nicholas Michael,hagadni01,2015,1,CLE,AL,36,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,517100
+Nolan,Arenado,Nolan James,arenano01,2015,1,COL,NL,157,616,97,177,43,4,42,130,2,5,34,110,13,4,0,11,17,512500
+John,Axford,John Berton,axforjo01,2015,1,COL,NL,60,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2600000
+Rafael,Betancourt,Rafael Jose,betanra01,2015,1,COL,NL,45,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1000000
+Charlie,Blackmon,Charles Cobb,blackch02,2015,1,COL,NL,157,614,93,176,31,9,17,58,43,13,46,112,2,13,5,4,4,517500
+Rex,Brothers,Rex Coleman,brothre01,2015,1,COL,NL,17,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1400000
+Brooks,Brown,Brooks Steven,brownbr02,2015,1,COL,NL,36,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,509500
+Eddie,Butler,Timothy Edward,butleed01,2015,1,COL,NL,16,23,0,1,0,0,0,0,0,0,0,13,0,0,1,0,0,509500
+Daniel,Descalso,Daniel William,descada01,2015,1,COL,NL,101,185,22,38,3,2,5,22,1,2,20,45,6,0,4,0,3,1500000
+Corey,Dickerson,McKenzie Corey,dickeco01,2015,1,COL,NL,65,224,30,68,18,2,10,31,0,1,10,56,0,0,0,0,3,512500
+Christian,Friedrich,Christian Louis Patrick,friedch01,2015,1,COL,NL,68,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,512500
+Carlos,Gonzalez,Carlos Eduardo,gonzaca01,2015,1,COL,NL,153,554,87,150,25,2,40,97,2,0,46,133,6,1,1,6,11,16000000
+Al,Alburquerque,Alberto Jose,albural01,2015,1,DET,AL,67,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1725000
+Alex,Avila,Alexander Thomas,avilaal01,2015,1,DET,AL,67,178,21,34,5,0,4,13,0,1,40,66,0,0,1,0,4,5400000
+Miguel,Cabrera,Jose Miguel,cabremi01,2015,1,DET,AL,119,429,64,145,28,1,18,76,1,1,77,82,15,3,0,2,19,22000000
+Nick,Castellanos,Nicholas A.,casteni01,2015,1,DET,AL,154,549,42,140,33,6,15,73,0,3,39,152,1,1,0,6,21,525000
+Yoenis,Cespedes,Yoenis,cespeyo01,2015,1,DET,AL,102,403,62,118,28,2,18,61,3,4,19,87,2,1,0,4,9,10500000
+Joba,Chamberlain,Justin Louis,chambjo03,2015,1,DET,AL,30,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1000000
+Rajai,Davis,Rajai Lavae,davisra01,2015,1,DET,AL,112,341,55,88,16,11,8,30,18,8,22,76,0,3,1,3,5,5000000
+Tom,Gorzelanny,Thomas Stephen,gorzeto01,2015,1,DET,AL,48,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1000000
+Anthony,Gose,Anthony Robert,gosean01,2015,1,DET,AL,140,485,73,123,24,8,5,26,23,11,45,145,0,3,2,0,11,515000
+Shane,Greene,Shane,greensh02,2015,1,DET,AL,18,5,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,515000
+Jose,Altuve,Jose Carlos,altuvjo01,2015,1,HOU,AL,154,638,86,200,40,4,15,66,38,13,33,67,8,9,3,6,17,2500000
+Roberto,Hernandez,Roberto,carmofa01,2015,1,HOU,AL,20,2,1,0,0,0,0,0,0,0,1,2,0,0,0,0,0,2650000
+Chris,Carter,Vernon Christopher,cartech02,2015,1,HOU,AL,129,391,50,78,17,0,24,64,1,2,57,151,1,6,0,5,5,4175000
+Jason,Castro,Jason Michael,castrja01,2015,1,HOU,AL,104,337,38,71,19,0,11,31,0,0,33,115,1,2,0,3,5,4000000
+Hank,Conger,Hyun Choi,congeha01,2015,1,HOU,AL,73,201,25,46,11,0,11,33,0,1,23,63,0,2,1,2,6,1075000
+Sam,Deduno,Samuel,dedunsa01,2015,1,HOU,AL,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,525100
+Scott,Feldman,Scott Wynne,feldmsc01,2015,1,HOU,AL,18,2,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,10000000
+Josh,Fields,Joshua David,fieldjo03,2015,1,HOU,AL,54,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,516700
+Evan,Gattis,James Evan,gattiev01,2015,1,HOU,AL,153,566,66,139,20,11,27,88,0,1,30,119,3,3,0,5,13,526500
+Marwin,Gonzalez,Marwin Javier,gonzama01,2015,1,HOU,AL,120,344,44,96,18,1,12,34,4,5,16,74,0,3,7,0,9,1062500
+Luke,Gregerson,Lucas John,gregelu01,2015,1,HOU,AL,64,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6000000
+Robbie,Grossman,Robert Edward,grossro01,2015,1,HOU,AL,24,49,7,7,2,0,1,5,0,0,5,17,0,0,0,0,0,515000
+Lorenzo,Cain,Lorenzo Lamar,cainlo01,2015,1,KCA,AL,140,551,101,169,34,6,16,72,28,6,37,98,4,12,0,4,16,2725000
+Louis,Coleman,Harold Louis,colemlo01,2015,1,KCA,AL,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,725000
+Christian,Colon,Christian Anthony,colonch01,2015,1,KCA,AL,43,107,8,31,5,0,0,6,3,2,11,17,0,0,1,0,2,509525
+Wade,Davis,Wade Allen,daviswa01,2015,1,KCA,AL,69,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7000000
+Danny,Duffy,Daniel Richard,duffyda01,2015,1,KCA,AL,30,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2425000
+Jarrod,Dyson,Jarrod Martel,dysonja01,2015,1,KCA,AL,90,200,31,50,8,6,2,18,26,3,14,37,0,4,6,1,3,1225000
+Alcides,Escobar,Alcides,escobal02,2015,1,KCA,AL,148,612,76,157,20,5,3,47,17,5,26,75,1,8,11,5,10,3000000
+Jason,Frasor,Jason Andrew,frasoja01,2015,1,KCA,AL,26,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1250000
+Alex,Gordon,Alex Jonathan,gordoal01,2015,1,KCA,AL,104,354,40,96,18,0,13,48,2,5,49,92,7,14,0,5,2,12500000
+Jeremy,Guthrie,Jeremy,guthrje01,2015,1,KCA,AL,30,4,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,9000000
+Jose,Alvarez,Jose Ricardo,alvarjo02,2015,1,LAA,AL,64,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,509500
+Erick,Aybar,Erick Johan,aybarer01,2015,1,LAA,AL,156,597,74,161,30,1,3,44,15,6,25,73,1,4,7,5,12,8500000
+Drew,Butera,Andrew Edward,buterdr01,2015,1,LAA,AL,10,21,3,4,0,0,0,0,0,1,0,2,0,0,0,0,0,987500
+Kole,Calhoun,Kole Alan,calhoko01,2015,1,LAA,AL,159,630,78,161,23,2,26,83,4,1,45,164,1,5,2,4,6,537500
+Collin,Cowgill,Collin Brannen,cowgico01,2015,1,LAA,AL,55,69,10,13,2,1,1,2,2,1,4,19,0,0,1,0,1,995000
+C. J.,Cron,Christopher John,croncj01,2015,1,LAA,AL,113,378,37,99,17,1,16,51,3,1,17,82,1,5,0,3,9,512500
+David,Freese,David Richard,freesda01,2015,1,LAA,AL,121,424,53,109,27,0,14,56,1,1,31,107,0,12,0,3,12,6425000
+Johnny,Giavotella,Johnny Arthur,giavojo01,2015,1,LAA,AL,129,453,51,123,25,5,4,49,2,1,32,59,0,2,9,6,7,516250
+Brett,Anderson,Brett Franklin,anderbr04,2015,1,LAN,NL,31,47,1,4,1,0,0,3,0,0,5,32,0,0,9,0,2,10000000
+Pedro,Baez,Pedro Alberys,baezpe01,2015,1,LAN,NL,52,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,512500
+Darwin,Barney,Darwin James Kunane,barneda01,2015,1,LAN,NL,2,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2525000
+Brandon,Beachy,Brandon Alan,beachbr01,2015,1,LAN,NL,2,2,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,2750000
+Carl,Crawford,Carl Demonte,crawfca02,2015,1,LAN,NL,69,181,19,48,9,2,4,16,10,2,10,41,1,0,0,0,3,21357000
+A. J.,Ellis,Andrew James,ellisaj01,2015,1,LAN,NL,63,181,24,43,9,0,7,21,0,0,32,38,1,1,3,0,4,4250000
+Andre,Ethier,Andre Everett,ethiean01,2015,1,LAN,NL,142,395,54,116,20,7,14,53,2,3,43,75,2,4,0,3,11,18000000
+Yimi,Garcia,Yimi,garciyi01,2015,1,LAN,NL,59,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,510000
+Adrian,Gonzalez,Adrian Sabin,gonzaad01,2015,1,LAN,NL,156,571,76,157,33,0,28,90,0,1,62,107,10,6,0,3,21,21857000
+Yasmani,Grandal,Yasmani,grandya01,2015,1,LAN,NL,115,355,43,83,12,0,16,47,0,1,65,92,1,2,1,3,16,693000
+Zack,Greinke,Donald Zachary,greinza01,2015,1,LAN,NL,32,67,8,15,2,0,2,3,1,0,1,14,0,0,8,1,0,25000000
+Alex,Guerrero,Alexander,guerral01,2015,1,LAN,NL,106,219,25,51,9,1,11,36,1,0,7,57,0,2,0,2,7,6500000
+Henderson,Alvarez,Henderson Javier,alvarhe01,2015,1,MIA,NL,4,6,1,2,1,0,0,1,0,0,0,1,0,0,0,0,0,4000000
+Jeff,Baker,Jeffrey Glen,bakerje03,2015,1,MIA,NL,41,72,11,15,3,0,3,8,0,0,8,25,0,0,0,0,0,2100000
+Steve,Cishek,Steven R.,cishest01,2015,1,MIA,NL,32,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6650000
+Jarred,Cosart,Jarred Lynn,cosarja01,2015,1,MIA,NL,15,17,0,1,0,0,0,1,0,0,0,8,0,0,1,0,0,540000
+Mike,Dunn,Michael Glen,dunnmi01,2015,1,MIA,NL,72,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,2350000
+Sam,Dyson,Samuel Isaac,dysonsa01,2015,1,MIA,NL,44,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,507500
+Jose,Fernandez,Jose D.,fernajo02,2015,1,MIA,NL,11,18,2,3,1,0,1,2,0,0,0,4,0,0,4,0,0,651000
+Dee,Gordon,Devaris,gordode01,2015,1,MIA,NL,145,615,88,205,24,8,4,46,58,20,25,91,2,2,6,5,6,2500000
+Brad,Hand,Bradley Richard,handbr01,2015,1,MIA,NL,38,17,1,2,0,0,0,2,0,0,0,5,0,0,6,0,0,520000
+Dan,Haren,Daniel John,harenda01,2015,1,MIA,NL,22,32,3,5,1,0,0,4,0,0,2,12,0,0,8,0,1,10000000
+Michael,Blazek,Michael Robert,blazemi01,2015,1,MIL,NL,45,4,0,1,1,0,0,1,0,0,0,2,0,0,0,0,0,508500
+Ryan,Braun,Ryan Joseph,braunry02,2015,1,MIL,NL,140,506,87,144,27,3,25,84,24,4,54,115,4,4,0,3,20,13000000
+Jonathan,Broxton,Jonathan Roy,broxtjo01,2015,1,MIL,NL,40,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9000000
+Juan,Centeno,Juan C.,centeju01,2015,1,MIL,NL,10,21,0,1,1,0,0,0,0,0,2,7,0,0,0,0,0,507500
+Neal,Cotts,Neal James,cottsne01,2015,1,MIL,NL,51,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3000000
+Khris,Davis,Khristopher Adrian,daviskh01,2015,1,MIL,NL,121,392,54,97,16,2,27,66,6,2,44,122,1,1,0,3,9,519500
+Mike,Fiers,Michael Bruce,fiersmi01,2015,1,MIL,NL,21,30,0,3,0,0,0,0,0,0,0,12,0,0,4,0,0,512500
+Matt,Garza,Matthew Scott,garzama01,2015,1,MIL,NL,26,39,0,3,0,0,0,0,0,1,1,21,0,0,7,0,0,12500000
+Scooter,Gennett,Ryan Joseph,gennesc01,2015,1,MIL,NL,114,375,42,99,18,4,6,29,1,3,12,68,5,4,0,0,11,516500
+Carlos,Gomez,Carlos Argelis,gomezca01,2015,1,MIL,NL,74,286,42,75,20,1,8,43,7,6,23,70,0,5,0,0,4,8000000
+Hector,Gomez,Hector Alexis,gomezhe01,2015,1,MIL,NL,66,127,15,23,11,2,1,7,0,0,3,40,0,2,2,0,1,507500
+Oswaldo,Arcia,Oswaldo Celestino,arciaos01,2015,1,MIN,AL,19,58,6,16,0,0,2,8,0,0,4,15,4,2,0,1,2,532500
+Blaine,Boyer,Blaine Thomas,boyerbl01,2015,1,MIN,AL,68,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,750000
+Brian,Dozier,James Brian,doziebr01,2015,1,MIN,AL,157,628,101,148,39,4,28,77,12,4,61,148,2,7,0,8,10,2000000
+Brian,Duensing,Brian Matthew,duensbr01,2015,1,MIN,AL,55,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2700000
+Eduardo,Escobar,Eduardo Jose,escobed01,2015,1,MIN,AL,127,409,48,107,31,4,12,58,2,3,28,86,1,2,2,5,7,532500
+Casey,Fien,Casey Michael,fienca01,2015,1,MIN,AL,62,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1375000
+Kyle,Gibson,Kyle Benjamin,gibsoky01,2015,1,MIN,AL,32,5,0,1,0,0,0,0,0,0,0,2,0,0,0,0,0,537500
+Carlos,Beltran,Carlos Ivan,beltrca01,2015,1,NYA,AL,133,478,57,132,34,1,19,67,0,0,45,85,2,2,0,6,12,15000000
+Dellin,Betances,Dellin,betande01,2015,1,NYA,AL,74,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,507500
+Chris,Capuano,Christopher Frank,capuach01,2015,1,NYA,AL,22,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5000000
+Stephen,Drew,Stephen Oris,drewst01,2015,1,NYA,AL,131,383,43,77,16,1,17,44,0,2,37,71,1,1,4,3,7,5000000
+Jacoby,Ellsbury,Jacoby McCabe,ellsbja01,2015,1,NYA,AL,111,452,66,116,15,2,7,33,21,9,35,86,1,7,1,3,6,21142857
+Nathan,Eovaldi,Nathan Edward,eovalna01,2015,1,NYA,AL,27,5,1,0,0,0,0,0,0,0,0,2,0,0,0,0,0,3300000
+Brett,Gardner,Brett M.,gardnbr01,2015,1,NYA,AL,151,571,94,148,26,3,16,66,20,5,68,135,1,6,8,3,8,12500000
+Didi,Gregorius,Mariekson Julius,gregodi01,2015,1,NYA,AL,155,525,57,139,24,2,9,56,5,3,33,85,0,11,3,6,4,553900
+Eric,Campbell,Eric Singleton,campber01,2015,1,NYN,NL,71,173,28,34,8,0,3,19,5,3,26,37,1,4,1,2,11,511065
+Buddy,Carlyle,Earl L.,carlybu01,2015,1,NYN,NL,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,725000
+Bartolo,Colon,Bartolo,colonba01,2015,1,NYN,NL,33,58,2,8,1,0,0,4,0,0,0,24,0,1,4,1,2,11000000
+Michael,Cuddyer,Michael Brent,cuddymi01,2015,1,NYN,NL,117,379,44,98,18,1,10,41,2,0,24,88,0,4,0,1,13,8500000
+Travis,d'Arnaud,Travis E.,darnatr01,2015,1,NYN,NL,67,239,31,64,14,1,12,41,0,0,23,49,0,4,0,2,7,525424
+Jacob,deGrom,Jacob Anthony,degroja01,2015,1,NYN,NL,31,59,3,11,1,0,0,4,0,0,3,16,0,0,4,0,4,556875
+Lucas,Duda,Lucas Christopher,dudalu01,2015,1,NYN,NL,135,471,67,115,33,0,27,73,0,2,66,138,7,14,0,3,12,4200000
+Jeurys,Familia,Jeurys,familje01,2015,1,NYN,NL,76,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,523925
+Wilmer,Flores,Wilmer Alejandro,florewi01,2015,1,NYN,NL,137,483,55,127,22,0,16,59,0,1,19,63,2,4,2,2,12,513543
+Dillon,Gee,Dillon Kyle,geedi01,2015,1,NYN,NL,8,10,0,1,0,0,0,0,0,0,0,5,0,0,2,0,0,5300000
+Erik,Goeddel,Erik Van Norman,goedder01,2015,1,NYN,NL,35,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,509125
+Curtis,Granderson,Curtis,grandcu01,2015,1,NYN,NL,157,580,98,150,33,2,26,70,11,6,91,151,3,7,0,4,3,16000000
+Fernando,Abad,Fernando Antonio,abadfe01,2015,1,OAK,AL,62,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1087500
+R. J.,Alvarez,Roy Emilio,alvarrj01,2015,1,OAK,AL,21,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,507500
+Billy,Butler,Billy Ray,butlebi03,2015,1,OAK,AL,151,538,63,135,28,1,15,65,0,0,52,101,4,7,0,4,26,6666000
+Jesse,Chavez,Jesse David,chaveje01,2015,1,OAK,AL,30,3,0,1,0,0,0,0,0,0,0,2,0,0,2,0,0,2150000
+Tyler,Clippard,Tyler Lee,clippty01,2015,1,OAK,AL,37,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8300001
+Ryan,Cook,Ryan William,cookry01,2015,1,OAK,AL,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1400000
+Coco,Crisp,Covelli Loyce,crispco01,2015,1,OAK,AL,44,126,11,22,6,0,0,6,2,0,13,25,0,0,0,0,2,11000000
+Ike,Davis,Isaac Benjamin,davisik02,2015,1,OAK,AL,74,214,19,49,17,0,3,20,0,0,23,44,0,0,0,2,5,3800000
+Sean,Doolittle,Sean Robert,doolise01,2015,1,OAK,AL,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,780000
+Sam,Fuld,Samuel Babson,fuldsa01,2015,1,OAK,AL,120,290,34,57,16,3,2,22,9,3,30,55,1,2,2,1,6,1750000
+Craig,Gentry,Craig Alan,gentrcr01,2015,1,OAK,AL,26,50,6,6,0,2,0,3,1,1,4,15,0,1,0,1,0,1600000
+Kendall,Graveman,Kendall Chase,graveke01,2015,1,OAK,AL,21,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,507500
+Sonny,Gray,Sonny Douglas,grayso01,2015,1,OAK,AL,31,6,0,1,0,0,0,0,0,0,0,4,0,0,0,0,0,512500
+Jesse,Hahn,Jesse Allen,hahnje01,2015,1,OAK,AL,16,3,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,507500
+Cody,Asche,Cody James,ascheco01,2015,1,PHI,NL,129,425,41,104,22,3,12,39,1,2,26,111,3,4,0,1,4,517500
+Chad,Billingsley,Chad Ryan,billich01,2015,1,PHI,NL,7,13,2,1,0,0,1,1,0,0,0,5,0,0,1,0,1,1500000
+Andres,Blanco,Andres Eloy,blancan01,2015,1,PHI,NL,106,233,32,68,22,3,7,25,1,1,21,44,0,4,3,0,11,850000
+Domonic,Brown,Domonic Larun,browndo01,2015,1,PHI,NL,63,189,19,43,6,1,5,25,3,1,14,36,0,1,0,0,2,2600000
+David,Buchanan,David Andrew,buchada01,2015,1,PHI,NL,15,20,2,4,1,0,0,1,0,0,2,8,0,0,1,0,0,512500
+Justin,De Fratus,Justin Andrew,defraju01,2015,1,PHI,NL,61,3,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,528000
+Jake,Diekman,Jacob Tanner,diekmja01,2015,1,PHI,NL,41,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,535500
+Jeff,Francoeur,Jeffrey Braden,francje02,2015,1,PHI,NL,119,326,34,84,16,1,13,45,0,2,13,77,0,1,0,3,10,950000
+Freddy,Galvis,Freddy Jose,galvifr01,2015,1,PHI,NL,151,559,63,147,14,5,7,50,10,1,30,103,1,3,7,4,11,513500
+Luis,Garcia,Luis Amado,garcilu03,2015,1,PHI,NL,72,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,509000
+Ken,Giles,Kenneth Robert,gileske01,2015,1,PHI,NL,69,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,519000
+Jeanmar,Gomez,Jeanmar Alejandro,gomezje01,2015,1,PHI,NL,65,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,800000
+Cole,Hamels,Colbert Michael,hamelco01,2015,1,PHI,NL,20,39,2,6,1,0,0,0,0,0,0,15,0,0,4,0,1,23500000
+Aaron,Harang,Aaron Michael,haranaa01,2015,1,PHI,NL,29,48,4,8,1,0,0,0,0,0,1,18,0,0,9,0,2,5000000
+Pedro,Alvarez,Pedro Manuel,alvarpe01,2015,1,PIT,NL,150,437,60,106,18,0,27,77,2,0,48,131,9,2,0,4,6,5750000
+Antonio,Bastardo,Antonio Francisco,bastaan01,2015,1,PIT,NL,66,2,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,3100000
+A. J.,Burnett,Allan James,burneaj01,2015,1,PIT,NL,26,42,1,5,0,0,1,5,0,0,0,20,0,0,9,1,1,8500000
+Arquimedes,Caminero,Arquimedes Euclides,caminar01,2015,1,PIT,NL,73,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,515500
+Francisco,Cervelli,Francisco,cervefr01,2015,1,PIT,NL,130,451,56,133,17,5,7,43,1,1,46,94,1,8,4,1,12,987500
+Gerrit,Cole,Gerrit Alan,colege01,2015,1,PIT,NL,33,60,5,9,0,0,0,2,0,0,2,28,0,0,9,0,0,531000
+Jaff,Decker,Jaff Kyle,deckeja01,2015,1,PIT,NL,23,28,8,6,1,1,0,1,0,0,7,9,0,0,1,0,0,510000
+Pedro,Florimon,Pedro Alexander,floripe01,2015,1,PIT,NL,24,23,5,2,0,1,0,1,1,0,2,12,0,0,0,0,0,521000
+Josh,Harrison,Joshua Isaiah,harrijo05,2015,1,PIT,NL,114,418,57,120,29,1,4,28,10,8,19,71,1,7,3,2,4,3050000
+Corey,Hart,Jon Corey,hartco01,2015,1,PIT,NL,35,54,3,12,1,0,2,9,0,0,1,19,1,1,0,1,5,2500000
+Yonder,Alonso,Yonder,alonsyo01,2015,1,SDN,NL,103,354,50,100,18,1,5,31,2,5,42,48,3,3,0,3,13,1650000
+Alexi,Amarista,Alexi Jose,amarial01,2015,1,SDN,NL,118,324,28,66,10,4,3,30,5,1,24,55,4,1,3,5,6,1150000
+Clint,Barmes,Clint Harold,barmecl01,2015,1,SDN,NL,98,207,24,48,14,1,3,16,0,1,10,55,2,4,3,0,0,1300000
+Joaquin,Benoit,Joaquin Antonio,benoijo01,2015,1,SDN,NL,67,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8000000
+Andrew,Cashner,Andrew Burton,cashnan01,2015,1,SDN,NL,38,60,2,5,0,0,0,1,0,0,1,24,0,0,0,0,0,4050000
+Odrisamer,Despaigne,Odrisamer,despaod01,2015,1,SDN,NL,34,30,0,2,1,0,0,0,0,0,1,11,0,0,3,0,1,517300
+Frank,Garces,Frank Yeury,garcefr01,2015,1,SDN,NL,40,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,508500
+Jedd,Gyorko,Jedd Lindon,gyorkje01,2015,1,SDN,NL,128,421,34,104,15,0,16,57,0,1,27,107,1,5,0,5,13,2000000
+Dustin,Ackley,Dustin Michael,ackledu01,2015,1,SEA,AL,85,186,22,40,8,1,6,19,2,2,14,38,0,1,3,3,3,2600000
+Willie,Bloomquist,William Paul,bloomwi01,2015,1,SEA,AL,35,69,2,11,1,0,0,4,1,1,2,13,0,1,0,0,2,3000000
+Robinson,Cano,Robinson Jose,canoro01,2015,1,SEA,AL,156,624,82,179,34,1,21,79,2,6,43,107,5,3,0,4,26,24000000
+Nelson,Cruz,Nelson Ramon,cruzne02,2015,1,SEA,AL,152,590,90,178,22,1,44,93,3,2,59,164,9,5,0,1,6,14250000
+Danny,Farquhar,Daniel Andres,farquda01,2015,1,SEA,AL,43,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,527000
+Charlie,Furbush,Charles Roderick,furbuch01,2015,1,SEA,AL,33,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1300000
+J. A.,Happ,James Anthony,happja01,2015,1,SEA,AL,21,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,6700000
+Jeremy,Affeldt,Jeremy David,affelje01,2015,1,SFN,NL,52,2,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,6000000
+Nori,Aoki,Norichika,aokino01,2015,1,SFN,NL,93,355,42,102,12,3,5,26,14,5,30,25,0,6,1,0,8,4000000
+Joaquin,Arias,Joaquin,ariasjo01,2015,1,SFN,NL,40,58,5,12,1,0,1,4,1,0,0,12,0,0,1,0,1,1450000
+Brandon,Belt,Brandon Kyle,beltbr01,2015,1,SFN,NL,137,492,73,138,33,5,18,68,9,3,56,147,2,4,0,4,3,3600000
+Gregor,Blanco,Gregor Miguel,blancgr01,2015,1,SFN,NL,115,327,59,95,19,3,5,26,13,5,40,59,7,2,0,3,3,3600000
+Madison,Bumgarner,Madison Kyle,bumgama01,2015,1,SFN,NL,36,77,9,19,2,0,5,9,0,0,3,27,0,0,1,0,1,6750000
+Matt,Cain,Matthew Thomas,cainma01,2015,1,SFN,NL,13,16,0,0,0,0,0,1,0,0,0,9,0,0,3,1,0,21000000
+Brandon,Crawford,Brandon Michael,crawfbr01,2015,1,SFN,NL,143,507,65,130,33,4,21,84,6,4,39,119,9,11,0,4,18,3175000
+Matt,Duffy,Matthew Michael,duffyma01,2015,1,SFN,NL,149,573,77,169,28,6,12,77,12,0,30,96,0,5,2,2,22,509000
+Santiago,Casilla,Santiago,garcija01,2015,1,SFN,NL,67,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5000000
+Matt,Adams,Matthew James,adamsma01,2015,1,SLN,NL,60,175,14,42,9,0,5,24,1,0,10,41,1,0,0,1,1,534000
+Matt,Belisle,Matthew Thomas,belisma01,2015,1,SLN,NL,34,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3500000
+Peter,Bourjos,Peter Christopher,bourjpe01,2015,1,SLN,NL,117,195,32,39,8,3,4,13,5,8,19,59,4,6,4,1,2,1650000
+Matt,Carpenter,Matthew Martin,carpema01,2015,1,SLN,NL,154,574,101,156,44,3,28,84,4,3,81,151,5,6,0,4,5,3750000
+Randy,Choate,Randol Doyle,choatra01,2015,1,SLN,NL,71,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,3000000
+Tony,Cruz,Arnoldi Anthony,cruzto03,2015,1,SLN,NL,69,142,6,29,7,1,2,11,0,0,6,32,0,0,2,1,6,775000
+Jaime,Garcia,Jaime Omar,garcija02,2015,1,SLN,NL,20,41,1,4,0,0,0,1,0,0,2,15,0,0,1,0,0,9250000
+Randal,Grichuk,Randal Alexander,grichra01,2015,1,SLN,NL,103,323,49,89,23,7,17,47,4,2,22,110,2,4,0,1,6,510000
+Matt,Andriese,Matthew Lee,andrima01,2015,1,TBA,AL,25,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,507500
+Chris,Archer,Christopher Alan,archech01,2015,1,TBA,AL,34,5,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,1166667
+Tim,Beckham,Timothy Lamar,beckhti01,2015,1,TBA,AL,82,203,24,45,7,4,9,37,3,1,13,69,0,3,0,4,3,508100
+Jeff,Beliveau,Jeffrey Ryan,belivje01,2015,1,TBA,AL,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,513600
+Brad,Boxberger,Bradley George,boxbebr01,2015,1,TBA,AL,69,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,521400
+Asdrubal,Cabrera,Asdrubal Jose,cabreas01,2015,1,TBA,AL,143,505,66,134,28,5,15,58,6,3,36,107,4,3,1,6,14,7500000
+Alex,Colome,Alexander Manuel,colomal01,2015,1,TBA,AL,43,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,510800
+David,DeJesus,David Christopher,dejesda01,2015,1,TBA,AL,82,232,24,60,8,2,5,26,3,2,19,39,1,4,0,2,4,5000000
+Logan,Forsythe,John Logan,forsylo01,2015,1,TBA,AL,153,540,69,152,33,2,17,68,9,4,55,111,2,14,0,6,12,1100000
+Nick,Franklin,Nicholas Edward,frankni01,2015,1,TBA,AL,44,101,11,16,4,1,3,7,1,0,7,37,0,0,1,0,2,1021800
+Ernesto,Frieri,Ernesto,frierer01,2015,1,TBA,AL,22,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,800000
+Brandon,Guyer,Brandon Eric,guyerbr01,2015,1,TBA,AL,128,332,51,88,21,2,8,28,10,4,25,61,0,24,3,1,5,515800
+Elvis,Andrus,Elvis Augusto,andruel01,2015,1,TEX,AL,160,596,69,154,34,2,7,62,25,9,46,78,1,2,8,9,14,15000000
+Anthony,Bass,Anthony Edward,bassan01,2015,1,TEX,AL,33,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,725000
+Adrian,Beltre,Adrian,beltrad01,2015,1,TEX,AL,143,567,83,163,32,4,18,83,1,0,41,65,4,3,0,8,18,16000000
+Robinson,Chirinos,Robinson David,chiriro01,2015,1,TEX,AL,78,233,33,54,16,1,10,34,0,0,28,62,0,5,5,2,4,518290
+Shin-Soo,Choo,Shin-Soo,choosh01,2015,1,TEX,AL,149,555,94,153,32,3,22,82,4,2,76,147,1,15,2,5,7,14000000
+Alex,Claudio,Alexander,claudal01,2015,1,TEX,AL,18,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,508500
+Carlos,Corporan,Carlos Fernando,corpoca01,2015,1,TEX,AL,33,107,10,19,4,0,3,15,0,0,6,40,0,4,2,2,1,975000
+Ross,Detwiler,Ross Emery,detwiro01,2015,1,TEX,AL,17,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3450000
+Jon,Edwards,Jonathan Benjamin,edwarjo02,2015,1,TEX,AL,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,508500
+Neftali,Feliz,Neftali,felizne01,2015,1,TEX,AL,18,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4125000
+Prince,Fielder,Prince Semien,fieldpr01,2015,1,TEX,AL,158,613,78,187,28,0,23,98,0,0,64,88,14,11,0,5,21,24000000
+Sam,Freeman,Samuel Douglas,freemsa01,2015,1,TEX,AL,54,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,517000
+Kyuji,Fujikawa,Kyuji,fujikky01,2015,1,TEX,AL,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1100000
+Yovani,Gallardo,Yovani,gallayo01,2015,1,TEX,AL,33,4,0,2,1,0,0,0,0,0,0,1,0,0,0,0,0,14000000
+Josh,Hamilton,Joshua Holt,hamiljo03,2015,1,TEX,AL,50,170,22,43,8,0,8,25,0,0,10,52,0,0,0,2,1,22708749
+Jose,Bautista,Jose Antonio,bautijo02,2015,1,TOR,AL,153,543,108,136,29,3,40,114,8,2,110,106,2,5,0,8,19,14000000
+Mark,Buehrle,Mark Alan,buehrma01,2015,1,TOR,AL,32,7,0,1,0,0,0,0,0,0,1,3,0,0,1,0,0,20000000
+Brett,Cecil,Brett Aarion,cecilbr01,2015,1,TOR,AL,63,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2475000
+R. A.,Dickey,Robert Allen,dickera01,2015,1,TOR,AL,33,3,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,12000000
+Josh,Donaldson,Joshua Adam,donaljo02,2015,1,TOR,AL,158,620,122,184,41,2,41,123,6,0,73,133,0,6,2,10,16,4300000
+Edwin,Encarnacion,Edwin Elpidio,encared01,2015,1,TOR,AL,146,528,94,146,31,0,39,111,3,2,77,98,5,9,0,10,14,10000000
+Marco,Estrada,Marco Rene,estrama01,2015,1,TOR,AL,34,6,0,2,0,0,0,0,0,0,0,2,0,0,0,0,0,3900000
+Ryan,Goins,Ryan Matthew,goinsry01,2015,1,TOR,AL,128,376,52,94,16,4,5,45,2,1,39,83,0,1,7,5,12,512800
+Aaron,Barrett,Aaron James,barreaa01,2015,1,WAS,NL,40,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,514200
+Xavier,Cedeno,Xavier,cedenxa01,2015,1,WAS,NL,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,516500
+Matt,den Dekker,Matthew G.,dendema01,2015,1,WAS,NL,55,99,12,25,6,1,5,12,0,1,9,20,0,0,2,0,0,512972
+Ian,Desmond,Ian M.,desmoia01,2015,1,WAS,NL,156,583,69,136,27,2,19,62,13,5,45,187,0,3,6,4,9,11000000
+Yunel,Escobar,Yunel,escobyu01,2015,1,WAS,NL,139,535,75,168,25,1,9,56,2,2,45,70,0,8,1,2,24,5000000
+Danny,Espinosa,Daniel Richard,espinda01,2015,1,WAS,NL,118,367,59,88,21,1,13,37,5,2,33,106,5,6,3,3,6,1800000
+Doug,Fister,Douglas Wildes,fistedo01,2015,1,WAS,NL,29,31,2,7,1,0,0,0,0,0,2,15,0,0,6,0,0,11400000
+Gio,Gonzalez,Giovany Aramis,gonzagi01,2015,1,WAS,NL,31,43,1,4,1,0,0,2,0,0,1,18,0,2,10,0,1,11000000
+Bryce,Harper,Bryce Aron Max,harpebr03,2015,1,WAS,NL,153,521,118,172,38,1,42,99,6,4,124,131,15,5,0,4,15,2500000
+David,Aardsma,David Allan,aardsda01,2015,1,ATL,NL,33,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,NULL
+A. J.,Achter,Adam Joseph,achteaj01,2015,1,MIN,AL,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NULL
+Dustin,Ackley,Dustin Michael,ackledu01,2015,2,NYA,AL,23,52,6,15,3,2,4,11,0,0,4,7,0,0,0,1,0,NULL
+Cristhian,Adames,Cristhian Pascual,adamecr01,2015,1,COL,NL,26,53,4,13,1,1,0,3,0,1,3,11,1,1,1,0,0,NULL
+Nathan,Adcock,Nathan Masler,adcocna01,2015,1,CIN,NL,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NULL
+Ehire,Adrianza,Ehire Enrique,adriaeh01,2015,1,SFN,NL,52,113,11,21,7,1,0,11,3,2,15,20,0,4,2,0,2,NULL
+Jesus,Aguilar,Jesus Alexander,aguilje01,2015,1,CLE,AL,7,19,0,6,1,0,0,2,0,0,0,7,0,1,0,0,0,NULL
+Andrew,Albers,Andrew William,alberan01,2015,1,TOR,AL,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NULL
+Hanser,Alberto,Hanser Joel,alberha01,2015,1,TEX,AL,41,99,12,22,2,1,0,4,1,0,2,17,0,0,3,0,2,NULL
+Scott,Alexander,Scott Alain,alexasc01,2015,1,KCA,AL,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NULL
+Abraham,Almonte,Abraham,almonab01,2015,1,SDN,NL,31,54,6,11,3,0,0,4,1,1,5,19,0,0,3,0,1,NULL
+Abraham,Almonte,Abraham,almonab01,2015,2,CLE,AL,51,178,30,47,9,5,5,20,6,0,16,33,0,0,0,2,4,NULL
+Miguel,Almonte,Miguel Emilio,almonmi01,2015,1,KCA,AL,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NULL
+Aaron,Altherr,Aaron Samuel,altheaa01,2015,1,PHI,NL,39,137,25,33,11,4,5,22,6,2,16,41,0,5,1,2,3,NULL
+Dario,Alvarez,Dario Rafael,alvarda01,2015,1,NYN,NL,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NULL
+Dariel,Alvarez,Dariel,alvarda02,2015,1,BAL,AL,12,29,3,7,1,0,1,1,0,0,2,8,0,0,0,0,0,NULL
+Bryan,Anderson,Bryan Douglas,anderbr05,2015,1,OAK,AL,4,5,0,2,0,0,0,1,0,0,1,1,0,0,1,1,0,NULL
+Cody,Anderson,Cody Andrew,anderco01,2015,1,CLE,AL,15,3,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,NULL
+Dean,Anna,Dean William,annade01,2015,1,SLN,NL,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NULL
+Elvis,Araujo,Elvis Alejandro,araujel01,2015,1,PHI,NL,40,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,NULL
+J. P.,Arencibia,Jonathan Paul,arencjp01,2015,1,TBA,AL,24,71,9,22,3,0,6,17,0,0,1,22,0,0,0,1,1,NULL
+Shawn,Armstrong,Shawn Michael,armstsh01,2015,1,CLE,AL,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NULL
+Jonathan,Aro,Jonathan Arturo,arojo01,2015,1,BOS,AL,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NULL
+Alec,Asher,Alec Edward,asheral01,2015,1,PHI,NL,7,6,0,2,1,0,0,0,0,0,0,3,0,0,0,0,0,NULL
+Nevin,Ashley,Nevin Robert,ashlene01,2015,1,MIL,NL,12,20,2,2,1,0,0,1,0,0,0,8,0,1,0,0,0,NULL
+Phillippe,Aumont,Phillippe,aumonph01,2015,1,PHI,NL,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,NULL
+Luis,Avilan,Luis Armando,avilalu01,2015,2,LAN,NL,23,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NULL
+Dylan,Axelrod,Dylan Davis Haines,axelrdy01,2015,1,CIN,NL,6,2,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,NULL
+Javier,Baez,Ednel Javier,baezja01,2015,1,CHN,NL,28,76,4,22,6,0,1,4,1,2,4,24,1,0,0,0,0,NULL
+Andrew,Bailey,Andrew Scott,bailean01,2015,1,NYA,AL,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NULL
+Scott,Baker,Timothy Scott,bakersc02,2015,1,LAN,NL,2,3,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,NULL
+Collin,Balester,Collin Thomas,balesco01,2015,1,CIN,NL,15,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NULL
+Grant,Balfour,Grant Robert,balfogr01,2015,1,TBA,AL,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NULL
+Jett,Bandy,Jett Adam,bandyje01,2015,1,LAA,AL,2,2,1,1,0,0,1,1,0,0,0,0,0,0,0,0,0,NULL
+Manny,Banuelos,Manuel,banuema01,2015,1,ATL,NL,7,3,0,0,0,0,0,0,0,0,0,1,0,0,4,0,0,NULL
+Austin,Barnes,Austin Scott,barneau01,2015,1,LAN,NL,20,29,4,6,2,0,0,1,1,0,6,6,0,1,1,0,2,NULL
+Brandon,Barnes,Brandon Michael,barnebr02,2015,1,COL,NL,106,255,30,64,13,2,2,17,4,2,21,67,3,3,1,1,6,NULL
+Darwin,Barney,Darwin James Kunane,barneda01,2015,2,TOR,AL,15,23,4,7,1,0,2,4,0,0,1,2,0,0,2,0,0,NULL
+Tucker,Barnhart,Tucker Jackson,barnhtu01,2015,1,CIN,NL,81,242,23,61,9,0,3,18,0,1,25,45,5,2,2,3,10,NULL
+Steve,Baron,Steven Phillip,baronst01,2015,1,SEA,AL,4,11,0,0,0,0,0,0,0,0,0,2,0,0,0,0,2,NULL
+Kyle,Barraclough,Kyle David,barraky01,2015,1,MIA,NL,25,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NULL
+Yhonathan,Barrios,Yhonathan,barriyh01,2015,1,MIL,NL,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NULL
+Chris,Bassitt,Christopher M.,bassich01,2015,1,OAK,AL,18,2,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,NULL
+Mike,Baxter,Michael Joseph,baxtemi01,2015,1,CHN,NL,34,57,6,14,1,0,0,2,0,0,7,14,1,2,0,0,3,NULL
+Chris,Beck,Christopher Michael,beckch02,2015,1,CHA,AL,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NULL
+Cam,Bedrosian,Cameron Rock,bedroca01,2015,1,LAA,AL,34,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NULL
+Joe,Beimel,Joseph Ronald,beimejo01,2015,1,SEA,AL,53,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NULL
+Ronald,Belisario,Ronald J.,belisro01,2015,1,TBA,AL,6,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NULL
+Andrew,Bellatti,Andrew James,bellaan01,2015,1,TBA,AL,17,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NULL
+Christian,Bergman,Christian Stanford,bergmch01,2015,1,COL,NL,30,12,1,2,0,0,0,0,0,0,1,4,0,0,2,0,0,NULL
+Doug,Bernier,Douglas Howell,bernido01,2015,1,MIN,AL,4,5,1,1,1,0,0,2,0,0,1,3,0,0,0,0,0,NULL
+Quintin,Berry,Quintin Lonell,berryqu01,2015,1,CHN,NL,8,1,1,0,0,0,0,0,2,1,0,1,0,0,0,0,0,NULL
+Chad,Bettis,Chad Robert,bettich01,2015,1,COL,NL,20,29,2,2,0,0,0,1,0,0,4,13,0,0,0,0,0,NULL
+Jeff,Bianchi,Jeffrey Thomas,biancje01,2015,1,BOS,AL,3,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NULL
+Greg,Bird,Gregory Paul,birdgr01,2015,1,NYA,AL,46,157,26,41,9,0,11,31,0,0,19,53,0,1,0,1,1,NULL
+Carson,Blair,Carson Reynolds,blairca01,2015,1,OAK,AL,11,31,3,4,0,0,1,3,0,0,4,18,0,0,0,0,1,NULL
+Kyle,Blanks,Kyle Nathaniel,blankky01,2015,1,TEX,AL,18,67,10,21,5,0,3,6,1,0,4,20,0,0,0,0,1,NULL
+Joe,Blanton,Joseph Matthew,blantjo01,2015,1,KCA,AL,15,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NULL
+Joe,Blanton,Joseph Matthew,blantjo01,2015,2,PIT,NL,21,3,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,NULL
+Jerry,Blevins,Jerry Richard,blevije01,2015,1,NYN,NL,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NULL
+Brett,Bochy,Brett,bochybr02,2015,1,SFN,NL,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NULL
+Brian,Bogusevic,Brian Thomas,bogusbr01,2015,1,PHI,NL,22,58,9,15,3,0,2,5,2,0,3,21,0,0,0,0,1,NULL
+Mike,Bolsinger,Michael P.,bolsimi01,2015,1,LAN,NL,21,38,1,1,1,0,0,0,0,0,0,23,0,0,2,0,0,NULL
+Justin,Bour,Justin James,bourju01,2015,1,MIA,NL,129,409,42,107,20,0,23,73,0,0,34,101,3,2,0,1,19,NULL
+Michael,Bourn,Michael Ray,bournmi01,2015,2,ATL,NL,46,136,10,30,3,1,0,11,4,2,17,31,0,0,1,2,3,NULL
+Matt,Boyd,Matthew Robert,boydma01,2015,1,TOR,AL,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NULL
+Matt,Boyd,Matthew Robert,boydma01,2015,2,DET,AL,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NULL
+Silvino,Bracho,Silvino,brachsi01,2015,1,ARI,NL,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NULL
+Archie,Bradley,Archie N.,bradlar01,2015,1,ARI,NL,8,14,0,2,0,0,0,0,0,1,0,7,0,0,0,0,0,NULL
+Rob,Brantly,Robert Jacob,brantro01,2015,1,CHA,AL,14,33,3,4,1,0,1,6,0,0,2,8,0,0,0,1,1,NULL
+Ryan,Brett,Ryan Duane,brettry01,2015,1,TBA,AL,3,3,0,2,1,0,0,0,0,0,1,0,0,0,0,0,0,NULL
+Jake,Brigham,Jacob Daniel,brighja01,2015,1,ATL,NL,12,1,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,NULL
+Reid,Brignac,Reid Michael,brignre01,2015,1,MIA,NL,17,13,2,1,0,0,0,0,0,0,3,5,0,0,1,0,0,NULL
+Socrates,Brito,Socrates Orel,britoso01,2015,1,ARI,NL,18,33,5,10,3,1,0,1,1,0,1,7,0,0,0,0,0,NULL
+Mike,Broadway,Michael Allen,broadmi01,2015,1,SFN,NL,21,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NULL
+Aaron,Brooks,Aaron Lee,brookaa01,2015,1,KCA,AL,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NULL
+Aaron,Brooks,Aaron Lee,brookaa01,2015,2,OAK,AL,11,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NULL
+Trevor,Brown,Trevor Michael,browntr01,2015,1,SFN,NL,13,39,1,9,3,0,0,5,1,1,3,8,0,0,0,1,0,NULL
+Jonathan,Broxton,Jonathan Roy,broxtjo01,2015,2,SLN,NL,26,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NULL
+Keon,Broxton,Keon Darell,broxtke01,2015,1,PIT,NL,7,2,3,0,0,0,0,0,1,1,0,1,0,0,0,0,0,NULL
+Kris,Bryant,Kristopher L.,bryankr01,2015,1,CHN,NL,151,559,87,154,31,5,26,99,13,4,77,199,0,9,0,5,7,NULL
+Jake,Buchanan,Jake T.,buchaja01,2015,1,HOU,AL,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NULL
+Danny,Burawa,Daniel James,burawda01,2015,1,NYA,AL,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NULL
+Danny,Burawa,Daniel James,burawda01,2015,2,ATL,NL,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NULL
+Enrique,Burgos,Enrique,burgoen02,2015,1,ARI,NL,30,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NULL
+Billy,Burns,William John,burnsbi02,2015,1,OAK,AL,125,520,70,153,18,9,5,42,26,8,26,81,1,6,1,2,5,NULL
+Emmanuel,Burriss,Emmanuel Allen,burriem01,2015,1,WAS,NL,5,3,2,2,0,0,0,0,0,0,2,0,0,0,0,0,0,NULL
+Drew,Butera,Andrew Edward,buterdr01,2015,2,KCA,AL,45,86,6,17,3,0,1,5,0,0,6,24,0,2,5,0,0,NULL
+Joey,Butler,Joseph Frank,butlejo04,2015,1,TBA,AL,88,257,30,71,12,0,8,30,5,2,16,82,0,3,0,0,16,NULL
+Byron,Buxton,Byron Keiron,buxtoby01,2015,1,MIN,AL,46,129,16,27,7,1,2,6,2,2,6,44,0,1,2,0,1,NULL
+Marlon,Byrd,Marlon Jerrard,byrdma01,2015,2,SFN,NL,39,147,12,40,12,2,4,31,0,0,6,44,1,1,0,2,4,NULL
+Cesar,Cabral,Cesar Augusto,cabrace01,2015,1,BAL,AL,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NULL
+Ramon,Cabrera,Ramon Salvador,cabrera01,2015,1,CIN,NL,13,30,4,11,1,0,1,3,0,0,0,5,0,0,0,0,1,NULL
+Trevor,Cahill,Trevor John,cahiltr01,2015,2,CHN,NL,11,2,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,NULL
+Orlando,Calixte,Orlando,calixor01,2015,1,KCA,AL,2,3,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NULL
+Alberto,Callaspo,Alberto Jose,callaal01,2015,2,LAN,NL,60,123,8,32,5,0,0,7,0,0,14,24,0,0,1,0,2,NULL
+Leonel,Campos,Leonel Enrique,campole01,2015,1,SDN,NL,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NULL
+Mark,Canha,Mark David,canhama01,2015,1,OAK,AL,124,441,61,112,22,3,16,70,7,2,33,96,0,8,0,3,9,NULL
+Carter,Capps,Carter Lewis,cappsca01,2015,1,MIA,NL,30,2,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,NULL
+David,Carpenter,Darrell David,carpeda01,2015,1,NYA,AL,22,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NULL
+David,Carpenter,Darrell David,carpeda01,2015,2,WAS,NL,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NULL
+David,Carpenter,David Lee,carpeda02,2015,1,ATL,NL,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NULL
+Ezequiel,Carrera,Ezequiel Manuel,carreez01,2015,1,TOR,AL,91,172,27,47,8,0,3,26,2,1,11,45,0,2,5,2,1,NULL
+Scott,Carroll,Scott Alexander,carrosc02,2015,1,CHA,AL,18,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NULL
+Curt,Casali,Curtis Michael,casalcu01,2015,1,TBA,AL,38,101,13,24,6,0,10,18,0,0,8,34,0,2,1,1,2,NULL
+Rusney,Castillo,Rusney,castiru01,2015,1,BOS,AL,80,273,35,69,10,2,5,29,4,5,13,54,0,1,1,1,11,NULL
+Welington,Castillo,Welington Andres,castiwe01,2015,2,SEA,AL,6,25,3,4,0,0,0,2,0,0,1,5,0,0,0,2,2,NULL
+Welington,Castillo,Welington Andres,castiwe01,2015,3,ARI,NL,80,274,34,70,13,1,17,50,0,0,21,75,0,5,0,3,10,NULL
+Angel,Castro,Angel M.,castran01,2015,1,OAK,AL,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NULL
+Daniel,Castro,Daniel Alejandro,castrda01,2015,1,ATL,NL,33,96,14,23,2,1,2,5,0,0,3,15,0,0,1,0,4,NULL
+Miguel,Castro,Miguel Angel,castrmi01,2015,1,TOR,AL,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NULL
+Miguel,Castro,Miguel Angel,castrmi01,2015,2,COL,NL,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NULL
+Simon,Castro,Simon,castrsi01,2015,1,COL,NL,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NULL
+Darrell,Ceciliani,Darrell Albert,cecilda01,2015,1,NYN,NL,39,68,5,14,2,0,1,3,5,1,4,25,0,2,0,0,0,NULL
+Xavier,Cedeno,Xavier,cedenxa01,2015,2,TBA,AL,61,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NULL
+Yoenis,Cespedes,Yoenis,cespeyo01,2015,2,NYN,NL,57,230,39,66,14,4,17,44,4,1,14,54,3,4,0,1,5,NULL
+Jhoulys,Chacin,Jhoulys Jose,chacijh01,2015,1,ARI,NL,5,8,0,1,0,0,0,0,0,0,0,4,0,0,1,0,0,NULL
+Joba,Chamberlain,Justin Louis,chambjo03,2015,2,KCA,AL,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NULL
+Kevin,Chapman,Kevin Allen,chapmke02,2015,1,HOU,AL,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NULL
+Bruce,Chen,Bruce Kastulo,chenbr01,2015,1,CLE,AL,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NULL
+Michael,Choice,Michael Blair,choicmi01,2015,1,TEX,AL,1,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,NULL
+Pedro,Ciriaco,Pedro Joel,ciriape01,2015,1,ATL,NL,84,142,14,37,8,1,1,15,4,2,2,38,0,2,2,3,1,NULL
+Steve,Cishek,Steven R.,cishest01,2015,2,SLN,NL,27,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NULL
+Tyler,Clippard,Tyler Lee,clippty01,2015,2,NYN,NL,32,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NULL
+Phil,Coke,Phillip Douglas,cokeph01,2015,2,TOR,AL,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NULL
+Chris,Colabello,Christopher Adrian,colabch01,2015,1,TOR,AL,101,333,55,107,19,1,15,54,2,0,22,96,0,3,0,2,12,NULL
+A. J.,Cole,Andrew Jordan,coleaj01,2015,1,WAS,NL,3,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,NULL
+Dusty,Coleman,Dustin Michael,colemdu01,2015,1,KCA,AL,4,5,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,NULL
+Tyler,Collins,Tyler James,collity01,2015,1,DET,AL,60,192,18,51,11,3,4,25,2,1,13,43,0,1,1,0,2,NULL
+Michael,Conforto,Michael Thomas,confomi01,2015,1,NYN,NL,56,174,30,47,14,0,9,26,0,1,17,39,0,1,0,2,4,NULL
+Adam,Conley,Adam Michael,conlead01,2015,1,MIA,NL,15,18,0,4,0,0,0,1,0,0,0,8,0,0,4,0,0,NULL
+Carlos,Contreras,Carlos Manuel,contrca01,2015,1,CIN,NL,22,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NULL
+Ryan,Cook,Ryan William,cookry01,2015,2,BOS,AL,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NULL
+Tim,Cooney,Timothy Manus,cooneti01,2015,1,SLN,NL,6,10,1,3,1,0,0,0,0,0,0,0,0,0,1,0,0,NULL
+Scott,Copeland,Scott Reast,copelsc01,2015,1,TOR,AL,5,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,NULL
+Erik,Cordier,Erik Michael,cordier01,2015,1,MIA,NL,8,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,NULL
+John,Cornely,John Francis,cornejo01,2015,1,ATL,NL,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NULL
+Carlos,Correa,Carlos Javier,correca01,2015,1,HOU,AL,99,387,52,108,22,1,22,68,14,4,40,78,2,1,0,4,10,NULL
+Kevin,Correia,Kevin John,correke01,2015,1,PHI,NL,5,6,0,1,0,0,0,0,0,0,0,1,0,0,1,0,0,NULL
+Caleb,Cotham,Caleb Kent,cothaca01,2015,1,NYA,AL,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NULL
+Neal,Cotts,Neal James,cottsne01,2015,2,MIN,AL,17,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NULL
+Daniel,Coulombe,Daniel Paul,couloda01,2015,1,LAN,NL,5,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,NULL
+Daniel,Coulombe,Daniel Paul,couloda01,2015,2,OAK,AL,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NULL
+Kaleb,Cowart,Kaleb Bryant,cowarka01,2015,1,LAA,AL,34,46,8,8,2,0,1,4,1,1,5,19,0,0,1,0,1,NULL
+Tyler,Cravy,Tyler Jay,cravyty01,2015,1,MIL,NL,14,8,0,0,0,0,0,0,0,0,0,3,0,0,2,0,0,NULL
+Johnny,Cueto,Johnny,cuetojo01,2015,2,KCA,AL,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NULL
+Brandon,Cunniff,Brandon Michael,cunnibr02,2015,1,ATL,NL,39,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NULL
+Cheslor,Cuthbert,Cheslor Jesly,cuthbch01,2015,1,KCA,AL,19,46,6,10,2,1,1,8,0,0,4,9,0,0,0,0,0,NULL
+Jordan,Danks,Jordan Cooper,danksjo02,2015,1,PHI,NL,4,4,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,NULL
+Chase,d'Arnaud,Chase Jonathan,darnach01,2015,1,PHI,NL,11,17,2,3,0,1,0,0,0,1,1,7,0,0,0,0,0,NULL
+Kyle,Davies,Hiram Kyle,davieky01,2015,1,NYA,AL,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NULL
+Zach,Davies,Zachary Ryan,davieza01,2015,1,MIL,NL,6,13,1,1,0,0,0,0,0,0,0,3,0,0,1,0,0,NULL
+Alejandro,De Aza,Alejandro Alberto,deazaal01,2015,2,BOS,AL,60,161,23,47,9,5,4,25,3,1,12,36,1,2,2,1,2,NULL
+Alejandro,De Aza,Alejandro Alberto,deazaal01,2015,3,SFN,NL,24,61,12,16,4,1,0,3,2,2,12,14,0,1,0,1,3,NULL
+Cody,Decker,Cody Marshall,deckeco01,2015,1,SDN,NL,8,11,0,0,0,0,0,1,0,0,0,5,0,0,0,1,1,NULL
+David,DeJesus,David Christopher,dejesda01,2015,2,LAA,AL,30,56,3,7,1,0,0,4,0,0,2,13,0,2,0,0,1,NULL
+Ivan,De Jesus,Ivan,dejesiv02,2015,1,CIN,NL,76,201,15,49,10,2,4,28,0,2,19,55,0,1,0,1,3,NULL
+Steve,Delabar,Steven Edward,delabst01,2015,1,TOR,AL,31,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NULL
+Jorge,De La Rosa,Jorge Alberto,delarjo01,2015,1,COL,NL,26,48,0,3,0,0,0,3,0,0,0,18,0,0,2,0,1,NULL
+Abel,De Los Santos,Abel,delosab01,2015,1,WAS,NL,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NULL
+Jose,De Paula,Jose Alberto,depaujo02,2015,1,NYA,AL,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NULL
+Delino,DeShields,Delino Diaab,deshide02,2015,1,TEX,AL,121,425,83,111,22,10,2,37,25,8,53,101,1,3,7,4,1,NULL
+Ross,Detwiler,Ross Emery,detwiro01,2015,2,ATL,NL,24,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,NULL
+Elias,Diaz,Elias David,diazel01,2015,1,PIT,NL,2,2,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,NULL
+Jairo,Diaz,Jairo Jose,diazja01,2015,1,COL,NL,21,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NULL
+Jonathan,Diaz,Jonathan,diazjo02,2015,1,TOR,AL,7,13,1,2,0,0,0,2,0,0,1,3,0,1,1,0,0,NULL
+Alex,Dickerson,Alexander Ross,dickeal01,2015,1,SDN,NL,11,8,0,2,0,0,0,0,0,0,0,3,0,0,0,0,1,NULL
+Jake,Diekman,Jacob Tanner,diekmja01,2015,2,TEX,AL,26,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NULL
+Derek,Dietrich,Derek Richard,dietrde01,2015,1,MIA,NL,90,250,38,64,14,3,10,24,0,2,23,65,2,13,0,3,4,NULL
+Wilmer,Difo,Wilmer Francisco,difowi01,2015,1,WAS,NL,15,11,1,2,0,0,0,0,0,0,0,2,0,0,0,0,0,NULL
+Chris,Dominguez,Christopher Omar,dominch01,2015,1,CIN,NL,14,23,2,6,1,1,1,3,0,0,0,12,0,0,0,0,0,NULL
+Jose,Dominguez,Jose Alfredo,dominjo01,2015,1,TBA,AL,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NULL
+Danny,Dorn,Daniel Casey,dornda01,2015,1,ARI,NL,23,30,0,5,1,0,0,3,0,0,2,10,0,0,0,0,1,NULL
+Felix,Doubront,Felix Antonio,doubrfe01,2015,1,TOR,AL,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NULL
+Felix,Doubront,Felix Antonio,doubrfe01,2015,2,OAK,AL,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NULL
+Oliver,Drake,Oliver Gardner,drakeol01,2015,1,BAL,AL,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NULL
+Brandon,Drury,Brandon S.,drurybr01,2015,1,ARI,NL,20,56,3,12,3,0,2,8,0,0,2,8,0,1,0,0,5,NULL
+Tyler,Duffey,Tyler Blinn,duffety01,2015,1,MIN,AL,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NULL
+Matt,Duffy,Matthew Edward,duffyma02,2015,1,HOU,AL,8,8,0,3,1,0,0,3,0,0,1,2,0,0,0,0,0,NULL
+Ryan,Dull,Ryan Christopher,dullry01,2015,1,OAK,AL,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NULL
+Adam,Duvall,Adam Lynn,duvalad01,2015,1,CIN,NL,27,64,6,14,2,0,5,9,0,0,6,26,1,2,0,0,0,NULL
+Allan,Dykstra,Allan Christopher,dykstal01,2015,1,TBA,AL,13,31,3,4,0,0,1,4,0,0,6,12,0,1,0,0,2,NULL
+Sam,Dyson,Samuel Isaac,dysonsa01,2015,2,TEX,AL,31,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NULL
+Ed,Easley,Edward Michael,easleed01,2015,1,SLN,NL,4,6,0,0,0,0,0,1,0,0,0,1,0,0,0,1,1,NULL
+Carl,Edwards,Carl Fleming,edwarca01,2015,1,CHN,NL,5,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,NULL
+Jon,Edwards,Jonathan Benjamin,edwarjo02,2015,2,SDN,NL,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NULL
+Jerad,Eickhoff,Jerad Joseph,eickhje01,2015,1,PHI,NL,8,14,1,2,0,0,0,2,0,0,0,7,0,0,2,0,0,NULL
+Roenis,Elias,Roenis,eliasro01,2015,1,SEA,AL,22,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NULL
+Brian,Ellington,Brian Michael,ellinbr02,2015,1,MIA,NL,23,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NULL
+Jake,Elmore,Jacob David,elmorja01,2015,1,TBA,AL,51,141,10,29,5,0,2,16,1,1,12,25,1,0,2,3,6,NULL
+Robbie,Erlin,Robert Joseph,erlinro01,2015,1,SDN,NL,3,5,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,NULL
+Dana,Eveland,Dana James,evelada01,2015,1,ATL,NL,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NULL
+Buck,Farmer,George Runie,farmebu01,2015,1,DET,AL,14,4,0,1,0,0,0,0,0,0,0,3,0,0,0,0,0,NULL
+Andrew,Faulkner,Andrew Michael,faulkan01,2015,1,TEX,AL,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NULL
+Taylor,Featherston,Taylor Joseph,feathta01,2015,1,LAA,AL,101,154,23,25,5,1,2,9,4,2,7,46,0,3,4,1,3,NULL
+Michael,Feliz,Michael,felizmi01,2015,1,HOU,AL,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NULL
+Neftali,Feliz,Neftali,felizne01,2015,2,DET,AL,30,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NULL
+Jeff,Ferrell,Jeffrey Alan,ferreje01,2015,1,DET,AL,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NULL
+Daniel,Fields,Daniel L.,fieldda01,2015,1,DET,AL,1,3,1,1,1,0,0,0,0,0,0,2,0,0,0,0,0,NULL
+Thomas,Field,Thomas Samuel,fieldth01,2015,1,TEX,AL,14,41,6,8,1,0,2,5,1,0,2,16,0,1,1,0,0,NULL
+Mike,Fiers,Michael Bruce,fiersmi01,2015,2,HOU,AL,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NULL
+Cole,Figueroa,Stephen Cole,figueco01,2015,1,NYA,AL,2,8,2,2,2,0,0,0,0,0,0,0,0,0,0,0,0,NULL
+Brandon,Finnegan,Brandon Kyle,finnebr01,2015,1,KCA,AL,14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NULL
+Brandon,Finnegan,Brandon Kyle,finnebr01,2015,2,CIN,NL,6,4,0,0,0,0,0,0,0,0,0,2,0,0,2,0,0,NULL
+Yohan,Flande,Yohan Carlos,flandyo01,2015,1,COL,NL,19,21,1,3,0,0,0,1,0,0,0,10,0,0,1,0,0,NULL
+Kendry,Flores,Kendry,floreke01,2015,1,MIA,NL,7,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,NULL
+Ramon,Flores,Ramon,florera02,2015,1,NYA,AL,12,32,3,7,1,0,0,0,0,0,0,4,0,0,1,0,0,NULL
+Jeff,Francis,Jeffrey William,francje01,2015,1,TOR,AL,14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NULL
+Maikel,Franco,Maikel Antonio,francma02,2015,1,PHI,NL,80,304,45,85,22,1,14,50,1,0,26,52,2,4,0,1,8,NULL
+Kevin,Frandsen,Kevin Vincent,frandke01,2015,1,SFN,NL,7,11,1,2,0,0,0,0,0,0,1,3,0,0,1,0,2,NULL
+Jason,Frasor,Jason Andrew,frasoja01,2015,2,ATL,NL,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NULL
+Carlos,Frias,Carlos David,friasca01,2015,1,LAN,NL,17,21,1,1,0,0,0,0,0,0,1,12,0,1,1,0,0,NULL
+Eric,Fryer,Eric Joseph,fryerer01,2015,1,MIN,AL,15,22,2,5,2,0,0,2,0,0,5,11,0,0,0,0,0,NULL
+Rocky,Gale,Rocky Michael,galero01,2015,1,SDN,NL,11,10,0,1,0,0,0,0,0,0,0,1,0,0,0,0,1,NULL
+Joey,Gallo,Joseph Nicholas,gallojo01,2015,1,TEX,AL,36,108,16,22,3,1,6,14,3,0,15,57,3,0,0,0,0,NULL
+Adonis,Garcia,Adonis,garciad01,2015,1,ATL,NL,58,191,20,53,12,0,10,26,0,0,5,35,0,0,0,2,9,NULL
+Greg,Garcia,Greg Joseph,garcigr01,2015,1,SLN,NL,49,75,7,18,5,0,2,4,0,0,10,12,1,1,1,0,2,NULL
+Jason,Garcia,Jason Emilio,garcija03,2015,1,BAL,AL,21,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,NULL
+Leury,Garcia,Leury,garcile02,2015,1,CHA,AL,18,14,0,3,0,0,0,1,1,0,1,7,0,0,0,0,0,NULL
+Dustin,Garneau,Dustin Thomas,garnedu01,2015,1,COL,NL,22,70,6,11,3,0,2,8,0,0,6,14,2,0,0,0,2,NULL
+Cory,Gearrin,Cory Nathanial,gearrco01,2015,1,SFN,NL,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NULL
+Steve,Geltz,Steven Andrew,geltzst01,2015,1,TBA,AL,70,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NULL
+Gonzalez,Germen,Gonzalez German,germego01,2015,1,CHN,NL,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NULL
+Gonzalez,Germen,Gonzalez German,germego01,2015,2,COL,NL,29,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,NULL
+Conor,Gillaspie,Conor Michael,gillaco01,2015,2,LAA,AL,17,64,4,13,4,1,1,9,0,0,4,13,1,0,0,0,0,NULL
+Cole,Gillespie,Cole Braden,gilleco01,2015,1,MIA,NL,67,145,17,42,10,2,2,16,4,1,10,27,0,0,1,1,5,NULL
+Sean,Gilmartin,Sean Patrick,gilmase01,2015,1,NYN,NL,50,6,1,2,0,0,0,0,0,0,0,3,0,0,0,0,0,NULL
+Chris,Gimenez,Christopher Paul,gimench01,2015,1,TEX,AL,36,98,19,25,6,1,5,14,2,0,10,19,0,1,4,0,2,NULL
+Mychal,Givens,Mychal Antonio,givenmy01,2015,1,BAL,AL,22,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NULL
+Zack,Godley,Zachary Thomas,godleza01,2015,1,ARI,NL,9,9,0,1,0,0,0,0,0,0,0,6,0,0,1,0,0,NULL
+David,Goforth,David Paul,goforda01,2015,1,MIL,NL,20,3,0,0,0,0,0,0,0,0,0,3,0,0,1,0,0,NULL
+Brandon,Gomes,Brandon Paul,gomesbr01,2015,1,TBA,AL,64,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NULL
+Jonny,Gomes,Jonathan Johnson,gomesjo01,2015,2,KCA,AL,12,30,2,5,2,0,0,4,0,0,3,14,0,0,0,1,1,NULL
+Carlos,Gomez,Carlos Argelis,gomezca01,2015,2,HOU,AL,41,149,19,36,9,0,4,13,10,3,8,31,1,2,3,1,1,NULL
+Chi Chi,Gonzalez,Alexander,gonzach01,2015,1,TEX,AL,14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NULL
+Marco,Gonzales,Marco Elias,gonzama02,2015,1,SLN,NL,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NULL
+Severino,Gonzalez,Severino Yunier,gonzase01,2015,1,PHI,NL,7,10,2,1,0,0,0,1,0,0,1,4,0,0,1,0,0,NULL
+Nick,Goody,Nicholas Gunnar,goodyni01,2015,1,NYA,AL,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NULL
+Terrance,Gore,Terrance J.,gorete01,2015,1,KCA,AL,9,3,1,0,0,0,0,0,3,0,0,1,0,1,0,0,0,NULL
+Philip,Gosselin,Philip David,gosseph01,2015,2,ARI,NL,24,66,17,20,5,1,3,13,0,1,7,11,0,2,0,1,2,NULL
+Trevor,Gott,Trevor Vaughan,gotttr01,2015,1,LAA,AL,48,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NULL
+Matt,Grace,Matthew Aaron,gracema02,2015,1,WAS,NL,26,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NULL
+J. R.,Graham,Johnathan Ryan,grahajr01,2015,1,MIN,AL,39,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NULL
+Jon,Gray,Jonathan Charles,grayjo02,2015,1,COL,NL,9,11,1,0,0,0,0,0,0,0,2,6,0,0,0,0,0,NULL
+Grant,Green,Grant Thomas,greengr01,2015,1,LAA,AL,21,42,6,8,0,0,1,3,0,1,2,14,1,0,0,0,2,NULL
+Nick,Greenwood,Nicholas Richard,greenni02,2015,1,SLN,NL,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NULL
+Mayckol,Guaipe,Mayckol Martin,guaipma01,2015,1,SEA,AL,21,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NULL
+Deolis,Guerra,Deolis Alexander,guerrde01,2015,1,PIT,NL,10,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NULL
+Junior,Guerra,Junior J.,guerrju02,2015,1,CHA,AL,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NULL
+Preston,Guilmet,Preston Blake,guilmpr01,2015,1,TBA,AL,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NULL
+Preston,Guilmet,Preston Blake,guilmpr01,2015,2,MIL,NL,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NULL
+Jason,Gurka,Jason Isidore,gurkaja01,2015,1,COL,NL,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NULL
+Franklin,Gutierrez,Franklin Rafael,gutiefr01,2015,1,SEA,AL,59,171,27,50,11,0,15,35,0,0,14,54,1,3,0,1,5,NULL
+Matt,Hague,Matthew Donald,haguema01,2015,1,TOR,AL,10,12,1,3,1,0,0,0,0,0,2,4,1,1,0,0,0,NULL
+David,Hale,David E.,haleda02,2015,1,COL,NL,17,23,1,2,0,0,0,0,0,0,0,9,0,0,4,0,0,NULL
+Cody,Hall,Cody Kevin,hallco01,2015,1,SFN,NL,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NULL
+Cole,Hamels,Colbert Michael,hamelco01,2015,2,TEX,AL,12,3,0,1,0,0,0,0,0,0,0,2,0,0,0,0,0,NULL
+Donovan,Hand,Donovan Jay,handdo01,2015,1,CIN,NL,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NULL
+J. A.,Happ,James Anthony,happja01,2015,2,PIT,NL,11,22,1,2,0,0,0,0,0,0,0,13,0,0,3,0,0,NULL
+Blaine,Hardy,Blaine Patrick,hardybl01,2015,1,DET,AL,70,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NULL
+Dan,Haren,Daniel John,harenda01,2015,2,CHN,NL,11,17,1,1,0,0,0,1,0,0,3,4,0,0,2,1,1,NULL
+Matt,Harrison,Matthew Reid,harrima01,2015,1,TEX,AL,3,2,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,NULL
+Mitch,Harris,Mitchell Andrew,harrimi03,2015,1,SLN,NL,26,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,NULL
+Will,Harris,William Taylor,harriwi02,2015,1,HOU,AL,68,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,NULL
+Jeremy,Hellickson,Jeremy Robert,hellije01,2015,1,ARI,NL,29,41,3,9,0,0,0,7,0,0,2,14,0,2,3,1,0,4275000
+David,Hernandez,David Jose,hernada01,2015,1,ARI,NL,40,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2000000
+Aaron,Hill,Aaron Walter,hillaa01,2015,1,ARI,NL,116,313,32,72,18,0,6,39,7,2,31,54,0,1,0,8,9,12000000
+Daniel,Hudson,Daniel Claiborne,hudsoda01,2015,1,ARI,NL,64,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,800000
+Ender,Inciarte,Ender David,inciaen01,2015,1,ARI,NL,132,524,73,159,27,5,6,45,21,10,26,58,0,4,2,5,8,513000
+Gerald,Laird,Gerald Lee,lairdge01,2015,1,ARI,NL,1,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1000000
+Jake,Lamb,Jacob Ryan,lambja01,2015,1,ARI,NL,107,350,38,92,15,5,6,34,3,2,36,97,3,1,0,3,5,508500
+Evan,Marshall,Evan Patrick,marshev01,2015,1,ARI,NL,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,512000
+Chris,Owings,Christopher Scott,owingch01,2015,1,ARI,NL,147,515,59,117,27,5,4,43,16,4,26,144,3,1,7,3,9,512500
+Jordan,Pacheco,Jordan Patrick,pachejo01,2015,1,ARI,NL,29,66,8,16,0,0,2,8,1,0,9,14,0,1,0,2,6,900000
+Cliff,Pennington,Clifton Randolph,pennicl01,2015,1,ARI,NL,72,135,15,32,3,0,1,10,3,0,16,29,2,0,4,2,4,3275000
+David,Peralta,Senger David,peralda01,2015,1,ARI,NL,149,462,61,144,26,10,17,78,9,4,44,107,2,4,0,7,7,1024000
+Oliver,Perez,Oliver,perezol01,2015,1,ARI,NL,48,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2500000
+A. J.,Pollock,Allen Lorenz,polloaj01,2015,1,ARI,NL,157,609,111,192,39,6,20,76,39,7,53,89,0,2,0,9,19,519500
+Addison,Reed,Addison Devon,reedad01,2015,1,ARI,NL,38,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4875000
+Matt,Reynolds,Matthew Paul,reynoma02,2015,1,ARI,NL,18,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,600000
+Matt,Stites,Matthew Steven,stitema01,2015,1,ARI,NL,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,510500
+Yasmany,Tomas,Yasmany,tomasya01,2015,1,ARI,NL,118,406,40,111,19,3,9,48,5,2,17,110,0,2,0,1,16,5500000
+Mark,Trumbo,Mark Daniel,trumbma01,2015,1,ARI,NL,46,174,23,45,10,3,9,23,0,0,10,39,0,0,0,0,4,6900000
+Brad,Ziegler,Brad Gregory,zieglbr01,2015,1,ARI,NL,66,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5000000
+Chris,Johnson,Christopher Dalton,johnsch05,2015,1,ATL,NL,56,153,12,36,7,0,2,11,2,1,7,49,0,1,0,1,3,6000000
+Jim,Johnson,James Robert,johnsji04,2015,1,ATL,NL,49,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1600000
+Kelly,Johnson,Kelly Andrew,johnske05,2015,1,ATL,NL,62,182,20,50,5,0,9,34,1,1,13,43,1,0,0,1,4,1500000
+Nick,Markakis,Nicholas William,markani01,2015,1,ATL,NL,156,612,73,181,38,1,3,53,2,1,70,83,11,3,0,1,17,11000000
+Cameron,Maybin,Cameron Keith,maybica01,2015,1,ATL,NL,141,505,65,135,18,2,10,59,23,6,45,102,1,1,1,3,16,7000000
+Shelby,Miller,Shelby Charles,millesh01,2015,1,ATL,NL,33,56,1,3,2,0,0,0,0,0,4,29,0,0,11,0,0,535000
+Jace,Peterson,Jace Ryan,peterja01,2015,1,ATL,NL,152,528,55,126,23,5,6,52,12,10,56,120,4,3,7,3,5,507500
+A. J.,Pierzynski,Anthony John,pierzaj01,2015,1,ATL,NL,113,407,38,122,24,1,9,49,0,2,19,37,2,7,0,3,19,2000000
+Andrelton,Simmons,Andrelton A.,simmoan01,2015,1,ATL,NL,147,535,60,142,23,2,4,44,5,3,39,48,6,6,1,2,19,3000000
+Julio,Teheran,Julio Alberto,teherju01,2015,1,ATL,NL,33,52,0,5,0,0,0,2,0,0,2,9,0,0,14,0,0,1000000
+Joey,Terdoslavich,Joseph Thomas,terdojo01,2015,1,ATL,NL,28,56,5,12,4,1,1,4,0,0,3,14,1,0,0,0,1,507500
+Alex,Wood,Robert Alexander,woodal02,2015,1,ATL,NL,20,33,1,5,1,0,0,4,0,0,3,21,0,0,5,0,1,520000
+Eric,Young,Eric Orlando,younger03,2015,1,ATL,NL,35,77,7,13,4,2,0,5,3,0,6,17,1,0,2,0,1,1000000
+Tommy,Hunter,Raymond Thomas,hunteto02,2015,1,BAL,AL,39,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4650000
+Ubaldo,Jimenez,Ubaldo,jimenub01,2015,1,BAL,AL,32,8,0,2,0,0,0,2,0,0,0,4,0,0,0,0,0,12250000
+Adam,Jones,Adam La Marque,jonesad01,2015,1,BAL,AL,137,546,74,147,25,3,27,82,3,1,24,102,3,8,0,3,21,13333333
+Caleb,Joseph,Caleb Martin,josepca01,2015,1,BAL,AL,100,320,38,75,16,1,11,49,0,0,27,72,2,3,3,1,7,515000
+David,Lough,David Dennis,loughda01,2015,1,BAL,AL,84,134,14,27,1,1,4,12,2,4,5,36,0,2,3,0,0,525500
+Manny,Machado,Manuel Arturo,machama01,2015,1,BAL,AL,162,633,102,181,30,1,35,86,20,8,70,111,2,4,2,4,17,548000
+Brian,Matusz,Brian Robert,matusbr01,2015,1,BAL,AL,58,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3200000
+T. J.,McFarland,Timothy J.,mcfartj01,2015,1,BAL,AL,30,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,519000
+Bud,Norris,David Stefan,norribu01,2015,1,BAL,AL,18,4,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,8800000
+Darren,O'Day,Darren Christopher,odayda01,2015,1,BAL,AL,68,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4250000
+Jimmy,Paredes,Jimmy Santiago,paredji01,2015,1,BAL,AL,104,363,46,100,17,2,10,42,4,4,19,111,0,0,0,2,8,515000
+Steve,Pearce,Steven Wayne,pearcst01,2015,1,BAL,AL,92,294,42,64,13,1,15,40,1,1,23,69,1,7,0,1,11,3700000
+Jonathan,Schoop,Jonathan Rufino Jezus,schoojo01,2015,1,BAL,AL,86,305,34,85,17,0,15,39,2,0,9,79,0,4,1,2,9,515000
+Travis,Snider,Travis James,snidetr01,2015,1,BAL,AL,69,211,23,50,9,2,3,20,1,0,23,56,1,2,0,0,3,2100000
+Chris,Tillman,Christopher Steven,tillmch01,2015,1,BAL,AL,31,2,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,4315000
+Matt,Wieters,Matthew Richard,wietema01,2015,1,BAL,AL,75,258,24,69,14,1,8,25,0,0,21,67,0,0,0,3,4,8300000
+Delmon,Young,Delmon Damarcus,youngde03,2015,1,BAL,AL,52,174,20,47,6,0,2,16,0,0,4,29,0,1,0,1,8,2250000
+Heath,Hembree,Richard Heath,hembrhe01,2015,1,BOS,AL,22,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,509500
+Brock,Holt,Brock Wyatt,holtbr01,2015,1,BOS,AL,129,454,56,127,27,6,2,45,8,1,46,97,0,3,4,2,7,530500
+Joe,Kelly,Joseph William,kellyjo05,2015,1,BOS,AL,25,5,0,1,0,0,0,1,0,0,0,2,0,0,0,0,0,603000
+Tommy,Layne,Thomas Kevin,layneto01,2015,1,BOS,AL,64,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,557000
+Sandy,Leon,Sandy David,leonsa01,2015,1,BOS,AL,41,114,8,21,2,0,0,3,0,1,7,28,1,1,6,0,4,510400
+Justin,Masterson,Justin Daniel,masteju01,2015,1,BOS,AL,18,3,0,2,0,0,0,1,0,0,0,1,0,0,0,0,0,9500000
+Wade,Miley,Wade Allen,mileywa01,2015,1,BOS,AL,32,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3666000
+Edward,Mujica,Edward Jose,mujiced01,2015,1,BOS,AL,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4750000
+Mike,Napoli,Michael Anthony,napolmi01,2015,1,BOS,AL,98,329,37,68,18,1,13,40,3,1,45,99,2,3,0,1,10,16000000
+Daniel,Nava,Daniel James,navada01,2015,1,BOS,AL,29,66,6,10,2,0,0,7,0,0,8,17,0,2,1,1,3,1850000
+Alexi,Ogando,Alexi,ogandal01,2015,1,BOS,AL,64,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1500000
+David,Ortiz,David Americo,ortizda01,2015,1,BOS,AL,146,528,73,144,37,0,37,108,0,1,77,95,16,0,0,9,16,16000000
+Dustin,Pedroia,Dustin Luis,pedrodu01,2015,1,BOS,AL,93,381,46,111,19,1,12,42,2,2,38,51,1,2,1,3,6,12500000
+Rick,Porcello,Frederick Alfred,porceri01,2015,1,BOS,AL,28,2,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,12500000
+Hanley,Ramirez,Hanley,ramirha01,2015,1,BOS,AL,105,401,59,100,12,1,19,53,6,3,21,71,2,4,0,4,11,19750000
+Robbie,Ross,Robert Charles,rossro01,2015,1,BOS,AL,54,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,566500
+Pablo,Sandoval,Pablo Emilio,sandopa01,2015,1,BOS,AL,126,470,43,115,25,1,10,47,0,0,25,73,1,7,1,2,14,17600000
+Junichi,Tazawa,Junichi,tazawju01,2015,1,BOS,AL,61,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2250000
+Koji,Uehara,Koji,ueharko01,2015,1,BOS,AL,43,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9000000
+Anthony,Varvaro,Anthony Michael,varvaan01,2015,1,BOS,AL,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,576500
+Shane,Victorino,Shane Patrick,victosh01,2015,1,BOS,AL,33,94,10,23,2,0,1,4,5,0,9,14,0,2,1,0,3,13000000
+Steven,Wright,Steven Richard,wrighst01,2015,1,BOS,AL,16,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,510500
+Dan,Jennings,Daniel Lee,jennida01,2015,1,CHA,AL,53,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,523000
+Nate,Jones,Nathan Andrew,jonesna01,2015,1,CHA,AL,19,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,660000
+Adam,LaRoche,David Adam,larocad01,2015,1,CHA,AL,127,429,41,89,21,0,12,44,0,0,49,133,0,4,0,2,10,12000000
+Hector,Noesi,Hector,noesihe01,2015,1,CHA,AL,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1950000
+Jake,Petricka,Jacob Steven,petrija01,2015,1,CHA,AL,62,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,520000
+Zach,Putnam,Steven Zachary McGuire,putnaza01,2015,1,CHA,AL,49,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,525000
+Jose,Quintana,Jose Guillermo,quintjo01,2015,1,CHA,AL,32,8,0,0,0,0,0,0,0,0,0,5,0,0,1,0,0,3400000
+Alexei,Ramirez,Alexei Fernando,ramiral03,2015,1,CHA,AL,154,583,54,145,33,0,10,62,17,7,31,68,2,1,1,6,18,10000000
+David,Robertson,David Alan,roberda08,2015,1,CHA,AL,60,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10000000
+Chris,Sale,Christopher,salech01,2015,1,CHA,AL,31,9,1,1,0,0,0,0,0,0,0,4,0,0,0,0,0,6000000
+Jeff,Samardzija,Jeffrey Alan,samarje01,2015,1,CHA,AL,32,2,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,9800000
+Carlos,Sanchez,Yolmer Carlos,sanchca01,2015,1,CHA,AL,120,389,40,87,23,1,5,31,2,2,19,81,0,5,6,1,9,510000
+J. B.,Shuck,Jack Burdett,shuckja01,2015,1,CHA,AL,79,143,15,38,8,2,0,15,7,5,16,16,0,1,3,2,2,516000
+Geovany,Soto,Geovany,sotoge01,2015,1,CHA,AL,78,187,20,41,8,0,9,21,0,1,21,63,0,1,1,0,2,1500000
+Kyle,Hendricks,Kyle Christian,hendrky01,2015,1,CHN,NL,32,60,2,3,1,0,0,1,0,0,1,24,0,0,3,0,2,510000
+Jonathan,Herrera,Jonathan Alejandro,herrejo03,2015,1,CHN,NL,73,126,14,29,5,1,2,14,3,0,2,23,1,0,4,0,3,900000
+Edwin,Jackson,Edwin,jacksed01,2015,1,CHN,NL,23,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,13000000
+Tommy,La Stella,Thomas F.,lasteto01,2015,1,CHN,NL,33,67,4,18,6,0,1,11,2,0,5,7,0,1,0,1,1,513000
+Jon,Lester,Jonathan Tyler,lestejo01,2015,1,CHN,NL,32,62,6,4,0,0,0,0,0,0,3,30,0,0,6,0,1,20000000
+Miguel,Montero,Miguel Angel,montemi01,2015,1,CHN,NL,113,347,36,86,11,0,15,53,1,1,49,103,5,4,0,3,9,12000000
+Jason,Motte,Jason Louis,motteja01,2015,1,CHN,NL,57,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4500000
+Mike,Olt,Michael George,oltmi01,2015,1,CHN,NL,6,15,1,2,0,0,1,1,0,0,0,6,0,1,0,0,0,520000
+Neil,Ramirez,Neil Andrew,ramirne01,2015,1,CHN,NL,19,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,514500
+Anthony,Rizzo,Anthony Vincent,rizzoan01,2015,1,CHN,NL,160,586,94,163,38,3,31,101,17,6,78,105,9,30,0,7,9,5000000
+Hector,Rondon,Hector Luis,rondohe01,2015,1,CHN,NL,72,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,544000
+David,Ross,David Wade,rossda01,2015,1,CHN,NL,72,159,6,28,9,0,1,9,1,0,20,61,7,0,2,1,1,2500000
+Jorge,Soler,Jorge Carlos,solerjo01,2015,1,CHN,NL,101,366,39,96,18,1,10,47,3,1,32,121,5,3,0,3,9,2666667
+Pedro,Strop,Pedro Angel,stroppe01,2015,1,CHN,NL,76,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2525000
+Matt,Szczur,Matthew,szczuma01,2015,1,CHN,NL,47,72,5,16,5,0,1,8,2,0,6,15,0,0,1,1,1,508500
+Tsuyoshi,Wada,Tsuyoshi,wadats01,2015,1,CHN,NL,8,8,1,0,0,0,0,0,0,0,1,5,0,0,0,0,0,4000000
+Travis,Wood,Travis A.,woodtr01,2015,1,CHN,NL,60,30,0,3,0,0,0,2,0,0,2,16,0,0,0,0,0,5686000
+J. J.,Hoover,James Allen,hoovejj01,2015,1,CIN,NL,67,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,535000
+Raisel,Iglesias,Raisel,iglesra01,2015,1,CIN,NL,18,30,0,2,0,1,0,1,0,0,0,13,0,0,1,0,0,1714286
+Mike,Leake,Michael Raymond,leakemi01,2015,1,CIN,NL,25,52,3,7,3,0,1,5,0,0,0,25,0,0,4,0,0,9775000
+Sam,LeCure,Samuel R.,lecursa01,2015,1,CIN,NL,19,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1850000
+Jason,Marquis,Jason Scott,marquja01,2015,1,CIN,NL,10,16,2,3,1,0,0,1,0,0,0,4,0,0,1,0,0,1500000
+Devin,Mesoraco,Devin Douglas,mesorde01,2015,1,CIN,NL,23,45,2,8,1,1,0,2,1,0,5,9,0,1,0,0,0,2525000
+Kristopher,Negron,Kristopher David,negrokr01,2015,1,CIN,NL,43,93,5,13,2,0,0,2,2,0,9,23,0,3,2,0,2,512500
+Manny,Parra,Manuel Alex,parrama01,2015,1,CIN,NL,40,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3500000
+Brayan,Pena,Brayan Eduardo,penabr01,2015,1,CIN,NL,108,333,17,91,17,0,0,18,2,0,29,34,1,2,2,1,10,1400000
+Brandon,Phillips,Brandon Emil,phillbr01,2015,1,CIN,NL,148,588,69,173,19,2,12,70,23,3,27,68,1,4,1,3,13,12000000
+Skip,Schumaker,Jared Michael,schumsk01,2015,1,CIN,NL,131,244,23,59,20,0,1,21,2,2,23,51,2,0,0,1,7,2500000
+Joey,Votto,Joseph Daniel,vottojo01,2015,1,CIN,NL,158,545,95,171,33,2,29,80,11,3,143,135,15,5,0,2,11,14000000
+T. J.,House,Glenn Anthony,housetj01,2015,1,CLE,AL,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,511900
+Jason,Kipnis,Jason Michael,kipnija01,2015,1,CLE,AL,141,565,86,171,43,7,9,52,12,8,57,107,6,9,4,6,5,4166666
+Corey,Kluber,Corey Scott,klubeco01,2015,1,CLE,AL,32,6,0,0,0,0,0,0,0,0,0,3,0,0,0,0,1,1200000
+Zach,McAllister,Zachary Taylor,mcallza01,2015,1,CLE,AL,61,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,520400
+Brandon,Moss,Brandon Douglas,mossbr01,2015,1,CLE,AL,94,337,36,73,17,1,15,50,0,0,32,106,2,3,0,3,9,6500000
+David,Murphy,David Matthew,murphda07,2015,1,CLE,AL,84,206,22,61,12,1,5,27,0,1,16,29,1,1,1,4,4,6000000
+Roberto,Perez,Roberto,perezro02,2015,1,CLE,AL,70,184,30,42,9,1,7,21,0,0,33,64,1,2,5,2,9,508600
+Ryan,Raburn,Ryan Neil,raburry01,2015,1,CLE,AL,82,173,22,52,16,1,8,29,0,0,23,44,3,4,0,1,5,2500000
+Jose,Ramirez,Jose Enrique,ramirjo01,2015,1,CLE,AL,97,315,50,69,14,3,6,27,10,4,32,39,0,1,5,2,5,511300
+Marc,Rzepczynski,Marc Walter,rzepcma01,2015,1,CLE,AL,45,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2400000
+Carlos,Santana,Carlos,santaca01,2015,1,CLE,AL,154,550,72,127,29,2,19,85,11,3,108,122,8,3,0,5,20,6000000
+Bryan,Shaw,Bryan Anthony,shawbr01,2015,1,CLE,AL,74,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1550000
+Anthony,Swarzak,Anthony Ray,swarzan01,2015,1,CLE,AL,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,900000
+Nick,Swisher,Nicholas Thomas,swishni01,2015,1,CLE,AL,30,101,6,20,4,0,2,8,0,0,8,24,1,1,0,1,2,15000000
+Josh,Tomlin,Joshua Aubry,tomlijo01,2015,1,CLE,AL,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1500000
+Zach,Walters,Zachary Butler,walteza01,2015,1,CLE,AL,12,30,0,4,0,0,0,3,0,0,0,15,0,0,0,0,0,509600
+LaTroy,Hawkins,LaTroy,hawkila01,2015,1,COL,NL,24,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,2250000
+Nick,Hundley,Nicholas John,hundlni01,2015,1,COL,NL,103,366,45,110,21,5,10,43,5,6,21,76,0,1,0,1,8,3100000
+Kyle,Kendrick,Kyle Rodney,kendrky01,2015,1,COL,NL,27,43,6,8,2,0,1,2,0,0,3,16,0,0,3,0,1,5500000
+DJ,LeMahieu,David John,lemahdj01,2015,1,COL,NL,150,564,85,170,21,5,6,61,23,3,50,107,4,1,3,2,20,517500
+Boone,Logan,Boone,loganbo02,2015,1,COL,NL,60,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5500000
+Jordan,Lyles,Jordan Horton,lylesjo01,2015,1,COL,NL,11,19,0,0,0,0,0,0,0,0,0,11,0,0,0,0,0,2475000
+Tyler,Matzek,Tyler Alexander,matzety01,2015,1,COL,NL,6,8,3,3,1,0,0,0,0,0,0,1,0,0,1,0,0,509500
+Michael,McKenry,Michael Charles,mckenmi01,2015,1,COL,NL,58,127,20,26,7,3,4,17,2,2,22,41,0,2,0,1,2,1087600
+Justin,Morneau,Justin Ernest George,morneju01,2015,1,COL,NL,49,168,19,52,10,3,3,15,0,0,13,25,2,1,0,0,2,6750000
+Adam,Ottavino,Adam Robert,ottavad01,2015,1,COL,NL,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1300000
+Wilin,Rosario,Wilin Arismendy,rosarwi01,2015,1,COL,NL,87,231,22,62,14,1,6,29,2,1,8,56,2,1,1,1,8,2800000
+Drew,Stubbs,Robert Andrew,stubbdr01,2015,1,COL,NL,51,102,14,22,3,2,5,10,2,1,9,50,1,1,2,0,1,5825000
+Troy,Tulowitzki,Troy Trever,tulowtr01,2015,1,COL,NL,87,323,46,97,19,0,12,53,0,0,24,72,4,1,0,3,13,20000000
+Jose,Iglesias,Jose Antonio,iglesjo01,2015,1,DET,AL,120,416,44,125,17,3,2,23,11,8,25,44,2,6,4,3,10,1443750
+Ian,Kinsler,Ian Michael,kinslia01,2015,1,DET,AL,154,624,94,185,35,7,11,73,10,6,43,80,0,3,0,5,13,16000000
+Ian,Krol,Ian A.,krolia01,2015,1,DET,AL,33,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,515000
+J. D.,Martinez,Julio Daniel,martijd02,2015,1,DET,AL,158,596,93,168,33,2,38,102,3,2,53,178,7,5,0,3,11,3000000
+Victor,Martinez,Victor Jesus,martivi01,2015,1,DET,AL,120,440,39,108,20,0,11,64,0,0,31,52,8,7,0,7,18,14000000
+James,McCann,James Thomas,mccanja02,2015,1,DET,AL,114,401,32,106,18,5,7,41,0,1,16,90,0,3,4,1,17,507500
+Joe,Nathan,Joseph Michael,nathajo01,2015,1,DET,AL,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10000000
+Hernan,Perez,Hernan Alejandro,perezhe01,2015,1,DET,AL,22,33,1,2,0,0,0,0,1,0,1,11,0,0,0,0,2,508500
+David,Price,David Taylor,priceda01,2015,1,DET,AL,21,5,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,19750000
+Andrew,Romine,Andrew James,rominan01,2015,1,DET,AL,109,184,25,47,5,0,2,15,10,5,11,46,1,3,4,1,4,520000
+Bruce,Rondon,Bruce,rondobr01,2015,1,DET,AL,35,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,510000
+Anibal,Sanchez,Anibal Alejandro,sanchan01,2015,1,DET,AL,25,4,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,16800000
+Alfredo,Simon,Alfredo,simonal01,2015,1,DET,AL,31,5,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,5550000
+Joakim,Soria,Joakim Agustin,soriajo01,2015,1,DET,AL,43,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7000000
+Justin,Verlander,Justin Brooks,verlaju01,2015,1,DET,AL,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,28000000
+Dallas,Keuchel,Dallas,keuchda01,2015,1,HOU,AL,33,5,0,1,0,0,0,0,0,0,0,4,0,0,1,0,0,524500
+Jed,Lowrie,Jed Carlson,lowrije01,2015,1,HOU,AL,69,230,35,51,14,0,9,30,1,0,28,43,5,3,0,2,3,8000000
+Jake,Marisnick,Jacob Shawn,marisja01,2015,1,HOU,AL,133,339,46,80,15,4,9,36,24,9,18,105,0,5,6,4,2,511200
+Collin,McHugh,Collin Alexander,mchugco01,2015,1,HOU,AL,32,8,1,1,0,0,0,0,0,0,0,4,0,0,0,0,0,516300
+Pat,Neshek,Patrick John,neshepa01,2015,1,HOU,AL,66,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5500000
+Brett,Oberholtzer,Brett R.,oberhbr01,2015,1,HOU,AL,8,0,0,0,0,0,0,0,0,0,1,0,0,0,2,0,0,515800
+Brad,Peacock,Bradley J.,peacobr01,2015,1,HOU,AL,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,515800
+Alex,Presley,Alexander Crawford,preslal01,2015,1,HOU,AL,8,12,1,3,0,0,0,1,0,0,1,5,0,0,0,0,0,1000000
+Chad,Qualls,Chad Michael,quallch01,2015,1,HOU,AL,60,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3000000
+Colby,Rasmus,Colby Ryan,rasmuco01,2015,1,HOU,AL,137,432,67,103,23,2,25,61,2,1,47,154,0,2,1,3,6,8000000
+Jon,Singleton,Jonathan Lee,singljo02,2015,1,HOU,AL,19,47,6,9,2,0,1,6,1,0,10,17,0,0,0,1,0,2000000
+Tony,Sipp,Tony Marcel,sippto01,2015,1,HOU,AL,60,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2400000
+George,Springer,George Chelston,springe01,2015,1,HOU,AL,102,388,59,107,19,2,16,41,16,4,50,109,0,8,2,3,4,512900
+Joe,Thatcher,Joseph,thatcjo01,2015,1,HOU,AL,43,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1000000
+Luis,Valbuena,Luis Adan,valbulu01,2015,1,HOU,AL,132,434,62,97,18,0,25,56,1,0,50,106,1,6,0,3,13,4200000
+Kelvin,Herrera,Kelvin De Jesus,herreke01,2015,1,KCA,AL,72,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1600000
+Luke,Hochevar,Luke Anthony,hochelu01,2015,1,KCA,AL,50,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4000000
+Greg,Holland,Gregory Scott,hollagr01,2015,1,KCA,AL,48,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8250000
+Eric,Hosmer,Eric John,hosmeer01,2015,1,KCA,AL,158,599,98,178,33,5,18,93,7,3,61,108,6,3,1,3,16,5650000
+Omar,Infante,Omar Rafael,infanom01,2015,1,KCA,AL,124,440,39,97,23,7,2,44,2,2,9,69,0,0,2,4,8,7500000
+Erik,Kratz,Erik Floyd,kratzer01,2015,1,KCA,AL,4,4,0,0,0,0,0,1,0,0,0,2,0,0,0,1,0,532500
+Ryan,Madson,Ryan Michael,madsory01,2015,1,KCA,AL,68,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,850000
+Kris,Medlen,Kristopher Allen,medlekr01,2015,1,KCA,AL,15,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,2000000
+Franklin,Morales,Franklin Miguel,moralfr01,2015,1,KCA,AL,67,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1850000
+Kendrys,Morales,Kendrys,moralke01,2015,1,KCA,AL,158,569,81,165,41,2,22,106,0,0,58,103,4,8,0,4,24,6500000
+Mike,Moustakas,Michael Christopher,moustmi01,2015,1,KCA,AL,147,549,73,156,34,1,22,82,1,2,43,76,1,13,4,5,14,2640000
+Salvador,Perez,Salvador Johan,perezsa02,2015,1,KCA,AL,142,531,52,138,25,0,21,70,1,0,13,82,4,4,0,5,23,1750000
+Alex,Rios,Alexis Israel,riosal01,2015,1,KCA,AL,105,385,40,98,22,2,4,32,9,0,15,67,0,5,0,6,10,11000000
+Jason,Vargas,Jason Matthew,vargaja01,2015,1,KCA,AL,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8500000
+Yordano,Ventura,Yordano,ventuyo01,2015,1,KCA,AL,28,6,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,950000
+Edinson,Volquez,Edinson,volqued01,2015,1,KCA,AL,34,6,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,7500000
+Chris,Young,Christopher Ryan,youngch03,2015,1,KCA,AL,34,4,0,2,0,0,0,3,0,0,0,1,0,0,0,0,0,675000
+Chris,Iannetta,Christopher Domenic,iannech01,2015,1,LAA,AL,92,272,28,51,10,0,10,34,0,1,41,83,1,1,0,3,11,5525000
+Matthew,Joyce,Matthew Ryan,joycema01,2015,1,LAA,AL,93,247,17,43,12,1,5,21,0,3,30,67,1,4,1,2,5,4750000
+Mike,Morin,Michael William,morinmi01,2015,1,LAA,AL,47,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,514000
+Efren,Navarro,Efren,navaref01,2015,1,LAA,AL,54,83,9,21,4,0,0,5,0,2,5,16,1,0,0,0,5,511000
+Kirk,Nieuwenhuis,Kirk Robert,nieuwki01,2015,2,LAA,AL,10,22,4,3,2,0,0,1,0,1,2,9,0,0,0,0,0,525415
+Vinnie,Pestano,Vincent William,pestavi01,2015,1,LAA,AL,19,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1150000
+Albert,Pujols,Jose Alberto,pujolal01,2015,1,LAA,AL,157,602,85,147,22,0,40,95,5,3,50,72,10,6,0,3,15,24000000
+Cesar,Ramos,Cesar,ramosce01,2015,1,LAA,AL,65,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1312000
+Cory,Rasmus,Cory Taylor,rasmuco02,2015,1,LAA,AL,16,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,513000
+Garrett,Richards,Garrett Thomas,richaga01,2015,1,LAA,AL,32,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3200000
+Dan,Robertson,Daniel Roger,roberda09,2015,1,LAA,AL,37,75,10,21,2,0,0,7,0,0,2,7,1,0,3,0,1,511250
+Fernando,Salas,Noel Fernando,salasfe01,2015,1,LAA,AL,72,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1370000
+Hector,Santiago,Hector Felipe,santihe01,2015,1,LAA,AL,33,5,0,1,0,0,0,0,0,0,0,3,0,0,0,0,1,2290000
+Matt,Shoemaker,Matthew David,shoemma01,2015,1,LAA,AL,25,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,517500
+Joe,Smith,Joseph Michael,smithjo05,2015,1,LAA,AL,70,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5250000
+Huston,Street,Huston Lowell,streehu01,2015,1,LAA,AL,62,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7000000
+Mike,Trout,Michael Nelson,troutmi01,2015,1,LAA,AL,159,575,104,172,32,6,41,90,11,7,92,158,14,10,0,5,11,6083000
+Jered,Weaver,Jered David,weaveje02,2015,1,LAA,AL,26,2,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,18000000
+C. J.,Wilson,Christopher John,wilsocj01,2015,1,LAA,AL,21,6,0,2,0,0,0,0,0,0,0,1,0,0,0,0,0,18000000
+Chris,Hatcher,David Christopher,hatchch02,2015,1,LAN,NL,49,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,522500
+Chris,Heisey,Chris J.,heisech01,2015,1,LAN,NL,33,55,8,10,2,0,2,9,0,1,15,17,2,0,0,2,1,2160000
+J. P.,Howell,James Phillip,howeljp01,2015,1,LAN,NL,65,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4000000
+Kenley,Jansen,Kenley Geronimo,janseke01,2015,1,LAN,NL,54,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7425000
+Howie,Kendrick,Howard Joseph,kendrho01,2015,1,LAN,NL,117,464,64,137,22,2,9,54,6,2,27,82,1,2,1,1,17,9500000
+Clayton,Kershaw,Clayton Edward,kershcl01,2015,1,LAN,NL,34,71,2,9,2,0,0,2,0,0,2,23,0,1,5,0,2,32571000
+Brandon,McCarthy,Brandon Patrick,mccarbr01,2015,1,LAN,NL,4,6,0,0,0,0,0,1,0,0,1,5,0,0,2,0,0,12500000
+Juan,Nicasio,Juan Ramon,nicasju01,2015,1,LAN,NL,54,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2300000
+Joc,Pederson,Joc Russell,pederjo01,2015,1,LAN,NL,151,480,67,101,19,1,26,54,4,7,92,170,6,9,2,2,5,510000
+Joel,Peralta,Joel,peraljo01,2015,1,LAN,NL,33,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,2500000
+Yasiel,Puig,Yasiel,puigya01,2015,1,LAN,NL,79,282,30,72,12,3,11,38,3,3,26,66,1,2,0,1,1,6214000
+Paco,Rodriguez,Steven Francis,rodrist02,2015,1,LAN,NL,18,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,522500
+Jimmy,Rollins,James Calvin,rolliji01,2015,1,LAN,NL,144,517,71,116,24,3,13,41,12,8,44,86,0,0,1,1,12,11000000
+Justin,Turner,Justin Matthew,turneju01,2015,1,LAN,NL,126,385,55,113,26,1,16,60,5,2,36,71,1,13,1,4,10,2500000
+Juan,Uribe,Juan C.,uribeju01,2015,1,LAN,NL,29,81,6,20,2,0,1,6,1,0,5,9,0,0,0,1,5,6500000
+Scott,Van Slyke,Scott T.,vanslsc01,2015,1,LAN,NL,96,222,19,53,14,0,6,30,3,1,23,62,2,4,1,3,5,522500
+Joe,Wieland,Joseph Andrew,wielajo01,2015,1,LAN,NL,2,1,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,590000
+Adeiny,Hechavarria,Adeiny,hechaad01,2015,1,MIA,NL,130,470,54,132,17,6,5,48,7,2,23,78,4,2,0,4,18,1925000
+Don,Kelly,Donald Thomas,kellydo01,2015,1,MIA,NL,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1250000
+Tom,Koehler,Thomas R.,koehlto01,2015,1,MIA,NL,32,50,2,6,1,0,0,1,0,0,2,28,0,0,12,0,1,555000
+Mat,Latos,Mathew Adam,latosma01,2015,1,MIA,NL,16,18,0,5,0,0,0,1,0,0,0,6,0,0,9,0,0,9400000
+Jeff,Mathis,Jeffrey Stephen,mathije01,2015,1,MIA,NL,32,93,9,15,4,1,2,12,0,0,7,24,1,0,0,3,2,1500000
+Bryan,Morris,Avery Bryan,morribr01,2015,1,MIA,NL,67,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,531500
+Marcell,Ozuna,Marcell,ozunama01,2015,1,MIA,NL,123,459,47,119,27,0,10,44,2,3,30,110,1,3,0,2,10,545000
+David,Phelps,David Edward,phelpda01,2015,1,MIA,NL,23,34,0,4,0,0,0,0,0,0,0,16,0,1,5,0,0,1400000
+Martin,Prado,Martin Manuel,pradoma01,2015,1,MIA,NL,129,500,52,144,22,2,9,63,1,0,37,68,4,5,1,8,9,11000000
+A. J.,Ramos,Alejandro,ramosaj01,2015,1,MIA,NL,71,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,530000
+Donovan,Solano,Donovan,solando01,2015,1,MIA,NL,55,90,6,17,3,1,0,7,0,0,1,18,0,2,1,0,4,531500
+Giancarlo,Stanton,Giancarlo Cruz-Michael,stantmi03,2015,1,MIA,NL,74,279,47,74,12,1,27,67,4,2,34,95,6,2,0,3,5,6500000
+Ichiro,Suzuki,Ichiro,suzukic01,2015,1,MIA,NL,153,398,45,91,5,6,1,21,11,5,31,51,1,0,5,4,8,2000000
+Christian,Yelich,Christian Stephen,yelicch01,2015,1,MIA,NL,126,476,63,143,30,2,7,44,16,5,47,101,2,2,0,0,13,570000
+Jeremy,Jeffress,Jeremy Ross,jeffrje01,2015,1,MIL,NL,72,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,510500
+Luis,Jimenez,Luis Domingo,jimenlu02,2015,1,MIL,NL,15,15,1,1,0,0,0,0,0,0,1,6,0,0,0,0,0,508500
+Brandon,Kintzler,Brandon Lee,kintzbr01,2015,1,MIL,NL,7,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1075000
+Adam,Lind,Adam Alan,lindad01,2015,1,MIL,NL,149,502,72,139,32,0,20,87,0,0,66,100,11,1,0,3,7,7500000
+Kyle,Lohse,Kyle Matthew,lohseky01,2015,1,MIL,NL,41,39,3,9,1,0,0,1,0,0,0,10,0,0,3,0,1,11000000
+Jonathan,Lucroy,Jonathan Charles,lucrojo01,2015,1,MIL,NL,103,371,51,98,20,3,7,43,1,0,36,64,0,1,1,6,18,3000000
+Martin,Maldonado,Martin Benjamin,maldoma01,2015,1,MIL,NL,79,229,19,48,7,0,4,22,0,1,23,65,3,1,1,2,6,825000
+Jimmy,Nelson,James Jacob,nelsoji02,2015,1,MIL,NL,30,55,1,6,1,0,0,2,0,0,1,34,0,0,3,0,0,511500
+Gerardo,Parra,Gerardo Enrique,parrage01,2015,1,MIL,NL,100,323,53,106,24,5,9,31,9,3,20,57,2,3,1,4,7,6237500
+Wily,Peralta,Wily,peralwi01,2015,1,MIL,NL,20,30,1,1,0,0,0,1,0,0,3,15,0,0,4,0,0,525500
+Aramis,Ramirez,Aramis,ramirar01,2015,1,MIL,NL,81,279,25,69,18,0,11,42,1,0,16,42,3,4,0,3,12,14000000
+Francisco,Rodriguez,Francisco Jose,rodrifr03,2015,1,MIL,NL,60,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3500000
+Jason,Rogers,Jason Douglas,rogerja02,2015,1,MIL,NL,86,152,22,45,6,2,4,16,0,0,15,34,0,2,0,0,2,507500
+Logan,Schafer,Logan Edward,schaflo01,2015,1,MIL,NL,69,122,17,27,6,1,1,6,1,0,12,29,0,2,6,1,3,510500
+Jean,Segura,Jean Carlos Enrique,segurje01,2015,1,MIL,NL,142,560,57,144,16,5,6,50,25,6,13,93,2,6,3,2,14,534000
+Will,Smith,William Michael,smithwi04,2015,1,MIL,NL,76,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,512500
+Tyler,Thornburg,Tyler Michael,thornty01,2015,1,MIL,NL,24,3,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,510500
+Rob,Wooten,Robert Davis,wootero01,2015,1,MIL,NL,4,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,509500
+Chris,Herrmann,Christopher Ryan,herrmch01,2015,1,MIN,AL,45,103,13,15,5,1,2,10,0,0,7,37,0,2,1,0,1,510000
+Phil,Hughes,Philip Joseph,hugheph01,2015,1,MIN,AL,27,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9200000
+Torii,Hunter,Torii Kedar,hunteto01,2015,1,MIN,AL,139,521,67,125,22,0,22,81,2,5,35,105,1,6,0,5,14,10500000
+Joe,Mauer,Joseph Patrick,mauerjo01,2015,1,MIN,AL,158,592,69,157,34,2,10,66,2,1,67,112,12,1,1,5,22,23000000
+Tommy,Milone,Tomaso Anthony,milonto01,2015,1,MIN,AL,24,2,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,2775000
+Ricky,Nolasco,Carlos Enrique,nolasri01,2015,1,MIN,AL,9,3,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,12000000
+Eduardo,Nunez,Eduardo Michelle,nunezed02,2015,1,MIN,AL,72,188,23,53,14,1,4,20,8,4,12,29,0,1,2,1,1,1025000
+Mike,Pelfrey,Michael Alan,pelfrmi01,2015,1,MIN,AL,30,3,0,2,0,0,0,0,0,0,0,1,0,0,0,0,0,5500000
+Glen,Perkins,Glen Weston,perkigl01,2015,1,MIN,AL,60,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4650000
+Trevor,Plouffe,Trevor Patrick,plouftr01,2015,1,MIN,AL,152,573,74,140,35,4,22,86,2,1,50,124,0,4,1,4,28,4800000
+Shane,Robinson,Shane Michael,robinsh01,2015,1,MIN,AL,83,180,28,45,7,3,0,16,6,1,12,29,0,1,3,1,4,550000
+Danny,Santana,Daniel Ernesto,santada01,2015,1,MIN,AL,91,261,30,56,10,5,0,21,8,4,6,68,1,3,7,0,7,530000
+Ervin,Santana,Ervin Ramon,santaer01,2015,1,MIN,AL,17,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,13500000
+Jordan,Schafer,Jordan James,schafjo02,2015,1,MIN,AL,27,69,9,15,3,0,0,5,0,3,3,23,0,0,2,0,0,1550000
+Tim,Stauffer,Timothy James,staufti01,2015,1,MIN,AL,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2200000
+Kurt,Suzuki,Kurt Kiyoshi,suzukku01,2015,1,MIN,AL,131,433,36,104,17,0,5,50,0,0,29,59,4,7,6,4,14,6000000
+Aaron,Thompson,Aaron Marshall,thompaa01,2015,1,MIN,AL,41,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,520000
+Kennys,Vargas,Kennys,vargake01,2015,1,MIN,AL,58,175,18,42,4,0,5,17,0,0,9,54,0,0,0,0,7,517500
+Chase,Headley,Chase Jordan,headlch01,2015,1,NYA,AL,156,580,74,150,29,1,11,62,0,2,51,135,0,7,0,4,17,13000000
+Garrett,Jones,Garrett Thomas,jonesga02,2015,1,NYA,AL,57,144,12,31,4,1,5,17,0,0,8,37,0,0,0,0,1,5000000
+Chris,Martin,Christopher Riley,martich02,2015,1,NYA,AL,24,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,511025
+Brian,McCann,Brian Michael,mccanbr01,2015,1,NYA,AL,135,465,68,108,15,1,26,94,0,0,52,97,3,11,0,7,7,17000000
+Andrew,Miller,Andrew Mark,millean01,2015,1,NYA,AL,60,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9000000
+J. R.,Murphy,John Ryan,murphjr01,2015,1,NYA,AL,67,155,21,43,9,1,3,14,0,0,12,43,0,1,1,3,4,518700
+Ivan,Nova,Ivan Manuel,novaiv01,2015,1,NYA,AL,17,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3300000
+Gregorio,Petit,Gregorio Jesus,petitgr01,2015,1,NYA,AL,20,42,7,7,3,0,0,5,0,0,3,16,1,0,1,1,0,510000
+Michael,Pineda,Michael Francisco,pinedmi01,2015,1,NYA,AL,27,2,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,2100000
+Jose,Pirela,Jose Manuel,pireljo01,2015,1,NYA,AL,37,74,7,17,3,0,1,5,1,0,2,16,0,0,1,1,4,510000
+Alex,Rodriguez,Alexander Enmanuel,rodrial01,2015,1,NYA,AL,151,523,83,131,22,1,33,86,4,0,84,145,5,6,0,7,17,22000000
+Esmil,Rogers,Esmil Antonio,rogeres01,2015,1,NYA,AL,18,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1480000
+Austin,Romine,Austin Allen,rominau01,2015,1,NYA,AL,1,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,554100
+Brendan,Ryan,Brendan Wood,ryanbr01,2015,1,NYA,AL,47,96,10,22,6,2,0,8,0,0,5,29,0,1,1,0,1,2000000
+CC,Sabathia,Carsten Charles,sabatcc01,2015,1,NYA,AL,29,3,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,23000000
+Chasen,Shreve,Chasen Dean,shrevch01,2015,1,NYA,AL,59,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,510275
+Masahiro,Tanaka,Masahiro,tanakma01,2015,1,NYA,AL,24,7,0,0,0,0,0,0,0,0,1,2,0,0,0,0,0,22000000
+Mark,Teixeira,Mark Charles,teixema01,2015,1,NYA,AL,111,392,57,100,22,0,31,79,2,0,59,85,6,6,0,5,7,23125000
+Adam,Warren,Adam Parrish,warread01,2015,1,NYA,AL,43,3,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,572600
+Justin,Wilson,Justin James,wilsoju10,2015,1,NYA,AL,74,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,556000
+Chris,Young,Christopher Brandon,youngch04,2015,1,NYA,AL,140,318,53,80,20,1,14,42,3,1,30,73,2,3,3,2,6,2500000
+Matt,Harvey,Matthew Edward,harvema01,2015,1,NYN,NL,29,65,1,7,2,0,1,7,0,0,0,31,0,0,1,0,2,614125
+Juan,Lagares,Juan Osvaldo,lagarju01,2015,1,NYN,NL,143,441,47,114,16,5,6,41,7,3,16,87,2,4,1,3,6,528696
+John,Mayberry,John Claiborn,maybejo02,2015,1,NYN,NL,59,110,8,18,6,1,3,9,1,0,9,33,0,0,0,0,2,1450000
+Jenrry,Mejia,Jenrry Manuel,mejiaje01,2015,1,NYN,NL,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2595000
+Rafael,Montero,Rafael,montera01,2015,1,NYN,NL,5,2,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,511000
+Daniel,Murphy,Daniel Thomas,murphda08,2015,1,NYN,NL,130,499,56,140,38,2,14,73,2,2,31,38,10,2,0,6,15,8000000
+Jonathon,Niese,Jonathon Joseph,niesejo01,2015,1,NYN,NL,33,52,5,9,1,0,0,4,0,0,5,18,0,0,3,0,0,7000000
+Bobby,Parnell,Robert Allen,parnebo01,2015,1,NYN,NL,30,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3700000
+Anthony,Recker,Anthony Vito,reckean01,2015,1,NYN,NL,32,80,6,10,1,0,2,5,1,0,11,35,2,1,0,0,1,517880
+Ruben,Tejada,Ruben Dario,tejadru01,2015,1,NYN,NL,116,360,36,94,23,0,3,28,2,1,38,70,5,5,2,2,6,1880000
+Alex,Torres,Alexander Jesus,torreal01,2015,1,NYN,NL,39,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,522900
+Carlos,Torres,Carlos Ephriam,torreca01,2015,1,NYN,NL,59,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,582125
+David,Wright,David Allen,wrighda03,2015,1,NYN,NL,38,152,24,44,7,0,5,17,2,1,22,36,0,0,0,0,4,20000000
+Scott,Kazmir,Scott Edward,kazmisc01,2015,1,OAK,AL,18,2,1,1,0,0,0,1,0,0,0,1,0,0,0,0,0,13000000
+Brett,Lawrie,Brett Russell,lawribr01,2015,1,OAK,AL,149,562,64,146,29,3,16,60,5,2,28,144,1,5,3,4,8,1925000
+Eric,O'Flaherty,Eric George,oflaher01,2015,1,OAK,AL,25,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5500000
+Dan,Otero,Daniel Anthony,oteroda01,2015,1,OAK,AL,41,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,512500
+Josh,Phegley,Joshua Aaron,phegljo01,2015,1,OAK,AL,73,225,27,56,16,1,9,34,0,0,14,51,0,3,0,1,5,510000
+Drew,Pomeranz,Thomas Andrew,pomerdr01,2015,1,OAK,AL,53,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,517500
+Josh,Reddick,William Joshua,reddijo01,2015,1,OAK,AL,149,526,67,143,25,4,20,77,10,2,49,65,1,0,1,2,7,4100000
+Fernando,Rodriguez,Fernando,rodrife02,2015,1,OAK,AL,56,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,635000
+Evan,Scribner,Evan Lee,scribev01,2015,1,OAK,AL,54,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,512500
+Marcus,Semien,Marcus Andrew,semiema01,2015,1,OAK,AL,155,556,65,143,23,7,15,45,11,5,42,132,1,1,1,1,16,510000
+Eric,Sogard,Eric Sidney,sogarer01,2015,1,OAK,AL,120,372,40,92,12,3,1,37,6,1,23,50,1,2,3,1,9,1075000
+Danny,Valencia,Daniel Paul,valenda01,2015,2,OAK,AL,47,183,33,52,10,1,11,37,0,1,20,40,3,1,0,1,9,1675000
+Stephen,Vogt,Stephen Guy,vogtst01,2015,1,OAK,AL,136,445,58,116,21,3,18,71,0,2,56,97,6,2,0,8,9,512500
+Ben,Zobrist,Benjamin Thomas,zobribe01,2015,1,OAK,AL,67,235,39,63,20,2,6,33,1,1,33,26,2,0,0,3,5,7500000
+Cesar,Hernandez,Cesar Augusto,hernace02,2015,1,PHI,NL,127,405,57,110,20,4,1,35,19,5,40,86,1,2,4,1,6,510000
+Ryan,Howard,Ryan James,howarry01,2015,1,PHI,NL,129,467,53,107,29,1,23,77,0,0,27,138,2,5,0,3,11,25000000
+Cesar,Jimenez,Cesar Enrique,jimence01,2015,1,PHI,NL,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,575000
+Dustin,McGowan,Dustin Michael,mcgowdu01,2015,1,PHI,NL,14,3,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,650000
+Jonathan,Papelbon,Jonathan Robert,papeljo01,2015,1,PHI,NL,37,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,13000000
+Ben,Revere,Ben Daniel,reverbe01,2015,1,PHI,NL,96,366,49,109,13,6,1,26,24,5,19,36,0,1,2,0,4,4100000
+Darin,Ruf,Darin Cortland,rufda01,2015,1,PHI,NL,106,268,30,63,12,0,12,39,1,0,21,69,0,5,0,3,7,515000
+Carlos,Ruiz,Carlos Joaquin,ruizca01,2015,1,PHI,NL,86,284,23,60,13,1,2,22,1,1,28,43,2,4,3,1,13,8500000
+Cameron,Rupp,Cameron Arthur,ruppca01,2015,1,PHI,NL,81,270,24,63,9,1,9,28,0,1,24,71,5,3,0,2,8,508000
+Grady,Sizemore,Grady,sizemgr01,2015,1,PHI,NL,39,98,4,24,5,0,0,6,0,0,6,23,0,0,0,0,2,2000000
+Chase,Utley,Chase Cameron,utleych01,2015,1,PHI,NL,73,249,23,54,12,1,5,30,3,0,22,35,4,4,0,7,6,15000000
+Jared,Hughes,William Jared,hugheja02,2015,1,PIT,NL,76,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1075000
+Jung Ho,Kang,Jung Ho,kangju01,2015,1,PIT,NL,126,421,60,121,24,2,15,58,5,4,28,99,0,17,0,1,10,2500000
+Andrew,Lambo,Andrew Francis,lamboan01,2015,1,PIT,NL,20,25,1,1,1,0,0,0,0,0,2,8,0,0,0,0,0,515500
+Francisco,Liriano,Francisco Casillas,liriafr01,2015,1,PIT,NL,31,65,4,11,2,0,1,7,0,0,0,28,0,0,2,0,0,11666666
+Radhames,Liz,Radhames Corey,lizra01,2015,1,PIT,NL,14,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1000000
+Jeff,Locke,Jeffrey Alan,lockeje01,2015,1,PIT,NL,30,45,1,3,1,0,0,2,0,0,2,18,0,0,7,0,1,531000
+Starling,Marte,Starling Javier,martest01,2015,1,PIT,NL,153,579,84,166,30,2,19,81,30,10,27,123,3,19,3,5,14,1333333
+Andrew,McCutchen,Andrew Stefan,mccutan01,2015,1,PIT,NL,157,566,91,165,36,3,23,96,11,5,98,133,12,12,0,9,9,10000000
+Mark,Melancon,Mark D.,melanma01,2015,1,PIT,NL,78,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5400000
+Jordy,Mercer,Jordy Joe,mercejo03,2015,1,PIT,NL,116,394,34,96,21,0,3,34,3,2,27,73,7,2,4,3,7,538000
+Charlie,Morton,Charles Alfred,mortoch02,2015,1,PIT,NL,23,36,0,1,0,0,0,1,0,0,1,18,0,0,6,0,0,8000000
+Gregory,Polanco,Gregory,polangr01,2015,1,PIT,NL,153,593,83,152,35,6,9,52,27,10,55,121,6,1,1,2,5,525000
+Sean,Rodriguez,Sean John,rodrise01,2015,1,PIT,NL,139,224,25,55,12,1,4,17,2,2,5,63,0,6,5,0,9,1900000
+Tony,Sanchez,Jorge Anthony,sanchto01,2015,1,PIT,NL,3,8,2,3,0,0,0,0,0,0,1,3,0,0,0,0,0,518000
+Chris,Stewart,Christopher David,stewach01,2015,1,PIT,NL,58,159,9,46,8,0,0,15,0,0,6,29,0,2,3,2,3,1225000
+Jose,Tabata,Jose Nicolas,tabatjo01,2015,1,PIT,NL,27,38,2,11,0,0,0,4,0,1,2,7,0,1,0,0,3,4000000
+Neil,Walker,Neil Martin,walkene01,2015,1,PIT,NL,151,543,69,146,32,3,16,71,4,1,44,110,5,8,0,8,9,8000000
+Tony,Watson,Anthony Michael,watsoto01,2015,1,PIT,NL,77,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1750000
+Vance,Worley,Vance Richard,worleva01,2015,1,PIT,NL,24,17,1,3,1,0,0,0,0,0,0,6,0,0,1,0,0,2450000
+Shawn,Kelley,Shawn Andrew,kellesh01,2015,1,SDN,NL,53,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2835000
+Matt,Kemp,Matthew Ryan,kempma01,2015,1,SDN,NL,154,596,80,158,31,3,23,100,12,2,39,147,0,5,0,8,17,21250000
+Ian,Kennedy,Ian Patrick,kenneia01,2015,1,SDN,NL,30,42,3,4,3,0,0,0,0,0,0,23,0,0,6,0,1,9850000
+Craig,Kimbrel,Craig Michael,kimbrcr01,2015,1,SDN,NL,61,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,9000000
+Will,Middlebrooks,William Scott,middlwi01,2015,1,SDN,NL,83,255,23,54,7,2,9,29,2,1,11,60,0,0,0,4,4,540500
+Brandon,Morrow,Brandon John,morrobr01,2015,1,SDN,NL,5,9,0,0,0,0,0,0,0,0,1,8,0,0,0,0,0,2500000
+Wil,Myers,William Bradford,myerswi01,2015,1,SDN,NL,60,225,40,57,13,1,8,29,5,2,27,55,0,1,0,0,2,519800
+Wil,Nieves,Wilbert,nievewi01,2015,1,SDN,NL,6,13,1,1,0,0,1,4,0,0,1,4,0,0,0,0,0,850000
+Derek,Norris,Derek Russell,norride01,2015,1,SDN,NL,147,515,65,129,33,2,14,62,4,1,35,131,1,6,0,1,5,545000
+Tyson,Ross,Tyson William,rossty01,2015,1,SDN,NL,34,56,6,14,1,1,1,6,0,0,2,19,0,1,8,1,1,5250000
+James,Shields,James Anthony,shielja02,2015,1,SDN,NL,36,68,7,9,2,0,0,2,0,0,1,28,0,0,5,0,0,10000000
+Yangervis,Solarte,Yangervis Alfredo,solarya01,2015,1,SDN,NL,152,526,63,142,33,4,14,63,1,0,34,56,0,6,2,3,15,516400
+Cory,Spangenberg,Cory Joseph,spangco01,2015,1,SDN,NL,108,303,38,82,17,5,4,21,9,4,28,75,1,2,8,3,4,508500
+Dale,Thayer,Dale Scott,thayeda01,2015,1,SDN,NL,38,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1375000
+Melvin,Upton,Melvin Emanuel,uptonbj01,2015,1,SDN,NL,87,205,23,53,12,4,5,17,9,3,21,62,2,0,2,0,1,14450000
+Justin,Upton,Justin Irvin,uptonju01,2015,1,SDN,NL,150,542,85,136,26,3,26,81,19,5,68,159,5,4,0,5,10,14500000
+Will,Venable,William Dion,venabwi01,2015,1,SDN,NL,98,283,34,73,10,3,6,30,11,1,25,73,1,0,0,0,8,4250000
+Nick,Vincent,Nicholas James,vinceni01,2015,1,SDN,NL,26,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,525300
+Felix,Hernandez,Felix Abraham,hernafe02,2015,1,SEA,AL,31,3,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,24857000
+Hisashi,Iwakuma,Hisashi,iwakuhi01,2015,1,SEA,AL,20,2,0,0,0,0,0,0,0,0,0,2,0,0,1,0,0,7000000
+Austin,Jackson,Austin Jarriel,jacksau01,2015,1,SEA,AL,107,419,46,114,18,3,8,38,15,9,24,107,0,1,3,1,4,7700000
+Yoervis,Medina,Yoervis Jose,medinyo01,2015,1,SEA,AL,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,527300
+Brad,Miller,Bradley Austin,millebr02,2015,1,SEA,AL,144,438,44,113,22,4,11,46,13,4,47,101,0,2,4,6,7,527600
+Logan,Morrison,Justis Logan,morrilo01,2015,1,SEA,AL,146,457,47,103,15,3,17,54,8,4,47,81,5,4,1,2,7,2725000
+Edgar,Olmos,Edgar,olmosed01,2015,1,SEA,AL,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,512500
+James,Paxton,James Alston,paxtoja01,2015,1,SEA,AL,13,2,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,519000
+Fernando,Rodney,Fernando,rodnefe01,2015,1,SEA,AL,54,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7000000
+Justin,Ruggiano,Justin Marshall,ruggiju01,2015,1,SEA,AL,36,70,8,15,4,0,2,3,3,2,11,27,0,0,0,0,0,2505000
+Kyle,Seager,Kyle Duerr,seageky01,2015,1,SEA,AL,161,623,85,166,37,0,26,74,6,6,54,98,6,5,0,4,17,4500000
+Seth,Smith,Garry Seth,smithse01,2015,1,SEA,AL,136,395,54,98,31,5,12,42,0,0,47,99,4,4,1,5,15,6000000
+Jesus,Sucre,Jesus Marcelo,sucreje01,2015,1,SEA,AL,52,127,9,20,6,0,1,7,0,0,6,21,0,0,9,0,6,509300
+Chris,Taylor,Christopher Armand,tayloch03,2015,1,SEA,AL,37,94,9,16,3,1,0,1,3,2,6,31,0,0,2,0,0,512400
+Taijuan,Walker,Taijuan Emmanuel,walketa01,2015,1,SEA,AL,29,9,0,1,1,0,0,1,0,0,0,5,0,0,1,0,0,513100
+Rickie,Weeks,Rickie Darnell,weeksri01,2015,1,SEA,AL,37,84,7,14,1,0,2,9,0,0,9,25,0,2,0,0,3,2000000
+Tom,Wilhelmsen,Thomas Mark,wilheto01,2015,1,SEA,AL,53,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1400000
+Mike,Zunino,Michael Accorsi,zuninmi01,2015,1,SEA,AL,112,350,28,61,11,0,11,28,0,1,21,132,0,5,8,2,6,523500
+Tim,Hudson,Timothy Adam,hudsoti01,2015,1,SFN,NL,24,38,3,7,2,0,1,1,0,0,1,11,0,0,3,0,0,12000000
+Travis,Ishikawa,Travis Takashi,ishiktr01,2015,1,SFN,NL,6,5,1,0,0,0,0,0,0,0,1,3,0,0,0,0,0,1100000
+George,Kontos,George Nicholas,kontoge01,2015,1,SFN,NL,73,2,0,0,0,0,0,0,0,0,0,2,0,0,1,0,0,517500
+Tim,Lincecum,Timothy LeRoy,linceti01,2015,1,SFN,NL,16,21,0,3,1,0,0,0,0,0,2,10,0,0,2,0,1,18000000
+Javier,Lopez,Javier Alfonso,lopezja02,2015,1,SFN,NL,77,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,4000000
+Jean,Machi,Jean Manuel,machije01,2015,1,SFN,NL,33,3,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,527500
+Justin,Maxwell,Justin Adam,maxweju01,2015,1,SFN,NL,100,249,26,52,8,2,7,26,2,1,20,76,1,3,1,1,4,1000000
+Casey,McGehee,Casey Michael,mcgehca01,2015,1,SFN,NL,49,127,7,27,5,0,2,11,0,1,11,28,0,0,0,0,15,4800000
+Angel,Pagan,Angel Manuel,paganan01,2015,1,SFN,NL,133,512,55,134,21,3,3,37,12,4,32,93,0,1,0,6,12,10250000
+Joe,Panik,Joseph Matthew,panikjo01,2015,1,SFN,NL,100,382,59,119,27,2,8,37,3,2,38,42,0,5,3,4,7,522500
+Jake,Peavy,Jacob Edward,peavyja01,2015,1,SFN,NL,19,36,5,7,2,0,1,3,0,0,1,17,0,0,4,0,0,9000000
+Hunter,Pence,Hunter Andrew,pencehu01,2015,1,SFN,NL,52,207,30,57,13,1,9,40,4,1,16,48,0,0,0,0,8,18500000
+Yusmeiro,Petit,Yusmeiro Alberto,petityu01,2015,1,SFN,NL,42,9,1,0,0,0,0,0,0,0,0,3,0,0,1,0,0,2100000
+Buster,Posey,Gerald Dempsey,poseybu01,2015,1,SFN,NL,150,557,74,177,28,0,19,95,2,0,56,52,10,3,0,7,17,16500000
+Sergio,Romo,Sergio Francisco,romose01,2015,1,SFN,NL,70,2,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,6000000
+Hector,Sanchez,Hector Enrique,sanchhe01,2015,1,SFN,NL,28,56,5,10,4,0,1,5,0,0,2,14,0,0,1,0,1,800000
+Ryan,Vogelsong,Ryan Andrew,vogelry01,2015,1,SFN,NL,33,36,3,5,1,0,1,2,0,0,1,13,0,0,8,0,0,4000000
+Jason,Heyward,Jason Alias,heywaja01,2015,1,SLN,NL,154,547,79,160,33,4,13,60,23,3,56,90,4,2,0,3,13,7800000
+Matt,Holliday,Matthew Thomas,hollima01,2015,1,SLN,NL,73,229,24,64,16,1,4,35,2,1,39,49,5,6,0,3,9,17000000
+Jon,Jay,Jonathan Henry,jayjo02,2015,1,SLN,NL,79,210,25,44,5,1,1,10,0,2,19,36,5,11,3,2,7,4125000
+Pete,Kozma,Peter Michael,kozmape01,2015,1,SLN,NL,76,99,15,15,0,0,0,2,3,1,10,21,2,1,1,0,0,522000
+John,Lackey,John Derran,lackejo01,2015,1,SLN,NL,33,62,0,7,2,0,0,3,0,0,4,24,0,0,4,0,2,507500
+Lance,Lynn,Michael Lance,lynnla01,2015,1,SLN,NL,31,50,3,8,2,0,0,1,0,0,0,26,0,0,5,0,0,7000000
+Seth,Maness,Michael Seth,manesse01,2015,1,SLN,NL,77,3,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,530000
+Carlos,Martinez,Carlos Ernesto,martica04,2015,1,SLN,NL,32,56,2,8,2,0,0,0,0,0,1,23,0,1,5,0,1,520000
+Yadier,Molina,Yadier Benjamin,molinya01,2015,1,SLN,NL,136,488,34,132,23,2,4,61,3,1,32,59,3,0,1,9,16,15000000
+Jhonny,Peralta,Jhonny Antonio,peraljh01,2015,1,SLN,NL,155,579,64,159,26,1,17,71,1,4,50,111,6,5,0,6,23,15000000
+Mark,Reynolds,Mark Andrew,reynoma01,2015,1,SLN,NL,140,382,35,88,21,2,13,48,2,3,44,121,2,4,0,2,10,2000000
+Trevor,Rosenthal,Trevor Jordan,rosentr01,2015,1,SLN,NL,68,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,535000
+Kevin,Siegrist,Kevin Ryan,siegrke01,2015,1,SLN,NL,81,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,518000
+Carlos,Villanueva,Carlos Manuel,villaca01,2015,1,SLN,NL,35,8,0,0,0,0,0,0,0,0,0,5,0,0,3,0,0,2000000
+Michael,Wacha,Michael Joseph,wachami01,2015,1,SLN,NL,30,52,5,8,1,0,0,4,1,0,4,20,0,0,6,0,0,520000
+Adam,Wainwright,Adam Parrish,wainwad01,2015,1,SLN,NL,7,10,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,19500000
+Jordan,Walden,Jordan Craig,waldejo01,2015,1,SLN,NL,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2675000
+Kolten,Wong,Kolten Kaha,wongko01,2015,1,SLN,NL,150,557,71,146,28,4,11,61,15,8,36,95,2,15,0,5,10,520000
+John,Jaso,John Edward,jasojo01,2015,1,TBA,AL,70,185,23,53,17,0,5,22,1,2,28,39,1,1,0,2,5,3175000
+Desmond,Jennings,Desmond Delane,jennide01,2015,1,TBA,AL,28,97,9,26,2,1,1,7,5,3,8,17,0,1,0,2,2,3100000
+Kevin,Jepsen,Kevin Martin,jepseke01,2015,1,TBA,AL,46,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3025000
+Nate,Karns,Nathan Alan,karnsna01,2015,1,TBA,AL,27,4,1,1,0,0,1,1,0,0,0,3,0,0,1,0,0,508800
+Kevin,Kiermaier,Kevin James,kiermke01,2015,1,TBA,AL,151,505,62,133,25,12,10,40,18,5,24,95,0,2,2,2,7,513800
+James,Loney,James Anthony,loneyja01,2015,1,TBA,AL,104,361,25,101,16,0,4,32,2,4,23,34,5,1,0,3,10,8666666
+Evan,Longoria,Evan Michael,longoev01,2015,1,TBA,AL,160,604,74,163,35,1,21,73,3,1,51,132,8,6,0,9,11,11000000
+Jake,McGee,Jacob Daniel,mcgeeja01,2015,1,TBA,AL,39,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3550000
+Matt,Moore,Matthew Cody,moorema02,2015,1,TBA,AL,12,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,3000000
+Jake,Odorizzi,Jacob Todd,odorija01,2015,1,TBA,AL,28,4,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,522000
+Erasmo,Ramirez,Erasmo Jose,ramirer02,2015,1,TBA,AL,34,2,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,522800
+Rene,Rivera,Rene,riverre01,2015,1,TBA,AL,110,298,16,53,14,0,5,26,0,0,11,86,0,3,5,2,4,1200000
+Drew,Smyly,Todd Andrew,smylydr01,2015,1,TBA,AL,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2650000
+Steven,Souza,Steven Jeffrey,souzast01,2015,1,TBA,AL,110,373,59,84,15,1,16,40,12,6,46,144,0,5,1,1,7,508700
+Bobby,Wilson,Robert Louis,wilsobo02,2015,1,TBA,AL,25,55,3,8,0,0,0,4,0,0,4,20,0,0,0,0,1,700000
+Kirby,Yates,Kirby Kali,yateski01,2015,1,TBA,AL,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,512800
+Derek,Holland,Derek Lane,hollade01,2015,1,TEX,AL,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7400000
+Phil,Klein,Phil William,kleinph01,2015,1,TEX,AL,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,509500
+Colby,Lewis,Colby Preston,lewisco01,2015,1,TEX,AL,33,2,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,4000000
+Leonys,Martin,Leonys,martile01,2015,1,TEX,AL,95,288,26,63,12,0,5,25,14,5,16,69,1,2,3,1,5,4750000
+Nick,Martinez,Nicholas Andres,martini01,2015,1,TEX,AL,24,4,2,0,0,0,0,0,0,0,0,1,0,0,0,0,0,515000
+Roman,Mendez,Roman Junior,mendero01,2015,1,TEX,AL,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,509500
+Mitch,Moreland,Mitchell Austin,morelmi01,2015,1,TEX,AL,132,471,51,131,27,0,23,85,1,0,32,112,2,7,0,5,9,2950000
+Rougned,Odor,Rougned Roberto,odorro01,2015,1,TEX,AL,120,426,54,111,21,9,16,61,6,7,23,79,2,14,2,5,3,513850
+Martin,Perez,Martin,perezma02,2015,1,TEX,AL,14,2,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,1000000
+Wandy,Rodriguez,Wandy Fulton,rodriwa01,2015,1,TEX,AL,17,2,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,507000
+Adam,Rosales,Adam Marcos,rosalad01,2015,1,TEX,AL,55,114,14,26,4,0,3,7,4,4,10,30,0,1,0,0,4,900000
+Ryan,Rua,Ryan,ruary01,2015,1,TEX,AL,28,83,10,16,5,0,4,7,0,0,3,32,0,0,0,0,2,508500
+Tanner,Scheppers,Tanner Ross,schepta01,2015,1,TEX,AL,42,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,515200
+Jake,Smolinski,Jacob Michael,smolija01,2015,1,TEX,AL,35,60,12,8,1,0,1,6,1,0,11,20,0,1,0,2,1,508500
+Shawn,Tolleson,Shawn Mark,tollesh01,2015,1,TEX,AL,73,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,519700
+Liam,Hendriks,Liam Johnson,hendrli01,2015,1,TOR,AL,58,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,518400
+Drew,Hutchison,Andrew Scott,hutchdr01,2015,1,TOR,AL,31,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,520100
+Colt,Hynes,Joshua Colt,hynesco01,2015,1,TOR,AL,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,510800
+Aaron,Loup,Aaron Christopher,loupaa01,2015,1,TOR,AL,60,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,527500
+Russell,Martin,Russell Nathan Coltrane,martiru01,2015,1,TOR,AL,129,441,76,106,23,2,23,77,4,5,53,106,1,8,0,5,22,7000000
+Dioner,Navarro,Dioner Favian,navardi01,2015,1,TOR,AL,54,171,17,42,7,0,5,20,0,0,17,29,1,0,0,4,0,5000000
+Daniel,Norris,Daniel David,norrida01,2015,1,TOR,AL,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,508700
+Kevin,Pillar,Kevin Andrew,pillake01,2015,1,TOR,AL,159,586,76,163,31,2,12,56,25,4,28,85,1,5,4,5,9,512000
+Dalton,Pompey,Dalton Kenrick,pompeda01,2015,1,TOR,AL,34,94,17,21,8,0,2,6,5,1,7,23,0,2,0,0,1,508500
+Todd,Redmond,Todd Richard,redmoto01,2015,1,TOR,AL,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,520000
+Jose,Reyes,Jose Bernabe,reyesjo01,2015,1,TOR,AL,69,288,36,82,17,0,4,34,16,2,17,38,0,0,4,2,3,22000000
+Aaron,Sanchez,Aaron Jacob,sanchaa01,2015,1,TOR,AL,41,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1021600
+Michael,Saunders,Michael Edward Brett,saundmi01,2015,1,TOR,AL,9,31,2,6,0,0,0,3,0,0,5,10,0,0,0,0,1,2875000
+Justin,Smoak,Justin Kyle,smoakju01,2015,1,TOR,AL,132,296,44,67,16,1,18,59,0,0,29,86,0,2,0,1,10,1000000
+Marcus,Stroman,Marcus Earl,stromma01,2015,1,TOR,AL,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,514700
+Josh,Thole,Joshua Michael,tholejo01,2015,1,TOR,AL,18,49,5,10,2,0,0,2,0,0,3,9,0,0,0,0,2,1750000
+Steven,Tolleson,Steven Wayne,tollest01,2015,1,TOR,AL,19,41,9,11,5,1,0,3,2,0,4,9,0,0,0,0,1,517300
+Casey,Janssen,Robert Casey,janssca01,2015,1,WAS,NL,48,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3500000
+Reed,Johnson,Reed Cameron,johnsre02,2015,1,WAS,NL,17,22,0,5,1,0,0,3,0,0,0,6,0,1,0,1,1,1000000
+Jose,Lobaton,Jose Manuel,lobatjo01,2015,1,WAS,NL,44,136,11,27,4,0,3,20,0,0,15,40,1,1,1,2,5,1200000
+Tyler,Moore,Tyler Michael,moorety01,2015,1,WAS,NL,97,187,14,38,12,0,6,27,0,0,11,45,2,1,0,1,2,518200
+Wilson,Ramos,Wilson Abraham,ramoswi01,2015,1,WAS,NL,128,475,41,109,16,0,15,68,0,0,21,101,2,0,0,8,16,3550000
+Anthony,Rendon,Anthony Michael,rendoan01,2015,1,WAS,NL,80,311,43,82,16,0,5,25,1,2,36,70,0,4,0,4,8,2500000
+Tanner,Roark,Tanner B.,roarkta01,2015,1,WAS,NL,40,27,1,5,2,0,0,0,0,0,0,9,0,0,2,0,0,529600
+Clint,Robinson,Clinton Michael,robincl01,2015,1,WAS,NL,126,309,44,84,15,1,10,34,0,0,37,52,4,5,0,1,6,525000
+Max,Scherzer,Maxwell M.,scherma01,2015,1,WAS,NL,34,69,4,15,0,0,0,0,0,0,2,23,0,0,6,0,0,17142000
+Denard,Span,Keiunta Denard,spande01,2015,1,WAS,NL,61,246,38,74,17,0,5,22,11,0,25,26,0,1,1,2,5,9000000
+Craig,Stammen,Craig N.,stammcr01,2015,1,WAS,NL,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2250000
+Drew,Storen,Drew Patrick,storedr01,2015,1,WAS,NL,58,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5700000
+Stephen,Strasburg,Stephen James,strasst01,2015,1,WAS,NL,23,38,1,5,0,0,0,0,0,0,2,17,0,0,6,0,0,7400000
+Michael,Taylor,Michael Anthony,taylomi02,2015,1,WAS,NL,138,472,49,108,15,2,14,63,16,3,35,158,9,1,1,2,5,508700
+Matt,Thornton,Matthew J.,thornma01,2015,1,WAS,NL,60,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3500000
+Blake,Treinen,Blake M.,treinbl01,2015,1,WAS,NL,60,2,0,0,0,0,0,0,0,0,0,1,0,0,2,0,0,512800
+Dan,Uggla,Daniel Cooley,ugglada01,2015,1,WAS,NL,67,120,12,22,4,2,2,16,0,1,19,40,0,1,0,1,3,507500
+Jayson,Werth,Jayson Richard Gowan,werthja01,2015,1,WAS,NL,88,331,51,73,16,1,12,42,0,1,38,84,0,3,0,6,8,21000000
+Jordan,Zimmermann,Jordan M.,zimmejo02,2015,1,WAS,NL,33,63,4,10,1,0,0,3,0,0,0,18,0,0,6,0,0,16500000
+Ryan,Zimmerman,Ryan Wallace,zimmery01,2015,1,WAS,NL,95,346,43,86,25,1,16,73,1,0,33,79,0,1,0,10,13,14000000
+Marcus,Hatley,Marcus Allen,hatlema01,2015,1,SLN,NL,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NULL
+LaTroy,Hawkins,LaTroy,hawkila01,2015,2,TOR,AL,18,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NULL
+Brett,Hayes,Brett Gregory,hayesbr01,2015,1,CLE,AL,14,32,4,5,0,0,3,6,0,0,3,7,0,0,1,0,0,NULL
+Andrew,Heaney,Andrew M.,heanean01,2015,1,LAA,AL,18,5,0,0,0,0,0,0,0,0,0,3,0,0,1,0,0,NULL
+Slade,Heathcott,Zachary Slade,heathsl01,2015,1,NYA,AL,17,25,6,10,2,0,2,8,0,1,2,5,0,0,0,1,0,NULL
+Austin,Hedges,Austin Charles,hedgeau01,2015,1,SDN,NL,56,137,13,23,2,0,3,11,0,0,8,38,1,1,3,3,1,NULL
+Enrique,Hernandez,Enrique J.,hernaen02,2015,1,LAN,NL,76,202,24,62,12,2,7,22,0,2,11,46,0,2,1,2,3,NULL
+Gorkys,Hernandez,Gorkys Gustavo,hernago01,2015,1,PIT,NL,8,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,NULL
+Oscar,Hernandez,Oscar Eduardo,hernaos01,2015,1,ARI,NL,18,31,4,5,1,0,0,1,0,0,3,15,0,1,1,0,0,NULL
+Dilson,Herrera,Dilson Jose,herredi01,2015,1,NYN,NL,31,90,7,19,3,1,3,6,2,0,11,23,1,2,0,0,2,NULL
+Elian,Herrera,Elian,herreel01,2015,1,MIL,NL,83,256,29,62,18,0,7,33,3,1,18,72,1,0,1,2,4,NULL
+Odubel,Herrera,David Odubel,herreod01,2015,1,PHI,NL,147,495,64,147,30,3,8,41,16,8,28,129,0,8,5,1,6,NULL
+Keith,Hessler,Keith,hesslke01,2015,1,ARI,NL,18,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,NULL
+Chris,Heston,Christopher L.,hestoch01,2015,1,SFN,NL,31,51,1,10,2,0,0,3,0,0,0,18,0,0,7,0,1,NULL
+Aaron,Hicks,Aaron Michael,hicksaa01,2015,1,MIN,AL,97,352,48,90,11,3,11,33,13,3,34,66,2,2,0,2,6,NULL
+John,Hicks,John Austin,hicksjo02,2015,1,SEA,AL,17,32,1,2,1,0,0,1,1,1,1,18,0,0,1,0,0,NULL
+Rich,Hill,Richard Joseph,hillri01,2015,1,BOS,AL,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NULL
+Taylor,Hill,David Taylor,hillta01,2015,1,WAS,NL,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NULL
+Dalier,Hinojosa,Dalier,hinojda01,2015,1,BOS,AL,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NULL
+Dalier,Hinojosa,Dalier,hinojda01,2015,2,PHI,NL,18,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NULL
+L. J.,Hoes,Jerome O'Bryan,hoeslj01,2015,1,HOU,AL,8,15,1,4,0,0,0,1,0,0,1,3,0,0,0,0,0,NULL
+Bryan,Holaday,John Bryan,holadbr01,2015,1,DET,AL,24,64,3,18,5,0,2,13,0,0,1,13,0,0,0,0,0,NULL
+David,Holmberg,David A.,holmbda01,2015,1,CIN,NL,6,8,2,1,0,0,0,0,0,0,2,5,0,1,1,0,0,NULL
+Tyler,Holt,Tyler Andrew,holtty01,2015,1,CLE,AL,9,20,2,2,0,0,0,0,0,0,1,9,0,0,0,0,0,NULL
+Tyler,Holt,Tyler Andrew,holtty01,2015,2,CIN,NL,5,11,2,1,0,0,0,0,1,0,2,2,0,0,0,0,0,NULL
+Adrian,Houser,Adrian D.,housead01,2015,1,MIL,NL,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NULL
+David,Huff,David Gregory,huffda01,2015,1,LAN,NL,3,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NULL
+Tommy,Hunter,Raymond Thomas,hunteto02,2015,2,CHN,NL,19,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NULL
+Edgar,Ibarra,Edgar Alexander,ibarred01,2015,1,LAA,AL,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NULL
+Travis,Ishikawa,Travis Takashi,ishiktr01,2015,2,PIT,NL,38,58,5,13,3,0,1,8,0,0,8,17,0,0,0,0,2,NULL
+Austin,Jackson,Austin Jarriel,jacksau01,2015,2,CHN,NL,29,72,10,17,7,0,1,10,2,1,5,19,0,2,0,0,1,NULL
+Edwin,Jackson,Edwin,jacksed01,2015,2,ATL,NL,24,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NULL
+Jay,Jackson,Randy,jacksja01,2015,1,SDN,NL,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NULL
+Luke,Jackson,Luke Ray,jackslu01,2015,1,TEX,AL,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NULL
+Ryan,Jackson,Ryan Christopher,jacksry02,2015,1,LAA,AL,22,9,0,0,0,0,0,0,0,0,1,5,0,0,4,0,1,NULL
+Juan,Jaime,Juan Jose,jaimeju01,2015,1,ATL,NL,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NULL
+Paul,Janish,Paul Ryan,janispa01,2015,1,BAL,AL,14,35,4,10,3,0,0,3,0,0,0,3,0,0,0,1,0,NULL
+Travis,Jankowski,Travis Paul,jankotr01,2015,1,SDN,NL,34,90,9,19,2,2,2,12,2,1,4,24,0,0,2,0,1,NULL
+Chad,Jenkins,Stephen Chadwick,jenkich01,2015,1,TOR,AL,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NULL
+Kevin,Jepsen,Kevin Martin,jepseke01,2015,2,MIN,AL,29,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NULL
+Cesar,Jimenez,Cesar Enrique,jimence01,2015,2,MIL,NL,16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NULL
+Luis,Jimenez,Luis Domingo,jimenlu02,2015,2,BOS,AL,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NULL
+Brian,Johnson,Christopher Brian,johnsbr02,2015,1,BOS,AL,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NULL
+Chris,Johnson,Christopher Dalton,johnsch05,2015,2,CLE,AL,27,90,6,26,4,0,1,7,0,0,3,25,0,0,0,0,2,NULL
+Dan,Johnson,Daniel Ryan,johnsda06,2015,1,SLN,NL,12,19,1,3,0,0,0,2,0,0,2,4,0,0,0,0,1,NULL
+Erik,Johnson,Erik Craig,johnser04,2015,1,CHA,AL,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NULL
+Jim,Johnson,James Robert,johnsji04,2015,2,LAN,NL,23,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NULL
+Kelly,Johnson,Kelly Andrew,johnske05,2015,2,NYN,NL,49,128,18,32,6,0,5,13,1,0,10,38,1,0,0,0,4,NULL
+Micah,Johnson,Micah Drew,johnsmi04,2015,1,CHA,AL,36,100,10,23,4,0,0,4,3,2,9,30,0,2,2,0,0,NULL
+Steve,Johnson,Steven David,johnsst02,2015,1,BAL,AL,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NULL
+James,Jones,James Steven,jonesja06,2015,1,SEA,AL,28,29,1,3,1,0,0,0,1,1,2,13,0,0,0,0,0,NULL
+Taylor,Jordan,Taylor J.,jordata01,2015,1,WAS,NL,4,6,0,2,0,0,0,0,0,0,0,2,0,0,0,0,0,NULL
+Taylor,Jungmann,Taylor Heath,jungmta01,2015,1,MIL,NL,21,37,2,10,2,0,0,0,0,0,1,12,0,0,6,0,0,NULL
+Tommy,Kahnle,Thomas R.,kahnlto01,2015,1,COL,NL,36,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NULL
+Munenori,Kawasaki,Munenori,kawasmu01,2015,1,TOR,AL,23,28,6,6,2,0,0,2,0,1,4,6,0,0,2,0,1,NULL
+Scott,Kazmir,Scott Edward,kazmisc01,2015,2,HOU,AL,13,2,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,NULL
+Keone,Kela,Keone Cole,kelake01,2015,1,TEX,AL,68,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NULL
+Casey,Kelly,Casey Patrick,kellyca01,2015,1,SDN,NL,3,2,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,NULL
+Ryan,Kelly,William Ryan,kellyry01,2015,1,ATL,NL,17,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NULL
+Logan,Kensing,Logan French,kensilo01,2015,1,SEA,AL,19,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NULL
+Max,Kepler,Maximilian,keplema01,2015,1,MIN,AL,3,7,0,1,0,0,0,0,0,0,0,3,0,0,0,0,0,NULL
+Corey,Knebel,Corey Andrew,knebeco01,2015,1,MIL,NL,48,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NULL
+Guido,Knudson,Guido Joel,knudsgu01,2015,1,DET,AL,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NULL
+Michael,Kohn,Michael Thomas,kohnmi01,2015,1,ATL,NL,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NULL
+Erik,Kratz,Erik Floyd,kratzer01,2015,2,PHI,NL,12,22,3,5,2,0,0,2,0,0,1,3,0,0,0,0,0,NULL
+Marc,Krauss,Marc S.,krausma01,2015,1,LAA,AL,11,35,2,5,2,0,1,5,0,0,3,11,0,0,0,0,0,NULL
+Marc,Krauss,Marc S.,krausma01,2015,2,TBA,AL,4,10,0,1,1,0,0,1,0,0,0,7,0,0,0,0,0,NULL
+Marc,Krauss,Marc S.,krausma01,2015,3,DET,AL,12,33,1,5,0,0,1,2,0,0,0,13,0,0,0,0,0,NULL
+Kyle,Kubitza,Kyle Andrew,kubitky01,2015,1,LAA,AL,19,36,6,7,0,0,0,1,0,0,3,15,0,0,0,0,2,NULL
+Tyler,Ladendorf,Tyler James,ladenty01,2015,1,OAK,AL,9,17,3,4,0,1,0,2,0,0,1,2,0,0,0,0,0,NULL
+Aaron,Laffey,Aaron Steven,laffeaa01,2015,1,COL,NL,3,2,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,NULL
+Bobby,LaFromboise,Robert Joseph,lafrobo01,2015,1,PIT,NL,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NULL
+Junior,Lake,Junior Osvaldo,lakeju01,2015,1,CHN,NL,21,58,2,13,4,0,1,5,4,0,4,20,0,0,0,0,1,NULL
+Junior,Lake,Junior Osvaldo,lakeju01,2015,2,BAL,AL,8,22,2,3,3,0,0,0,0,0,0,9,0,0,0,0,0,NULL
+Ryan,LaMarre,Ryan M.,lamarry01,2015,1,CIN,NL,21,25,2,2,0,0,0,0,0,0,0,9,0,0,1,0,1,NULL
+John,Lamb,John Michael,lambjo02,2015,1,CIN,NL,10,16,0,1,1,0,0,1,0,0,0,8,0,0,0,0,0,NULL
+Mat,Latos,Mathew Adam,latosma01,2015,2,LAN,NL,6,6,1,2,0,0,0,0,0,0,0,1,0,0,1,0,0,NULL
+Mat,Latos,Mathew Adam,latosma01,2015,3,LAA,AL,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NULL
+Ryan,Lavarnway,Ryan Cole,lavarry01,2015,1,BAL,AL,10,28,1,3,1,0,0,0,0,0,4,7,0,0,0,0,1,NULL
+Ryan,Lavarnway,Ryan Cole,lavarry01,2015,2,ATL,NL,27,66,5,15,5,0,2,6,0,0,8,21,1,0,0,0,4,NULL
+Raudel,Lazo,Raudel,lazora01,2015,1,MIA,NL,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NULL
+Mike,Leake,Michael Raymond,leakemi01,2015,2,SFN,NL,12,17,1,1,0,0,1,3,0,0,0,11,0,0,0,0,0,NULL
+Jack,Leathersich,John Victor,leathja01,2015,1,NYN,NL,17,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NULL
+C. C.,Lee,Chen-Chang,leech01,2015,1,CLE,AL,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NULL
+Zach,Lee,Zachary Stephen,leeza01,2015,1,LAN,NL,1,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NULL
+Arnold,Leon,Alex Arnold,leonar01,2015,1,OAK,AL,19,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NULL
+Dominic,Leone,Dominic Joseph,leonedo01,2015,1,SEA,AL,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NULL
+Dominic,Leone,Dominic Joseph,leonedo01,2015,2,ARI,NL,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NULL
+Adam,Liberatore,Adam Joseph,liberad01,2015,1,LAN,NL,39,2,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,NULL
+Jacob,Lindgren,Jacob Stephen,lindgja01,2015,1,NYA,AL,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NULL
+Francisco,Lindor,Francisco Miguel,lindofr01,2015,1,CLE,AL,99,390,50,122,22,4,12,51,12,2,27,69,0,1,13,7,12,NULL
+Kyle,Lobstein,Kyle Eric,lobstky01,2015,1,DET,AL,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NULL
+Adam,Loewen,Adam A.,loewead01,2015,1,PHI,NL,20,3,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,NULL
+Ryan,Lollis,Ryan Matthew,lolliry01,2015,1,SFN,NL,5,12,0,2,0,0,0,0,1,0,1,1,0,0,0,0,0,NULL
+Steve,Lombardozzi,Stephen Paul,lombast02,2015,1,PIT,NL,12,10,1,0,0,0,0,0,0,0,1,4,0,0,0,0,0,NULL
+Jorge,Lopez,Jorge Y.,lopezjo02,2015,1,MIL,NL,2,2,0,0,0,0,0,0,0,0,0,2,0,0,1,0,0,NULL
+Michael,Lorenzen,Michael Clifton,lorenmi01,2015,1,CIN,NL,33,36,4,9,0,1,0,4,0,0,0,13,0,1,4,0,0,NULL
+Mark,Lowe,Mark Christopher,lowema01,2015,1,SEA,AL,34,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NULL
+Mark,Lowe,Mark Christopher,lowema01,2015,2,TOR,AL,23,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NULL
+Lucas,Luetge,Lucas Lester,luetglu01,2015,1,SEA,AL,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NULL
+Tyler,Lyons,Tyler William,lyonsty01,2015,1,SLN,NL,17,16,3,3,0,0,0,1,0,0,2,4,0,0,2,0,0,NULL
+Dixon,Machado,Dixon Javier,machadi01,2015,1,DET,AL,24,68,6,16,3,0,0,5,1,0,7,14,0,0,3,0,3,NULL
+Jean,Machi,Jean Manuel,machije01,2015,2,BOS,AL,26,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NULL
+Mikie,Mahtook,Michael Anthony,mahtomi01,2015,1,TBA,AL,41,105,22,31,5,1,9,19,4,3,6,31,0,3,1,0,0,NULL
+Luke,Maile,Luke Richard,mailelu01,2015,1,TBA,AL,15,35,2,6,3,0,0,2,0,0,0,8,0,0,0,0,3,NULL
+Jeff,Manship,Jeffrey Michael,manshje01,2015,1,CLE,AL,32,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NULL
+Shaun,Marcum,Shaun Michal,marcush01,2015,1,CLE,AL,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NULL
+Sugar Ray,Marimon,Sugar Ray,marimsu01,2015,1,ATL,NL,16,6,0,2,0,0,0,0,0,0,1,3,0,0,0,0,0,NULL
+Michael,Mariot,Michael Ryan,mariomi01,2015,1,KCA,AL,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NULL
+Matt,Marksberry,Matthew Gates,marksma01,2015,1,ATL,NL,31,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NULL
+Deven,Marrero,Deven Sommer,marrede01,2015,1,BOS,AL,25,53,8,12,0,0,1,3,2,1,3,19,0,0,0,0,0,NULL
+Alfredo,Marte,Alfredo,marteal01,2015,1,LAA,AL,5,6,0,2,0,0,0,0,0,0,1,1,0,1,0,0,0,NULL
+Jefry,Marte,Jefry Leonal,marteje01,2015,1,DET,AL,33,80,9,17,4,0,4,11,0,0,8,22,0,0,2,0,2,NULL
+Ketel,Marte,Ketel Ricardo,marteke01,2015,1,SEA,AL,57,219,25,62,14,3,2,17,8,4,24,43,0,0,2,2,1,NULL
+Cody,Martin,Cody Matthew,martico01,2015,1,ATL,NL,21,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,NULL
+Cody,Martin,Cody Matthew,martico01,2015,2,OAK,AL,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NULL
+Michael,Martinez,Michael Gabriel,martimi02,2015,1,CLE,AL,16,30,7,8,2,0,0,2,0,1,1,12,0,0,1,0,1,NULL
+Rafael,Martin,Rafael,martira04,2015,1,WAS,NL,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NULL
+Nick,Masset,Nicholas Allen,masseni01,2015,1,MIA,NL,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NULL
+Nick,Masset,Nicholas Allen,masseni01,2015,2,ATL,NL,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NULL
+Marcos,Mateo,Marcos Aurelio,mateoma01,2015,1,SDN,NL,26,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NULL
+Ryan,Mattheus,Ryan Arthur,matthry01,2015,1,LAA,AL,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NULL
+Ryan,Mattheus,Ryan Arthur,matthry01,2015,2,CIN,NL,57,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NULL
+Steven,Matz,Steven Jakob,matzst01,2015,1,NYN,NL,6,14,1,4,1,0,0,5,0,0,0,1,0,0,0,0,1,NULL
+Brandon,Maurer,Brandon Eugene,maurebr01,2015,1,SDN,NL,53,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NULL
+Trevor,May,Trevor J.,maytr01,2015,1,MIN,AL,48,3,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,NULL
+Vin,Mazzaro,Vincent Michael,mazzavi01,2015,1,MIA,NL,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NULL
+Cory,Mazzoni,Cory Mitchell,mazzoco01,2015,1,SDN,NL,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NULL
+Matt,McBride,Matthew Hagerty,mcbrima02,2015,1,COL,NL,20,42,5,7,0,0,0,0,0,0,0,4,0,1,0,0,0,NULL
+Lance,McCullers,Lance Graye,mcculla02,2015,1,HOU,AL,22,2,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,NULL
+Casey,McGehee,Casey Michael,mcgehca01,2015,2,MIA,NL,60,110,7,20,7,0,0,9,1,0,10,22,0,0,0,0,3,NULL
+Scott,McGough,Scott Thomas,mcgousc01,2015,1,MIA,NL,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NULL
+Andrew,McKirahan,Andrew David,mckiran01,2015,1,ATL,NL,27,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,NULL
+Yoervis,Medina,Yoervis Jose,medinyo01,2015,2,CHN,NL,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NULL
+Roman,Mendez,Roman Junior,mendero01,2015,2,BOS,AL,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NULL
+Alex,Meyer,Alex John,meyeral01,2015,1,MIN,AL,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NULL
+Justin,Miller,Justin Ryan,milleju02,2015,1,COL,NL,34,2,0,0,0,0,0,0,0,0,0,2,0,0,1,0,0,NULL
+Brad,Mills,Bradley Aaron,millsbr02,2015,1,OAK,AL,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NULL
+Bryan,Mitchell,Bryan Bedford,mitchbr01,2015,1,NYA,AL,20,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,NULL
+Johnny,Monell,Johnny,moneljo01,2015,1,NYN,NL,27,48,5,8,2,0,0,4,0,0,4,13,0,0,0,0,5,NULL
+Frankie,Montas,Francelis,montafr01,2015,1,CHA,AL,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NULL
+Jesus,Montero,Jesus Alejandro,monteje01,2015,1,SEA,AL,38,112,11,25,6,0,5,19,0,0,4,32,0,0,0,0,2,NULL
+Mike,Montgomery,Michael Paul,montgmi01,2015,1,SEA,AL,16,3,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,NULL
+Adam,Moore,Adam Ross,mooread01,2015,1,CLE,AL,1,4,0,1,0,0,0,1,0,0,0,2,0,0,0,0,0,NULL
+Brent,Morel,Brenton Andre,morelbr01,2015,1,PIT,NL,3,7,1,2,1,0,0,1,0,0,0,3,0,0,0,0,0,NULL
+Diego,Moreno,Diego Rafael,morendi01,2015,1,NYA,AL,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NULL
+Adam,Morgan,Adam Christopher,morgaad01,2015,1,PHI,NL,15,26,2,2,1,0,0,1,0,0,0,12,0,0,1,0,0,NULL
+Akeel,Morris,Akeel J.,morriak01,2015,1,NYN,NL,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NULL
+Mike,Morse,Michael John,morsemi01,2015,1,MIA,NL,53,160,8,34,4,0,4,12,0,0,12,55,0,2,0,0,6,NULL
+Mike,Morse,Michael John,morsemi01,2015,2,PIT,NL,45,69,6,19,3,1,1,7,0,0,11,21,0,2,0,0,4,NULL
+Jon,Moscot,Jonathan Solomon,moscojo01,2015,1,CIN,NL,3,4,0,1,0,0,0,0,0,0,0,2,0,0,0,0,0,NULL
+Brandon,Moss,Brandon Douglas,mossbr01,2015,2,SLN,NL,51,132,11,33,7,1,4,8,0,1,17,42,2,2,0,0,3,NULL
+Steven,Moya,Steven,moyast01,2015,1,DET,AL,9,22,1,4,0,1,0,0,0,0,3,10,0,0,0,0,0,NULL
+Peter,Moylan,Peter Michael,moylape01,2015,1,ATL,NL,22,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NULL
+Edward,Mujica,Edward Jose,mujiced01,2015,2,OAK,AL,38,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NULL
+Max,Muncy,Maxwell Steven,muncyma01,2015,1,OAK,AL,45,102,14,21,8,1,3,9,0,0,9,31,0,0,0,1,0,NULL
+Daniel,Muno,Daniel Joseph,munoda01,2015,1,NYN,NL,17,27,2,4,1,0,0,0,1,0,4,11,0,0,1,0,1,NULL
+Toru,Murata,Toru,muratto01,2015,1,CLE,AL,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NULL
+David,Murphy,David Matthew,murphda07,2015,2,LAA,AL,48,155,16,41,6,0,5,23,0,1,4,20,0,0,0,1,2,NULL
+Tom,Murphy,Thomas James,murphto04,2015,1,COL,NL,11,35,5,9,1,0,3,9,0,0,4,10,1,0,0,0,0,NULL
+Colton,Murray,Colton James,murraco01,2015,1,PHI,NL,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NULL
+Mike,Napoli,Michael Anthony,napolmi01,2015,2,TEX,AL,35,78,9,23,2,0,5,10,0,2,12,19,1,1,0,0,1,NULL
+Chris,Narveson,Christopher Gregg,narvech01,2015,1,MIA,NL,15,6,1,0,0,0,0,1,0,0,0,4,0,0,1,0,0,NULL
+Daniel,Nava,Daniel James,navada01,2015,2,TBA,AL,31,73,7,17,2,0,1,3,1,0,12,19,0,3,0,0,1,NULL
+Rey,Navarro,Reynaldo,navarre01,2015,1,BAL,AL,10,29,5,8,2,0,1,3,0,0,0,3,0,0,1,0,0,NULL
+Hector,Neris,Hector,nerishe01,2015,1,PHI,NL,32,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,NULL
+Angel,Nesbitt,Angel Ladimir,nesbian01,2015,1,DET,AL,24,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NULL
+Justin,Nicolino,Justin Brian,nicolju01,2015,1,MIA,NL,13,25,0,1,0,0,0,0,0,0,0,8,0,0,2,0,0,NULL
+Kirk,Nieuwenhuis,Kirk Robert,nieuwki01,2015,1,NYN,NL,27,38,3,3,2,0,0,2,2,0,2,17,0,0,0,0,0,NULL
+Kirk,Nieuwenhuis,Kirk Robert,nieuwki01,2015,3,NYN,NL,37,68,14,19,7,0,4,11,0,1,6,23,0,3,0,0,2,NULL
+Rico,Noel,Jablonski Rico,noelri01,2015,1,NYA,AL,15,2,5,1,0,0,0,0,5,2,0,0,0,0,0,0,0,NULL
+Aaron,Nola,Aaron Michael,nolaaa01,2015,1,PHI,NL,13,23,0,2,0,0,0,1,0,0,1,16,0,0,2,0,0,NULL
+Sean,Nolin,Sean Patrick,nolinse01,2015,1,OAK,AL,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NULL
+Nick,Noonan,Nicholas Murphy,noonani01,2015,1,SFN,NL,14,22,2,2,1,0,1,3,0,0,2,8,0,0,0,0,1,NULL
+Bud,Norris,David Stefan,norribu01,2015,2,SDN,NL,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NULL
+Daniel,Norris,Daniel David,norrida01,2015,2,DET,AL,8,2,1,1,0,0,1,2,0,0,1,1,0,0,0,0,0,NULL
+Vidal,Nuno,Vidal Vicente,nunovi01,2015,1,ARI,NL,3,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NULL
+Vidal,Nuno,Vidal Vicente,nunovi01,2015,2,SEA,AL,32,2,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,NULL
+Scott,Oberg,Scott Michael,obergsc01,2015,1,COL,NL,64,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NULL
+Peter,O'Brien,Peter Robert,obriepe04,2015,1,ARI,NL,8,10,1,4,1,0,1,3,0,0,2,5,0,0,0,0,0,NULL
+Eric,O'Flaherty,Eric George,oflaher01,2015,2,NYN,NL,16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NULL
+Nefi,Ogando,Nefi Ismael,ogandne01,2015,1,PHI,NL,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NULL
+Ross,Ohlendorf,Curtis Ross,ohlenro01,2015,1,TEX,AL,21,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NULL
+Hector,Olivera,Hector,olivehe01,2015,1,ATL,NL,24,79,4,20,4,1,2,11,0,0,5,12,0,2,0,1,2,NULL
+Tyler,Olson,Tyler Ray,olsonty01,2015,1,SEA,AL,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NULL
+Mike,Olt,Michael George,oltmi01,2015,2,CHA,AL,24,79,6,16,0,0,3,4,0,1,7,29,0,0,0,0,2,NULL
+Shawn,O'Malley,Shawn Michael,omallsh01,2015,1,SEA,AL,24,42,10,11,1,0,1,7,3,0,12,14,0,0,2,1,0,NULL
+Paulo,Orlando,Paulo Roberto,orlanpa01,2015,1,KCA,AL,86,241,31,60,14,6,7,27,3,3,5,53,0,2,2,1,0,NULL
+Ryan,O'Rourke,Ryan Patrick,orourry01,2015,1,MIN,AL,28,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NULL
+Josh,Osich,Joshua M.,osichjo01,2015,1,SFN,NL,35,1,0,0,0,0,0,0,0,0,0,1,0,0,2,0,0,NULL
+Sean,O'Sullivan,Sean Daniel,osullse01,2015,1,PHI,NL,13,20,2,2,1,0,0,0,0,0,1,10,0,0,2,0,0,NULL
+Roberto,Osuna,Roberto,osunaro01,2015,1,TOR,AL,68,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NULL
+Henry,Owens,Henry Cole,owenshe02,2015,1,BOS,AL,11,2,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,NULL
+Jonathan,Papelbon,Jonathan Robert,papeljo01,2015,2,WAS,NL,22,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NULL
+Jarrett,Parker,Jarrett Paul,parkeja03,2015,1,SFN,NL,21,49,11,17,2,0,6,14,1,1,5,21,0,0,0,0,1,NULL
+Kyle,Parker,Kyle James,parkeky01,2015,1,COL,NL,46,106,10,19,3,1,3,11,1,0,6,37,0,0,0,0,2,NULL
+Chris,Parmelee,Christopher Matthew,parmech01,2015,1,BAL,AL,32,97,11,21,7,1,4,9,0,1,4,26,0,1,0,0,1,NULL
+Gerardo,Parra,Gerardo Enrique,parrage01,2015,2,BAL,AL,55,224,30,53,12,0,5,20,5,1,8,35,1,2,3,1,1,NULL
+Andy,Parrino,Andrew B.,parrian01,2015,1,OAK,AL,17,6,1,0,0,0,0,0,0,0,2,5,0,0,0,0,0,NULL
+Spencer,Patton,Spencer Burdette,pattosp01,2015,1,TEX,AL,27,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NULL
+Ben,Paulsen,Benjamin Michael,paulsbe01,2015,1,COL,NL,116,325,42,90,19,4,11,49,1,2,23,92,0,2,1,3,5,NULL
+James,Pazos,James Manuel,pazosja01,2015,1,NYA,AL,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NULL
+Carlos,Peguero,Carlos Angel,pegueca01,2015,1,TEX,AL,30,70,10,13,4,0,4,9,2,0,12,36,0,1,0,1,1,NULL
+Carlos,Peguero,Carlos Angel,pegueca01,2015,2,BOS,AL,4,5,1,1,0,0,0,0,0,0,1,1,0,0,0,0,0,NULL
+Ariel,Pena,Ariel,penaar01,2015,1,MIL,NL,6,7,0,0,0,0,0,0,0,0,0,6,0,0,0,0,0,NULL
+Francisco,Pena,Francisco Antonio,penafr01,2015,1,KCA,AL,8,7,0,1,0,0,0,0,0,0,0,3,0,0,0,0,1,NULL
+Cliff,Pennington,Clifton Randolph,pennicl01,2015,2,TOR,AL,33,75,9,12,3,0,2,11,0,0,11,20,0,1,3,2,2,NULL
+Jose,Peraza,Jose Francisco,perazjo01,2015,1,LAN,NL,7,22,3,4,1,1,0,1,3,0,2,2,1,0,1,0,0,NULL
+Carlos,Perez,Carlos Eduardo,perezca02,2015,1,LAA,AL,86,260,20,65,13,0,4,21,2,0,19,49,0,0,2,2,7,NULL
+Eury,Perez,Eury Eduardo,perezeu01,2015,1,ATL,NL,47,119,10,32,4,0,0,5,3,1,7,23,1,4,3,0,3,NULL
+Hernan,Perez,Hernan Alejandro,perezhe01,2015,2,MIL,NL,90,230,13,62,15,2,1,21,4,1,4,48,1,0,3,1,4,NULL
+Juan,Perez,Juan Carlos,perezju02,2015,1,SFN,NL,22,39,5,11,3,0,0,2,1,0,1,6,0,0,0,0,1,NULL
+Oliver,Perez,Oliver,perezol01,2015,2,HOU,AL,22,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NULL
+Williams,Perez,Williams David,perezwi01,2015,1,ATL,NL,23,28,2,2,0,0,0,0,0,0,2,13,0,0,4,0,0,NULL
+Shane,Peterson,Shane Aaron,petersh01,2015,1,MIL,NL,93,201,22,52,7,3,2,16,0,1,20,55,1,0,3,1,3,NULL
+Tommy,Pham,Thomas James,phamth01,2015,1,SLN,NL,52,153,28,41,7,5,5,18,2,0,19,41,1,0,0,1,1,NULL
+Stolmy,Pimentel,Stolmy Ramon,pimenst01,2015,1,TEX,AL,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NULL
+Branden,Pinder,Branden Henry,pindebr01,2015,1,NYA,AL,25,1,0,1,1,0,0,1,0,0,0,0,0,0,0,0,0,NULL
+Yohan,Pino,Yohan Jose,pinoyo01,2015,1,KCA,AL,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NULL
+Stephen,Piscotty,Stephen Edward,piscost01,2015,1,SLN,NL,63,233,29,71,15,4,7,39,2,1,20,56,2,1,0,2,7,NULL
+Kevin,Plawecki,Kevin Jeffrey,plaweke01,2015,1,NYN,NL,73,233,18,51,9,0,3,21,0,0,17,60,4,4,1,3,4,NULL
+Jorge,Polanco,Jorge Luis,polanjo01,2015,1,MIN,AL,4,10,1,3,0,0,0,1,1,0,2,1,0,0,0,0,0,NULL
+Ryan,Pressly,Thomas Ryan,pressry01,2015,1,MIN,AL,27,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NULL
+David,Price,David Taylor,priceda01,2015,2,TOR,AL,11,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,NULL
+Jason,Pridie,Jason Orville,pridija01,2015,1,OAK,AL,6,9,0,0,0,0,0,0,0,0,1,4,0,0,0,0,0,NULL
+Kevin,Quackenbush,Kevin Robert,quackke01,2015,1,SDN,NL,57,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NULL
+Aramis,Ramirez,Aramis,ramirar01,2015,2,PIT,NL,56,196,18,48,13,1,6,33,0,0,15,26,0,1,0,2,11,NULL
+J. C.,Ramirez,Juan Carlos,ramirjc01,2015,1,ARI,NL,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NULL
+J. C.,Ramirez,Juan Carlos,ramirjc01,2015,2,SEA,AL,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NULL
+Jose,Ramirez,Jose Altagracia,ramirjo02,2015,1,NYA,AL,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NULL
+Jose,Ramirez,Jose Altagracia,ramirjo02,2015,2,SEA,AL,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NULL
+Noe,Ramirez,Noe,ramirno01,2015,1,BOS,AL,17,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NULL
+Anthony,Ranaudo,Anthony Ronald,ranauan01,2015,1,TEX,AL,4,2,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,NULL
+Rob,Rasmussen,Robert Paul,rasmuro01,2015,1,TOR,AL,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NULL
+Rob,Rasmussen,Robert Paul,rasmuro01,2015,2,SEA,AL,19,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NULL
+Josh,Ravin,Joshua Joseph,ravinjo01,2015,1,LAN,NL,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NULL
+Robbie,Ray,Robert Glenn,rayro02,2015,1,ARI,NL,23,31,0,3,1,0,0,0,0,0,0,14,0,0,5,0,0,NULL
+Colin,Rea,Colin D.,reaco01,2015,1,SDN,NL,7,9,2,2,1,0,0,0,0,0,1,4,0,0,2,0,0,NULL
+J. T.,Realmuto,Jacob Tyler,realmjt01,2015,1,MIA,NL,126,441,49,114,21,7,10,47,8,4,19,70,2,2,1,4,11,NULL
+Chris,Rearick,Christopher Timothy,rearich01,2015,1,SDN,NL,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NULL
+Addison,Reed,Addison Devon,reedad01,2015,2,NYN,NL,17,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NULL
+Chris,Reed,Christopher William,reedch01,2015,1,MIA,NL,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NULL
+Michael,Reed,Michael Benton,reedmi02,2015,1,MIL,NL,7,6,2,2,1,0,0,0,0,0,0,3,0,0,0,0,0,NULL
+Rob,Refsnyder,Robert Daniel,refsnro01,2015,1,NYA,AL,16,43,3,13,3,0,2,5,2,0,3,7,1,0,0,0,3,NULL
+Nolan,Reimold,Nolan G.,reimono01,2015,1,BAL,AL,61,170,24,42,5,1,6,20,0,0,23,47,2,2,0,0,2,NULL
+Ben,Revere,Ben Daniel,reverbe01,2015,2,TOR,AL,56,226,35,72,9,1,1,19,7,2,13,28,0,1,3,3,1,NULL
+Jose,Reyes,Jose Bernabe,reyesjo01,2015,2,COL,NL,47,193,21,50,8,2,3,19,8,4,9,24,0,0,5,1,3,NULL
+Jo-Jo,Reyes,Joseph Albert,reyesjo03,2015,1,LAA,AL,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NULL
+Clayton,Richard,Clayton Colby,richacl01,2015,1,CHN,NL,23,14,1,2,2,0,0,3,0,0,1,6,0,0,0,0,0,NULL
+C. J.,Riefenhauser,Charles Joseph,riefecj01,2015,1,TBA,AL,17,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NULL
+Andre,Rienzo,Andre Albanez,rienzan01,2015,1,MIA,NL,14,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NULL
+Felipe,Rivero,Felipe Javier,riverfe01,2015,1,WAS,NL,49,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NULL
+Yadiel,Rivera,Yadiel,riverya01,2015,1,MIL,NL,7,14,0,1,0,0,0,0,0,0,0,4,0,0,1,0,0,NULL
+Donn,Roach,Donn Mitchell,roachdo01,2015,1,CHN,NL,1,1,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,NULL
+Kenny,Roberts,Kenneth Elwin,roberke02,2015,1,COL,NL,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NULL
+Kenny,Roberts,Kenneth Elwin,roberke02,2015,2,PHI,NL,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NULL
+Hansel,Robles,Hansel Manuel,robleha01,2015,1,NYN,NL,57,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NULL
+Fernando,Rodney,Fernando,rodnefe01,2015,2,CHN,NL,14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NULL
+Carlos,Rodon,Carlos Antonio,rodonca01,2015,1,CHA,AL,26,1,0,0,0,0,0,0,0,0,0,1,0,0,2,0,0,NULL
+Eduardo,Rodriguez,Eduardo Jose,rodried05,2015,1,BOS,AL,21,2,0,0,0,0,0,0,0,0,0,2,0,0,1,0,0,NULL
+Chaz,Roe,Chaz Daniel,roech01,2015,1,BAL,AL,36,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NULL
+Miguel,Rojas,Miguel Elias,rojasmi02,2015,1,MIA,NL,60,142,13,40,7,1,1,17,0,1,11,16,1,0,2,2,4,NULL
+David,Rollins,David Dwane,rollida01,2015,1,SEA,AL,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NULL
+Jamie,Romak,James Robert,romakja01,2015,1,ARI,NL,12,15,2,5,2,0,0,1,0,0,1,6,0,0,0,0,0,NULL
+Enny,Romero,Enny Manuel,romeren01,2015,1,TBA,AL,23,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NULL
+Stefen,Romero,Stefen Daniel,romerst01,2015,1,SEA,AL,13,21,6,4,1,0,1,3,0,0,3,6,0,0,0,0,0,NULL
+Jorge,Rondon,Jorge Leonardo,rondojo01,2015,1,COL,NL,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NULL
+Jorge,Rondon,Jorge Leonardo,rondojo01,2015,2,BAL,AL,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NULL
+Eddie,Rosario,Eddie Manuel,rosared01,2015,1,MIN,AL,122,453,60,121,18,15,13,50,11,6,15,118,3,0,3,3,5,NULL
+Seth,Rosin,Seth Daniel,rosinse01,2015,1,PHI,NL,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NULL
+Cody,Ross,Cody Joseph,rossco01,2015,1,OAK,AL,9,22,3,2,0,0,0,3,0,0,3,6,0,0,0,0,0,NULL
+Zac,Rosscup,Zachary M.,rosscza01,2015,1,CHN,NL,33,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NULL
+Joe,Ross,Joseph Andrew,rossjo01,2015,1,WAS,NL,17,27,2,3,0,0,0,0,0,0,0,11,0,1,2,0,1,NULL
+Drew,Rucinski,Andrew James,rucindr01,2015,1,LAA,AL,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NULL
+Justin,Ruggiano,Justin Marshall,ruggiju01,2015,2,LAN,NL,21,55,12,16,4,1,4,12,2,0,3,14,0,2,0,0,1,NULL
+Nick,Rumbelow,Nicholas Bruno,rumbeni01,2015,1,NYA,AL,17,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NULL
+Chris,Rusin,Christopher Patrick,rusinch01,2015,1,COL,NL,27,46,5,10,0,0,1,4,0,0,0,7,0,0,4,0,0,NULL
+Addison,Russell,Addison Warren,russead02,2015,1,CHN,NL,142,475,60,115,29,1,13,54,4,3,42,149,2,3,1,2,8,NULL
+James,Russell,James Clayton,russeja02,2015,1,CHN,NL,49,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,NULL
+Josh,Rutledge,Joshua Alan,rutlejo01,2015,1,BOS,AL,39,74,11,21,1,0,1,10,0,0,5,26,1,2,1,3,0,NULL
+Kyle,Ryan,Kyle,ryanky01,2015,1,DET,AL,16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NULL
+Marc,Rzepczynski,Marc Walter,rzepcma01,2015,2,SDN,NL,27,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NULL
+Casey,Sadler,Casey Scott,sadleca02,2015,1,PIT,NL,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,NULL
+Tyler,Saladino,Tyler Artolo,saladty01,2015,1,CHA,AL,68,236,33,53,6,4,4,20,8,2,12,51,0,2,3,1,9,NULL
+Danny,Salazar,Daniel Dariel,salazda01,2015,1,CLE,AL,30,4,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,NULL
+Jarrod,Saltalamacchia,Jarrod Scott,saltaja01,2015,1,MIA,NL,9,29,3,2,1,0,1,1,0,0,4,12,0,0,0,0,2,NULL
+Jarrod,Saltalamacchia,Jarrod Scott,saltaja01,2015,2,ARI,NL,70,171,23,43,14,0,8,23,0,0,19,57,0,2,1,1,3,NULL
+Keyvius,Sampson,Keyvius N.,sampske01,2015,1,CIN,NL,13,16,1,0,0,0,0,0,0,0,0,11,0,0,1,0,1,NULL
+Gary,Sanchez,Gary,sanchga02,2015,1,NYA,AL,2,2,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,NULL
+Jerry,Sands,Gerald Robert,sandsje01,2015,1,CLE,AL,50,123,11,29,5,1,4,19,0,0,9,36,0,0,0,1,0,NULL
+Miguel,Sano,Miguel Angel,sanomi01,2015,1,MIN,AL,80,279,46,75,17,1,18,52,1,1,53,119,1,1,0,2,4,NULL
+Domingo,Santana,Domingo Alberto,santado01,2015,1,HOU,AL,14,39,6,10,2,0,2,8,2,1,2,17,0,1,0,0,1,NULL
+Domingo,Santana,Domingo Alberto,santado01,2015,2,MIL,NL,38,121,14,28,5,0,6,18,2,0,18,46,0,4,0,2,1,NULL
+Sergio,Santos,Sergio Jose,santose01,2015,1,LAN,NL,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NULL
+Sergio,Santos,Sergio Jose,santose01,2015,2,NYA,AL,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NULL
+Luis,Sardinas,Luis Alexander,sardilu01,2015,1,MIL,NL,36,97,8,19,0,1,0,4,0,0,6,25,1,0,1,1,3,NULL
+Rob,Scahill,Robert Joseph,scahiro01,2015,1,PIT,NL,28,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NULL
+Scott,Schebler,Scott Anthony,schebsc01,2015,1,LAN,NL,19,36,6,9,0,0,3,4,2,1,3,13,1,1,0,0,0,NULL
+Brian,Schlitter,Brian Patrick,schlibr01,2015,1,CHN,NL,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NULL
+A. J.,Schugel,Andrew Jeffrey,schugaj01,2015,1,ARI,NL,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NULL
+Bo,Schultz,Patrick Bowen,schulbo02,2015,1,TOR,AL,31,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NULL
+Kyle,Schwarber,Kyle Joseph,schwaky01,2015,1,CHN,NL,69,232,52,57,6,1,16,43,3,3,36,77,1,4,0,1,4,NULL
+Xavier,Scruggs,Xavier Ladel,scrugxa01,2015,1,SLN,NL,17,42,5,11,2,0,0,7,1,0,0,10,0,1,0,0,2,NULL
+Corey,Seager,Corey Drew,seageco01,2015,1,LAN,NL,27,98,17,33,8,1,4,17,2,0,14,19,1,1,0,0,2,NULL
+Luis,Severino,Luis,severlu01,2015,1,NYA,AL,11,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NULL
+Pedro,Severino,Pedro,severpe01,2015,1,WAS,NL,2,4,1,1,1,0,0,0,0,0,0,1,0,0,0,0,0,NULL
+Richie,Shaffer,Richard Michael,shaffri01,2015,1,TBA,AL,31,74,11,14,3,0,4,6,0,1,10,32,0,3,0,1,2,NULL
+Travis,Shaw,Travis R.,shawtr01,2015,1,BOS,AL,65,226,31,61,10,0,13,36,0,1,18,57,1,2,0,2,1,NULL
+Grady,Sizemore,Grady,sizemgr01,2015,2,TBA,AL,58,175,20,45,12,0,6,27,3,3,14,37,0,2,0,1,1,NULL
+Carson,Smith,Carson Donald,smithca02,2015,1,SEA,AL,70,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NULL
+Chad,Smith,Chad Dennis,smithch08,2015,1,OAK,AL,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NULL
+Josh,Smith,Joshua,smithjo07,2015,1,CIN,NL,10,9,1,2,0,1,0,0,0,0,0,4,0,0,1,0,0,NULL
+Jake,Smolinski,Jacob Michael,smolija01,2015,2,OAK,AL,41,106,12,24,6,2,5,20,0,1,8,19,0,2,0,2,2,NULL
+Travis,Snider,Travis James,snidetr01,2015,2,PIT,NL,18,26,1,5,3,0,1,8,0,0,3,10,1,0,0,0,0,NULL
+Miguel,Socolovich,Miguel Angel,socolmi01,2015,1,SLN,NL,28,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NULL
+Jhonatan,Solano,Jhonatan,solanjh01,2015,1,MIA,NL,7,20,1,1,1,0,0,2,0,0,1,1,0,0,0,0,0,NULL
+Sammy,Solis,Samuel Robert,solissa01,2015,1,WAS,NL,18,2,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,NULL
+Joakim,Soria,Joakim Agustin,soriajo01,2015,2,PIT,NL,29,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NULL
+Rafael,Soriano,Rafael,soriara01,2015,1,CHN,NL,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NULL
+Giovanni,Soto,Giovanni Luis,sotogi01,2015,1,CLE,AL,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NULL
+Cody,Stanley,Cody Franklin,stanlco01,2015,1,SLN,NL,9,10,2,4,1,0,0,3,0,0,0,3,0,0,0,0,0,NULL
+Max,Stassi,Max Robert,stassma01,2015,1,HOU,AL,11,15,4,6,0,0,1,2,0,0,1,5,0,0,1,0,1,NULL
+Tim,Stauffer,Timothy James,staufti01,2015,2,NYN,NL,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NULL
+Dan,Straily,Daniel Steven,straida01,2015,1,HOU,AL,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NULL
+Ryan,Strausborger,Ryan Lee,straury01,2015,1,TEX,AL,31,45,9,9,0,0,1,3,2,1,3,11,0,0,1,2,1,NULL
+Hunter,Strickland,Hunter Drew,strichu01,2015,1,SFN,NL,55,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,NULL
+Drew,Stubbs,Robert Andrew,stubbdr01,2015,2,TEX,AL,27,21,6,2,1,0,0,0,3,0,5,10,0,0,0,0,0,NULL
+Eric,Stults,Eric William,stulter01,2015,1,ATL,NL,9,13,0,1,0,0,0,0,0,0,0,7,0,0,3,0,0,NULL
+Eugenio,Suarez,Eugenio Alejandro,suareeu01,2015,1,CIN,NL,97,372,42,104,19,2,13,48,4,1,17,94,0,3,4,2,7,NULL
+Eric,Surkamp,Eric Michael,surkaer01,2015,1,LAN,NL,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,NULL
+Andrew,Susac,Andrew John,susacan01,2015,1,SFN,NL,52,133,14,29,7,2,3,14,0,0,14,43,0,1,0,0,2,NULL
+Darnell,Sweeney,Darnell Thomas,sweenda02,2015,1,PHI,NL,37,85,9,15,4,1,3,11,0,2,13,27,0,0,0,0,1,NULL
+Blake,Swihart,Blake Aubry,swihabl01,2015,1,BOS,AL,84,288,47,79,17,1,5,31,4,2,18,77,0,1,2,0,8,NULL
+Nick,Swisher,Nicholas Thomas,swishni01,2015,2,ATL,NL,46,118,8,23,5,0,4,17,0,0,27,30,0,2,0,2,7,NULL
+Noah,Syndergaard,Noah Seth,syndeno01,2015,1,NYN,NL,24,43,2,9,1,0,1,4,0,0,1,26,0,0,6,0,0,NULL
+Travis,Tartamella,Travis Scott,tartatr01,2015,1,SLN,NL,3,2,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,NULL
+Everett,Teaford,Everett James,teafoev01,2015,1,TBA,AL,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NULL
+Taylor,Teagarden,Taylor Hill,teagata01,2015,1,CHN,NL,8,15,0,3,0,0,0,2,0,0,0,4,0,0,0,0,1,NULL
+Tomas,Telis,Tomas,telisto01,2015,1,TEX,AL,6,11,1,2,0,0,0,2,0,0,0,1,0,1,0,0,0,NULL
+Tomas,Telis,Tomas,telisto01,2015,2,MIA,NL,17,27,1,4,0,0,0,0,0,0,1,3,1,1,0,0,2,NULL
+Ryan,Tepera,Dennis Ryan,teperry01,2015,1,TOR,AL,32,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NULL
+Caleb,Thielbar,Caleb John,thielca01,2015,1,MIN,AL,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NULL
+Ian,Thomas,Ian Drew,thomaia01,2015,1,ATL,NL,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NULL
+Ian,Thomas,Ian Drew,thomaia01,2015,2,LAN,NL,9,3,1,0,0,0,0,0,0,0,1,1,0,0,0,0,1,NULL
+Trayce,Thompson,Trayce Nikolas,thomptr01,2015,1,CHA,AL,44,122,17,36,8,3,5,16,1,0,13,26,0,0,0,0,3,NULL
+Kelby,Tomlinson,Kelby Aaron,tomlike01,2015,1,SFN,NL,54,178,23,54,6,3,2,20,5,4,14,40,0,1,0,0,3,NULL
+Michael,Tonkin,Michael Harvey,tonkimi01,2015,1,MIN,AL,26,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NULL
+Ronald,Torreyes,Ronald Alcides,torrero01,2015,1,LAN,NL,8,6,1,2,1,0,0,1,0,0,1,1,0,0,1,0,0,NULL
+Matt,Tracy,Matthew J.,tracyma01,2015,1,NYA,AL,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NULL
+Devon,Travis,Devon Anthony,travide01,2015,1,TOR,AL,62,217,38,66,18,0,8,35,3,1,18,43,0,2,0,1,4,NULL
+Nick,Tropeano,Nicholas Paul,tropeni01,2015,1,LAA,AL,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NULL
+Mark,Trumbo,Mark Daniel,trumbma01,2015,2,SEA,AL,96,334,39,88,13,0,13,41,0,0,26,93,1,0,0,1,8,NULL
+Chin-hui,Tsao,Chin-hui,tsaoch01,2015,1,LAN,NL,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,NULL
+Preston,Tucker,Preston M.,tuckepr01,2015,1,HOU,AL,98,300,35,73,19,0,13,33,0,2,20,68,0,3,0,0,3,NULL
+Sam,Tuivailala,Samuel Johnathan,tuivasa01,2015,1,SLN,NL,14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NULL
+Troy,Tulowitzki,Troy Trever,tulowtr01,2015,2,TOR,AL,41,163,31,39,8,0,5,17,1,0,14,42,1,5,0,1,4,NULL
+Trea,Turner,Trea Vance,turnetr01,2015,1,WAS,NL,27,40,5,9,1,0,1,1,2,2,4,12,0,0,0,0,0,NULL
+Jose,Urena,Jose Miguel,urenajo01,2015,1,MIA,NL,20,13,0,1,0,0,0,0,0,0,0,9,0,0,0,0,0,NULL
+Juan,Uribe,Juan C.,uribeju01,2015,2,ATL,NL,46,151,17,43,6,0,7,17,1,0,15,37,2,1,0,0,5,NULL
+Juan,Uribe,Juan C.,uribeju01,2015,3,NYN,NL,44,128,17,28,9,0,6,20,0,0,14,34,1,1,0,0,2,NULL
+Henry,Urrutia,Henry Alexander,urruthe01,2015,1,BAL,AL,10,34,3,9,1,0,1,6,0,0,2,3,0,0,0,0,1,NULL
+Giovanny,Urshela,Giovanny,urshegi01,2015,1,CLE,AL,81,267,25,60,8,1,6,21,0,1,18,58,0,2,1,0,9,NULL
+Chase,Utley,Chase Cameron,utleych01,2015,2,LAN,NL,34,124,14,25,9,1,3,9,1,0,10,29,0,6,0,1,1,NULL
+Jordany,Valdespin,Jordany V.,valdejo02,2015,1,MIA,NL,2,4,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,NULL
+Jose,Valdez,Jose Alfredo,valdejo03,2015,1,DET,AL,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NULL
+Danny,Valencia,Daniel Paul,valenda01,2015,1,TOR,AL,58,162,26,48,13,0,7,29,2,1,9,40,0,0,1,1,4,NULL
+Donnie,Veal,Donald Tyrone,vealdo01,2015,1,ATL,NL,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NULL
+Vincent,Velasquez,Vincent John,velasvi01,2015,1,HOU,AL,19,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NULL
+Will,Venable,William Dion,venabwi01,2015,2,TEX,AL,37,66,6,12,3,0,0,3,5,0,12,21,2,2,2,0,0,NULL
+Pat,Venditte,Patrick Michael,vendipa01,2015,1,OAK,AL,26,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,NULL
+Drew,VerHagen,Drew Edward,verhadr01,2015,1,DET,AL,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NULL
+Logan,Verrett,Scott Logan,verrelo01,2015,1,TEX,AL,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NULL
+Logan,Verrett,Scott Logan,verrelo01,2015,2,NYN,NL,14,7,0,0,0,0,0,0,0,0,0,2,0,0,1,0,0,NULL
+Shane,Victorino,Shane Patrick,victosh01,2015,2,LAA,AL,38,84,9,18,2,2,0,3,2,0,7,18,1,3,2,2,1,NULL
+Jonathan,Villar,Jonathan Rafael,villajo01,2015,1,HOU,AL,53,116,18,33,7,1,2,11,7,2,10,29,0,0,1,1,3,NULL
+Pedro,Villarreal,Pedro A.,villape01,2015,1,CIN,NL,29,6,0,1,1,0,0,2,0,0,0,3,0,0,0,0,0,NULL
+Arodys,Vizcaino,Arodys,vizcaar01,2015,1,ATL,NL,36,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NULL
+Chris,Volstad,Christopher Kenneth,volstch01,2015,1,PIT,NL,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NULL
+Tyler,Wagner,Tyler Joseph,wagnety01,2015,1,MIL,NL,3,3,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,NULL
+Kyle,Waldrop,Kyle Michael,waldrky02,2015,1,CIN,NL,1,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,NULL
+Christian,Walker,Christian Dickson,walkech02,2015,1,BAL,AL,7,9,0,1,0,0,0,0,0,0,3,4,0,0,0,0,0,NULL
+Brett,Wallace,Brett Alexander,wallabr01,2015,1,SDN,NL,64,96,14,29,6,0,5,16,0,0,10,31,1,1,0,0,1,NULL
+Daniel,Webb,Robert McDaniel,webbda01,2015,1,CHA,AL,27,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NULL
+Ryan,Webb,Ryan Christopher,webbry01,2015,1,CLE,AL,40,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NULL
+Ryan,Weber,James Ryan,weberry01,2015,1,ATL,NL,5,10,0,0,0,0,0,0,0,0,0,8,0,0,0,0,0,NULL
+Allen,Webster,Carl Allen,webstal01,2015,1,ARI,NL,9,11,1,0,0,0,0,0,0,0,0,6,0,0,0,0,0,NULL
+Jemile,Weeks,Jemile Nykiwa,weeksje01,2015,1,BOS,AL,3,9,1,3,0,0,0,1,0,0,0,2,0,0,0,0,0,NULL
+Matt,West,Matthew Robert O'Neil,westma03,2015,1,LAN,NL,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NULL
+Chase,Whitley,Chase Coleman,whitlch01,2015,1,NYA,AL,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NULL
+Adam,Wilk,Adam Robert,wilkad01,2015,1,LAA,AL,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NULL
+Jackson,Williams,Jackson Thomas,willija01,2015,1,SFN,NL,7,10,1,2,1,0,0,1,1,0,4,1,0,0,0,0,0,NULL
+Jerome,Williams,Jerome Lee,willije02,2015,1,PHI,NL,33,31,0,2,1,0,0,1,0,0,1,14,0,0,4,0,0,NULL
+Mason,Williams,Mason,willima07,2015,1,NYA,AL,8,21,3,6,3,0,1,3,0,0,1,3,0,0,0,0,0,NULL
+Mac,Williamson,Johnathan Mackensey,willima08,2015,1,SFN,NL,10,32,2,7,0,1,0,1,0,0,0,8,0,1,0,1,1,NULL
+Alex,Wilson,William Alexander,wilsoal01,2015,1,DET,AL,59,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NULL
+Bobby,Wilson,Robert Louis,wilsobo02,2015,2,TEX,AL,31,77,5,17,5,0,1,10,0,1,7,19,0,1,2,1,0,NULL
+Josh,Wilson,Joshua Aaron,wilsojo03,2015,1,DET,AL,21,38,4,12,3,0,0,5,0,0,0,15,0,2,1,0,1,NULL
+Tyler,Wilson,Philip Tyler,wilsoty01,2015,1,BAL,AL,9,2,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,NULL
+Daniel,Winkler,Daniel Allen,winklda01,2015,1,ATL,NL,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NULL
+Matt,Wisler,Matthew Robert,wislema01,2015,1,ATL,NL,21,29,0,4,0,0,0,1,0,0,2,6,0,0,5,0,0,NULL
+Asher,Wojciechowski,Randall Asher,wojcias01,2015,1,HOU,AL,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NULL
+Randy,Wolf,Randall Christopher,wolfra02,2015,1,DET,AL,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NULL
+Alex,Wood,Robert Alexander,woodal02,2015,2,LAN,NL,12,22,1,4,1,0,0,0,0,0,1,13,0,0,3,0,1,NULL
+Mike,Wright,Dennis Michael,wrighmi01,2015,1,BAL,AL,12,2,0,1,0,0,0,0,0,0,0,1,0,0,1,0,0,NULL
+Wesley,Wright,Dequam LaWesley,wrighwe01,2015,1,BAL,AL,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NULL
+Wesley,Wright,Dequam LaWesley,wrighwe01,2015,2,LAA,AL,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NULL
+Rafael,Ynoa,Argelis Rafael,ynoara01,2015,1,COL,NL,72,127,14,33,8,1,0,9,1,0,3,28,0,0,1,0,2,NULL
+Eric,Young,Eric Orlando,younger03,2015,2,NYN,NL,18,8,9,0,0,0,0,0,3,2,0,1,0,1,0,0,0,NULL
+Barry,Zito,Barry William,zitoba01,2015,1,OAK,AL,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NULL
+Ben,Zobrist,Benjamin Thomas,zobribe01,2015,2,KCA,AL,59,232,37,66,16,1,7,23,2,3,29,30,1,1,0,2,3,NULL
+Tony,Zych,Anthony Aaron,zychto01,2015,1,SEA,AL,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NULL
